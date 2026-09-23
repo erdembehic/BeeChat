@@ -1,0 +1,9 @@
+.git
+__pycache__
+*.pyc
+*.pyo
+.env
+.env.*
+qdrant_storage
+mevzuat/
+node_modules

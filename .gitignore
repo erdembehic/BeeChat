@@ -1,0 +1,8 @@
+.env
+.env.local
+.env.production
+__pycache__/
+*.pyc
+*.pyo
+qdrant_storage/
+.chainlit/

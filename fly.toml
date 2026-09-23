@@ -1,0 +1,24 @@
+app            = "beechat-itu"
+primary_region = "ams"          # Amsterdam — Türkiye'ye en yakın Fly bölgesi
+
+[build]
+
+[env]
+  PORT = "8000"
+
+[http_service]
+  internal_port       = 8000
+  force_https         = true
+  auto_stop_machines  = true   # trafiksizken uyur (free tier)
+  auto_start_machines = true   # istek gelince uyanır (~3s cold start)
+  min_machines_running = 0
+
+  [http_service.concurrency]
+    type       = "requests"
+    soft_limit = 25
+    hard_limit = 50
+
+[[vm]]
+  memory   = "1gb"
+  cpu_kind = "shared"
+  cpus     = 1

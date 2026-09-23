@@ -1,44 +1,31 @@
-"""Hybrid retrieval + cross-ref expansion + reranking."""
+"""Dense retrieval + cross-ref expansion + Cohere reranking."""
+from __future__ import annotations
+
 import json
-from sentence_transformers import SentenceTransformer, CrossEncoder
+import os
+
 from qdrant_client import QdrantClient
-from qdrant_client.models import (
-    NamedVector, NamedSparseVector, SparseVector,
-    SearchRequest, FusionQuery, Fusion, PrefetchQuery, Query,
-)
-from fastembed import SparseTextEmbedding
+from qdrant_client.models import Filter, FieldCondition, MatchValue
 
 from .config import Config, cfg as default_cfg
+from .embedder import embed_query
+from .reranker_api import rerank
 from .models import Chunk, RetrievedChunk
 
 
-def _e5_query(text: str) -> str:
-    return "query: " + text
+def _get_client(cfg: Config) -> QdrantClient:
+    url     = os.environ.get("QDRANT_URL", f"http://{cfg.qdrant_host}:{cfg.qdrant_port}")
+    api_key = os.environ.get("QDRANT_API_KEY")
+    return QdrantClient(url=url, api_key=api_key)
 
 
 class Retriever:
     def __init__(self, cfg: Config = default_cfg):
-        self.cfg = cfg
-        self.client = QdrantClient(host=cfg.qdrant_host, port=cfg.qdrant_port)
+        self.cfg    = cfg
+        self.client = _get_client(cfg)
 
-        print("Dense model yükleniyor...")
-        self.dense = SentenceTransformer(cfg.dense_model)
+    # ── Yardımcılar ───────────────────────────────────────────────────── #
 
-        print("Sparse model yükleniyor...")
-        self.sparse = SparseTextEmbedding(model_name="Qdrant/bm25")
-
-        print("Reranker yükleniyor...")
-        self.reranker = CrossEncoder(cfg.reranker_model)
-
-    # ------------------------------------------------------------------ #
-    def _dense_vec(self, text: str) -> list[float]:
-        return self.dense.encode(_e5_query(text), normalize_embeddings=True).tolist()
-
-    def _sparse_vec(self, text: str) -> SparseVector:
-        sv = list(self.sparse.embed([text]))[0]
-        return SparseVector(indices=sv.indices.tolist(), values=sv.values.tolist())
-
-    # ------------------------------------------------------------------ #
     def _payload_to_chunk(self, payload: dict, score: float, source: str) -> RetrievedChunk:
         atiflar_list = json.loads(payload.get("atiflar_json", "[]"))
         chunk = Chunk(
@@ -48,98 +35,78 @@ class Retriever:
         )
         return RetrievedChunk(chunk=chunk, score=score, source=source)
 
-    # ------------------------------------------------------------------ #
-    def hybrid_search(self, query: str) -> list[RetrievedChunk]:
-        """RRF fusion: dense + sparse."""
-        dense_vec  = self._dense_vec(query)
-        sparse_vec = self._sparse_vec(query)
+    # ── 1. Dense search ───────────────────────────────────────────────── #
 
-        results = self.client.query_points(
+    def dense_search(
+        self,
+        query: str,
+        limit: int | None = None,
+        qfilter: Filter | None = None,
+    ) -> list[RetrievedChunk]:
+        vec = embed_query(query)
+        results = self.client.search(
             collection_name=self.cfg.collection_name,
-            prefetch=[
-                PrefetchQuery(
-                    query=NamedVector(name="dense", vector=dense_vec),
-                    limit=self.cfg.retrieve_top_k,
-                ),
-                PrefetchQuery(
-                    query=NamedSparseVector(
-                        name="sparse",
-                        vector=sparse_vec,
-                    ),
-                    limit=self.cfg.retrieve_top_k,
-                ),
-            ],
-            query=FusionQuery(fusion=Fusion.RRF),
-            limit=self.cfg.retrieve_top_k,
+            query_vector=vec,
+            limit=limit or self.cfg.retrieve_top_k,
+            query_filter=qfilter,
             with_payload=True,
         )
+        return [self._payload_to_chunk(r.payload, r.score, "dense") for r in results]
 
-        return [
-            self._payload_to_chunk(r.payload, r.score, "hybrid")
-            for r in results.points
-        ]
+    # ── 2. Cross-ref expansion ────────────────────────────────────────── #
 
-    # ------------------------------------------------------------------ #
     def expand_refs(self, retrieved: list[RetrievedChunk]) -> list[RetrievedChunk]:
-        """Retrieval sonucu gelen chunk'ların referans ettiği maddeleri çek."""
-        existing_ids = {rc.chunk.id for rc in retrieved}
-        to_fetch_ids = []
-
+        existing = {rc.chunk.id for rc in retrieved}
+        to_fetch = []
         for rc in retrieved:
             for atif in rc.chunk.atiflar:
-                if atif.madde:
-                    cid = f"{atif.no}_madde_{atif.madde}"
-                else:
-                    # Madde belirtilmemiş — kanunun 1. ve 2. maddesi (amaç/kapsam)
-                    cid = f"{atif.no}_madde_1"
-                if cid not in existing_ids:
-                    to_fetch_ids.append(cid)
-                    existing_ids.add(cid)
+                cid = (
+                    f"{atif.no}_madde_{atif.madde}"
+                    if atif.madde
+                    else f"{atif.no}_madde_1"
+                )
+                if cid not in existing:
+                    to_fetch.append(cid)
+                    existing.add(cid)
 
-        if not to_fetch_ids:
+        if not to_fetch:
             return retrieved
 
-        # Hash ID'leri hesapla
-        hash_ids = [abs(hash(cid)) % (2**63) for cid in to_fetch_ids]
-
-        results = self.client.retrieve(
+        hash_ids = [abs(hash(cid)) % (2**63) for cid in to_fetch]
+        records  = self.client.retrieve(
             collection_name=self.cfg.collection_name,
             ids=hash_ids,
             with_payload=True,
         )
-
         extra = [
             self._payload_to_chunk(r.payload, 0.0, "ref_expansion")
-            for r in results
+            for r in records
             if r.payload
         ]
         return retrieved + extra
 
-    # ------------------------------------------------------------------ #
-    def rerank(self, query: str, candidates: list[RetrievedChunk]) -> list[RetrievedChunk]:
-        """Cross-encoder ile top-K'ya daralt."""
+    # ── 3. Rerank ─────────────────────────────────────────────────────── #
+
+    def rerank_chunks(self, query: str, candidates: list[RetrievedChunk]) -> list[RetrievedChunk]:
         if not candidates:
             return candidates
+        docs   = [rc.chunk.content for rc in candidates]
+        ranked = rerank(query, docs, top_n=self.cfg.rerank_top_k)
+        result = []
+        for orig_idx, score in ranked:
+            rc       = candidates[orig_idx]
+            rc.score = score
+            result.append(rc)
+        return result
 
-        pairs = [(query, rc.chunk.content) for rc in candidates]
-        scores = self.reranker.predict(pairs)
+    # ── Ana metod ─────────────────────────────────────────────────────── #
 
-        ranked = sorted(
-            zip(candidates, scores),
-            key=lambda x: x[1],
-            reverse=True,
-        )
-        top = ranked[: self.cfg.rerank_top_k]
-        for rc, score in top:
-            rc.score = float(score)
-        return [rc for rc, _ in top]
-
-    # ------------------------------------------------------------------ #
-    def retrieve(self, query: str) -> list[RetrievedChunk]:
-        """Tam pipeline: hybrid → expand → rerank."""
-        candidates = self.hybrid_search(query)
-
+    def retrieve(
+        self,
+        query: str,
+        qfilter: Filter | None = None,
+    ) -> list[RetrievedChunk]:
+        candidates = self.dense_search(query, qfilter=qfilter)
         if self.cfg.expand_refs:
             candidates = self.expand_refs(candidates)
-
-        return self.rerank(query, candidates)
+        return self.rerank_chunks(query, candidates)
