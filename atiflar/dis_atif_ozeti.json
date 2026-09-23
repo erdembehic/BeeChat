@@ -1,0 +1,30 @@
+[
+  {
+    "no": "2547",
+    "ad": "Yükseköğretim Kanunu",
+    "tur": "Kanun",
+    "toplam_atif": 113,
+    "kaynak_sayi": 53
+  },
+  {
+    "no": "5018",
+    "ad": "Kamu Malî Yönetimi ve Kontrol Kanunu",
+    "tur": "Kanun",
+    "toplam_atif": 2,
+    "kaynak_sayi": 1
+  },
+  {
+    "no": "2914",
+    "ad": "Yükseköğretim Personel Kanunu",
+    "tur": "Kanun",
+    "toplam_atif": 1,
+    "kaynak_sayi": 1
+  },
+  {
+    "no": "1739",
+    "ad": "Milli Eğitim Temel Kanunu",
+    "tur": "Kanun",
+    "toplam_atif": 1,
+    "kaynak_sayi": 1
+  }
+]

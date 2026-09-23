@@ -1,0 +1,38 @@
+[
+  {
+    "mevzuatNo": "1739",
+    "baslik": "Milli Eğitim Temel Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "14/6/1973",
+    "bolumSayisi": 13,
+    "maddeSayisi": 68,
+    "atifSayisi": 12
+  },
+  {
+    "mevzuatNo": "2547",
+    "baslik": "Yükseköğretim Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "4/11/1981",
+    "bolumSayisi": 10,
+    "maddeSayisi": 173,
+    "atifSayisi": 160
+  },
+  {
+    "mevzuatNo": "2914",
+    "baslik": "Yükseköğretim Personel Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "11/10/1983",
+    "bolumSayisi": 1,
+    "maddeSayisi": 35,
+    "atifSayisi": 43
+  },
+  {
+    "mevzuatNo": "5018",
+    "baslik": "Kamu Malî Yönetimi ve Kontrol Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "10/12/2003",
+    "bolumSayisi": 21,
+    "maddeSayisi": 108,
+    "atifSayisi": 32
+  }
+]
