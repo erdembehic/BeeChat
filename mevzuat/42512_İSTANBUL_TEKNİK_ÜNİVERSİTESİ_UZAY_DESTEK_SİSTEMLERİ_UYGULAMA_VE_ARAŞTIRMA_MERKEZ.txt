@@ -1,0 +1,174 @@
+MEVZUAT NO: 42512
+RG TARİHİ: 29.07.2025
+RG SAYISI: 32970
+KAYNAK: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42512&MevzuatTur=8&MevzuatTertip=5
+================================================================================
+İSTANBUL TEKNİK ÜNİVERSİTESİ UZAY DESTEK SİSTEMLERİ
+
+UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+ 
+
+BİRİNCİ BÖLÜM
+
+Başlangıç Hükümleri
+
+Amaç
+
+MADDE 1- (1) Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Uzay Destek Sistemleri Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+Kapsam
+
+MADDE 2- (1) Bu Yönetmelik; İstanbul Teknik Üniversitesi Uzay Destek Sistemleri Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+Dayanak
+
+MADDE 3- (1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+Tanımlar
+
+MADDE 4- (1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez: İstanbul Teknik Üniversitesi Uzay Destek Sistemleri Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: İstanbul Teknik Üniversitesi Rektörünü,
+
+d) TUA: Türkiye Uzay Ajansını,
+
+e) Üniversite: İstanbul Teknik Üniversitesini,
+
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+İKİNCİ BÖLÜM
+
+Merkezin Amacı ve Faaliyet Alanları
+
+Merkezin amacı
+
+MADDE 5- (1) Merkezin amacı; TUA’nın eşgüdümünde uzay görevleri için Komuta Kontrol Merkezi kurulması, milli kaynaklı bileşenlerinin geliştirilmesi ve işletilmesi; uzay görevleri ve gözlem sistemlerinde ihtiyaç duyulan veri-bilgi-hizmet dönüşümü için gerçek-zamanlı sistemler geliştirilmesi ve kurulması; insanlı ve insansız uzay araç, tesis ve altyapılarında yenilikçi enerji, uzay havası, iletişim, navigasyon, veri toplama, veri işleme, karar destek sistemleri, yapay zeka, mekatronik, modelleme, canlandırma, dijital ikiz, yönetim, yaşam, lojistik ve malzeme teknolojilerine dayalı destek sistemlerine yönelik Ar-Ge projeleri yapılması ve hayata geçirilmesi; ulusal ve uluslararası akademik, sektörel ve toplumsal yayım, eğitim ve iş birlikleri yapılmasıdır.
+
+Merkezin faaliyet alanları
+
+MADDE 6- (1) Merkezin faaliyet alanları şunlardır:
+
+a) Uzay görevlerinin yürütülmesi ve hava/uzay araçları, uzay havası, altyapı ve gözlem sistemleri için bilişim sistemleri ile yaşam, lojistik, mekatronik, elektronik, enerji, malzeme, yönetim ve iletişim teknolojilerinin kullanımını gerektiren destek sistem ihtiyaçlarına yönelik konularda araştırma-geliştirme (Ar-Ge) faaliyetleri yapmak; buna yönelik bileşen ve sistemleri tasarlamak, kurmak, entegre etmek ve işletmek; bu amaçla referans uzmanlık kaynağı oluşturmak.
+
+b) Merkezin amaçları doğrultusunda içerik hazırlamak, derlemek, yayın ve yayım faaliyeti yapmak, toplantı, eğitim ve tanıtım faaliyetleri düzenlemek ve konuyla ilgili akademik faaliyetlere, toplantı ve organizasyonlara katılım sağlamak.
+
+c) Uzay görev, altyapı ve araçları ile gözlem ve yönetim sistemlerinden elde edilen verilerin derlenmesi, kıymetlendirilmesi, çevrim içi ve gerçek zamanlı hizmetlere dönüştürülmesi için gereken sistemleri araştırmak, projelendirmek, geliştirmek, kurmak, işletmek, katılımcı kurumlar ve sektörel ihtiyaçları karşılamaya yönelik bilgiye dönüştürmek için Ar-Ge çalışmaları yapmak ve uygulamaya koymak.
+
+ç) Faaliyetlerine destek sağlamak üzere proje üretmek, iş ve hizmet modelleri geliştirmek ve uygulamak.
+
+ÜÇÜNCÜ BÖLÜM
+
+Merkezin Yönetim Organları ve Görevleri
+
+Merkezin yönetim organları
+
+MADDE 7- (1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+Müdür
+
+MADDE 8- (1) Müdür, Merkezin faaliyet alanları ve Merkez projeleri ile ilgili çalışmaları ve tecrübesi bulunan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir.
+
+(2) Herhangi bir sebeple görevi sona eren Müdürün yerine, aynı usulle görevlendirme yapılır. Süresini tamamlamadan ayrılan veya görevden alınan Müdürün yerine kalan süreyi tamamlamak üzere yeni Müdür görevlendirilir.
+
+Müdürün görevleri
+
+MADDE 9- (1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Merkez personelinin düzenli ve verimli çalışmasını sağlamak.
+
+c) Yönetim Kurulu Başkanının bulunmadığı durumlarda Yönetim Kuruluna başkanlık etmek, Danışma Kuruluna başkanlık etmek ve toplantı gündemini hazırlamak.
+
+ç) Yönetim Kurulu kararlarının uygulanmasını sağlamak.
+
+d) Merkez bütçe tasarısını, faaliyet raporunu ve çalışma programını hazırlayarak Yönetim Kurulunun onayını aldıktan sonra Rektöre sunmak.
+
+e) Birim yöneticilerini belirlemek ve Yönetim Kurulunun onayına sunmak.
+
+f) Merkezin teknolojik, akademik, idari ve mali hedeflerine ulaşması için Merkez birimlerinin yönetimini sağlamak.
+
+g) Merkez projelerinin bütüncül hedeflere ulaşması için gerekli koordinasyonu sağlamak.
+
+ğ) İlgili diğer iş ve işlemleri yapmak.
+
+Yönetim Kurulu
+
+MADDE 10- (1) Yönetim Kurulu; Müdür ile Merkezin amaçları ve faaliyet alanları ile ilgili konularda yetkin, Rektör tarafından görevlendirilen iki öğretim üyesi, ilgili mevzuat hükümleri çerçevesinde görevlendirilen üçü TUA personeli olmak üzere Üniversite dışından toplam dört üye dahil yedi üyeden oluşur.
+
+(2) Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılanların veya görev değişikliği olanların yerine kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.
+
+(3) Yönetim Kurulu, ilk toplantısında Yönetim Kurulu üyeleri içerisinden bir üyeyi, oylama ile Yönetim Kurulu başkanı olarak seçer. Yönetimi Kurulu Başkanı seçimi için, toplantı katılım oranından bağımsız olarak en az dört üyenin oyunu alma şartı aranır. Yönetim Kurulu aksi yönde bir karar almadığı, Yönetim Kurulunda temsile engel hukuki ya da herhangi bir mücbir neden oluşmadığı sürece Yönetim Kurulu Başkanı üyelik dönemi süresince bu görevi yürütür. Yönetim Kurulu Başkanının görevinin sona erdiği hallerde aynı yöntemle Yönetim Kurulu yeni başkanını belirler; yeni seçilen başkan, ayrılan başkanın görev süresini tamamlar.
+
+(4) Yönetim Kurulu; Başkanın çağrısı ile yılda en az 6 kez salt çoğunlukla toplanır ve kararlar toplantıya katılanların oy çokluğuyla alınır.
+
+Yönetim Kurulunun görevleri
+
+MADDE 11- (1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin etkinlikleri ve yönetimiyle ilgili konuları görüşüp karara bağlamak.
+
+b) Merkezin bütçe tasarısını, faaliyet raporunu ve çalışma programını görüşerek onaylamak.
+
+c) Merkezin bireysel, kamusal ve kurumlar arası hizmet ve ilişkilerini belirlemek, diğer ilgili kurumlarla iş birliği halinde anlaşmaları şekillendirmek ve onay vermek.
+
+ç) Merkeze yapılan proje tekliflerini değerlendirmek, kabul etmek ve bütçelerini onaylamak.
+
+d) Merkezin stratejik plan ve performans programını onaylamak.
+
+e) Merkezin akademik, teknik ve idari personel organizasyonunu değerlendirmek ve onaylamak, ihtiyaç duyulması halinde yeni uygulama birimleri kurmak, bunların sayısında ve yapılarında değişiklik yapmak.
+
+f) Danışma Kurulunun ve TUA’nın görüşlerini değerlendirmek ve buna bağlı olarak Merkez faaliyetlerini düzenlemek.
+
+Danışma Kurulu ve görevleri
+
+MADDE 12- (1) Danışma Kurulu; Müdür ile Merkezin amacı doğrultusunda çalışma yapan ilgili kişiler ve istekleri halinde diğer kurum temsilcileri arasından Yönetim Kurulunun önerisi üzerine Rektör tarafından görevlendirilen en az beş, en fazla yirmi üyeden oluşur.
+
+(2) Danışma Kurulu üyelerinin görev süresi üç yıldır. Görev süresi dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyelerin yerine aynı usulle yeni üyeler görevlendirilir; yeni seçilen üye ayrılan üyenin görev süresini tamamlar.
+
+(3) Danışma Kurulunun görevi; Müdürün daveti üzerine yılda en az bir kez toplanarak, Merkezin çalışma alanına giren konular hakkında bilgi alıp, görüşlerini bildirmek, tartışılmasını sağlamak, yeni çalışma konuları ve yöntemler üzerinde önerilerde bulunmak ve Merkezin ihtiyaç duyduğu alanlarda strateji geliştirmektir.
+
+DÖRDÜNCÜ BÖLÜM
+
+Çeşitli ve Son Hükümler
+
+Merkezin uygulama birimleri
+
+MADDE 13- (1) İhtiyaçlar doğrultusunda, Yönetim Kurulunun kararı ile Merkezde uygulama birimleri kurulabilir ve bunların sayısında ve yapılarında değişiklik yapılabilir.
+
+Personel ihtiyacı
+
+MADDE 14- (1) Merkezde görevlendirecek teknik, idari ve akademik personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+Anlaşmalar, kaynakların kullanımı ve iş birliği
+
+MADDE 15- (1) Merkez faaliyetleri, öncelikle Üniversite ile TUA arasında imzalanan protokollere istinaden tahsis edilen alanlarda, protokol ve eklerinde belirtilen koşul, bütçe ve kaynak kullanım hükümlerine göre yürütülür.
+
+Hüküm bulunmayan haller
+
+MADDE 16- (1) Bu Yönetmelikte hüküm bulunmayan hallerde 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+
+Yürürlük
+
+MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+Yürütme
+
+MADDE 18- (1) Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.
+
+ 

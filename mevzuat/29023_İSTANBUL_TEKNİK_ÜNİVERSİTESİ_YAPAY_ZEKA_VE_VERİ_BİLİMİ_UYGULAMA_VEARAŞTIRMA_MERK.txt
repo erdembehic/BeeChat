@@ -1,0 +1,186 @@
+MEVZUAT NO: 29023
+RG TARİHİ: 02.12.2018
+RG SAYISI: 30613
+KAYNAK: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=29023&MevzuatTur=8&MevzuatTertip=5
+================================================================================
+İSTANBUL TEKNİK ÜNİVERSİTESİ YAPAY ZEKA VE VERİ BİLİMİ
+
+UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+BİRİNCİ BÖLÜM
+
+Amaç, Kapsam, Dayanak ve Tanımlar
+
+Amaç
+
+MADDE 1 – (1) Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Yapay Zeka ve Veri Bilimi Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+Kapsam
+
+MADDE 2 – (1) Bu Yönetmelik; İstanbul Teknik Üniversitesi Yapay Zeka ve Veri Bilimi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+Dayanak
+
+MADDE 3 – (1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+Tanımlar
+
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+
+a) Merkez: İstanbul Teknik Üniversitesi Yapay Zeka ve Veri Bilimi Uygulama ve Araştırma Merkezini,
+
+b) Merkez Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+c) Merkez Müdürü: Merkezin Müdürünü,
+
+ç) Merkez Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+d) Rektör: İstanbul Teknik Üniversitesi Rektörünü,
+
+e) Üniversite: İstanbul Teknik Üniversitesini,
+
+ifade eder.
+
+İKİNCİ BÖLÜM
+
+Merkezin Amaçları ve Faaliyet Alanları
+
+Merkezin amaçları
+
+MADDE 5 – (1) Merkezin amaçları; yapay zeka ve veri biliminde yenilikçi araştırma-geliştirme ve bilgi kapasitesi oluşturmak, ileri seviyede yöntem ve teknolojiler geliştirmek, yapay zeka ve veri bilimi araştırma çalışmalarını ülke yararına yüksek teknoloji çıktılarına dönüştürmek, bu sayede ülkenin bilim ve teknolojide rekabetçi gücünü artırmak, güçlü bir üniversite-sanayi-kamu işbirliği ekosistemi yaratarak geliştirilen ileri veri ve yapay zeka teknolojilerini kamu, sanayi ve topluma ait problemlerin çözümlenmesine uyarlamak, bu bilgi birikimine dayalı yüksek teknolojili ürünler geliştirmek, yüksek teknolojide dışa bağımlılığı azaltmak, ülkede her sektörde yüksek seviyede ihtiyaç duyulan veri ve yapay zeka alanında donanım ve yetkinlik sahibi insan ve iş gücünü, yeni nesil mühendisleri, bilim insanlarını eğitmek, endüstriyel, akademik ve kamu sektörlerine entegre etmek, bunlara yönelik eğitim, bilgi ve kaynak paylaşımı faaliyetlerini yürütmek, yapay zeka ve veri bilimi alanında yurtiçi ve yurtdışı işbirliklerini oluşturmak, ortak projeler üreterek ülkeye yaygın fayda sağlayacak sürdürülebilir gelişimi mümkün kılacak ilgili araştırma, geliştirme, eğitim, organizasyon ve koordinasyon çalışmalarını yürütmektir.
+
+Merkezin faaliyet alanları
+
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+
+a) Yapay zeka ve veri bilimi ile ilgili konularda ulusal ve uluslararası düzeyde Ar-Ge faaliyetleri yapmak, yapay zekanın temel bilim kuramlarını oluşturan istatistiksel makine öğrenmesi, derin öğrenme, optimizasyon, karar verme, belirsizlik kuramı ve benzeri alanlarda temel araştırmalara paralel olarak uygulamalı araştırmalar yürütmek.
+
+b) Gerçekleştirilen Ar-Ge faaliyetleriyle ilgili gerekli bilgi sistemleri, yazılımları ve hesaplama altyapısını tasarlamak, kurmak ve işletmek, bu amaçla yapay zeka alanında ülkede referans uzmanlık kaynağı oluşturmak.
+
+c) Üretim, enerji, tarım, uzaktan algılama, otomasyon, sağlık, finans, kamu, güvenlik, savunma ve benzeri birçok sektör ve sistem içerisinde duyargalardan ve süreçlerden elde edilen verileri kullanılabilir veri kümelerine dönüştürmek, elde edilen verileri katılımcı kurumlar ve sektörel ihtiyaçları karşılamaya yönelik bilgi ve kapasiteye dönüştürmek için gereken veri analizi, yapay zeka modelleri ve yöntemleri üzerine Ar-Ge çalışmaları yapmak, tespit, tanıma, takip, anlam çıkarma, planlama, navigasyon, yapay zeka etmenleri, simülasyon ve oyun tasarımına dayalı senaryo üretimi, karar destek yöntemleri ve benzeri sistemleri geliştirmek ve uygulamaya koymak.
+
+ç) Yapay zeka ve veri bilimi araştırmalarına dayalı teknoloji geliştirme suretiyle Merkezin kurucu ortaklarının ihtiyaçlarına yönelik uluslararası seviyede rekabetçi ve dışa bağımlılığı azaltan verimlilik artırıcı yenilikçi yöntem ve ürünleri uygulamaya koymak.
+
+d) Yapay zeka ve veri bilimi alanında yeni nesil yetişmiş nitelikli insan gücü ihtiyacını karşılamak üzere gereken eğitimleri tasarlamak, lisans/lisansüstü seviyelerinde programlar ve dersler oluşturmak, akademik tez ve bilimsel yayın üretmek, firmalara ve kamuya yönelik özel kurslar düzenlemek, ilgili tüm kurumsal ve uygulamalı eğitim faaliyetlerini koordine etmek.
+
+e) Ürettiği bilginin kullanımını yaygınlaştırmak ve yapay zeka ve veri bilimi alanında farkındalığı artırmak için toplumun her kesimine yönelik eğitimler ve tanıtım faaliyetleri düzenlemek, sivil toplum kuruluşları ile işbirliği yapmak ve yaygın katılımı sağlamak.
+
+f) Faaliyetlerine destek sağlamak üzere yapay zeka ve veri bilimi konularında ortaklıklar oluşturmak, proje üretmek, iş ve hizmet modelleri geliştirmek ve uygulamak.
+
+ÜÇÜNCÜ BÖLÜM
+
+Merkezin Yönetim Organları ve Görevleri
+
+Merkezin yönetim organları
+
+MADDE 7 – (1) Merkezin yönetim organları şunlardır:
+
+a) Merkez Müdürü.
+
+b) Merkez Yönetim Kurulu.
+
+c) Merkez Danışma Kurulu.
+
+Merkez Müdürü
+
+MADDE 8 – (1) Merkez Müdürü, Rektör tarafından Üniversitenin Bilgisayar ve Bilişim Fakültesi öğretim üyeleri arasından üç yıl için görevlendirilir. Merkez Müdürü, görevi başında bulunmadığı zaman yardımcılarından birini vekil bırakır. Göreve vekalet kesintisiz altı aydan fazla sürerse yeni bir Müdür görevlendirilir. Süresi dolan Merkez Müdürü aynı usulle yeniden görevlendirilebilir.
+
+(2) Süresi tamamlanmadan ayrılan veya görevden alınan Merkez Müdürü yerine kalan süreyi tamamlamak üzere aynı usulle yeni Müdür görevlendirilir.
+
+(3) Müdürün önerisi ile Üniversite öğretim üyeleri arasından en çok iki kişi müdür yardımcısı olarak Rektör tarafından üç yıl süre ile görevlendirilir.
+
+Merkez Müdürünün görevleri
+
+MADDE 9 – (1) Merkez Müdürünün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Merkez personelinin düzenli ve verimli çalışmasını sağlamak.
+
+c) Merkez Yönetim Kuruluna başkanlık yapmak.
+
+ç) Merkez Yönetim Kurulu kararlarının uygulanmasını sağlamak.
+
+d) Merkez Yönetim ve Danışma Kurullarının toplantı gündemlerini hazırlamak.
+
+e) Her yıl sonunda hazırlayacağı Merkez bütçe tasarısını, faaliyet raporunu ve bir sonraki yıla ait çalışma programını Merkez Yönetim Kurulunun onayına sunmak.
+
+f) Birim yöneticilerini belirleyerek Merkez Yönetim Kurulunun onayına sunmak.
+
+g) Merkez Yönetim Kurulunca verilen diğer görevleri yapmak.
+
+Merkez Yönetim Kurulu
+
+MADDE 10 – (1) Merkez Yönetim Kurulu; Merkez Müdürü ve yardımcıları ile Merkez Müdürünün önerisi üzerine Üniversite öğretim üyeleri arasından Rektör tarafından görevlendirilen iki üye olmak üzere toplam beş üyeden oluşur.
+
+(2) Merkez Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyelerin yerine yeni üye görevlendirilir ya da görev süresi biten üye yeniden görevlendirilebilir. Süresi bitmeden ayrılanların veya görev değişikliği olanların yerine kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.
+
+(3) Merkez Yönetim Kurulu, Başkanın çağrısı ile ayda en az bir kere üye tamsayısının yarıdan fazlasıyla toplanır ve kararlar toplantıya katılanların salt çoğunluğuyla alınır. Başkan Merkez çalışmalarının düzenli olarak yürütülmesinden, geliştirilmesinden, sorunların çözülmesinden ve koordinasyonun sağlanmasından Merkez Yönetim Kuruluna karşı sorumludur.
+
+Merkez Yönetim Kurulunun görevleri
+
+MADDE 11 – (1) Merkez Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin etkinlikleri ve yönetimiyle ilgili konuları görüşüp karara bağlamak.
+
+b) Merkezin bütçe tasarısını, faaliyet raporunu ve çalışma programını görüşerek onaylamak.
+
+c) Merkezin bireysel, kamusal ve kurumlar arası hizmet ve ilişkilerini belirlemek, diğer ilgili kurumlarla işbirliği halinde anlaşmaları şekillendirmek ve onay vermek.
+
+ç) Merkeze yapılan proje tekliflerini değerlendirmek ve bütçelerini onaylamak.
+
+d) Merkezin uzun vadeli stratejik plan ve programını hazırlamak.
+
+e) Akademik, teknik ve idari kadrolarda görev yapacak olanları onaylamak.
+
+f) Merkezin uygulama birimlerinin sayısı, yapısı ve niteliklerini düzenlemek.
+
+g) İlgili diğer iş ve işlemleri yapmak.
+
+Merkez Danışma Kurulu ve görevleri
+
+MADDE 12 – (1) Merkez Danışma Kurulu; Merkez Yönetim Kurulunca önerilen ve Rektör tarafından görevlendirilen Merkezin amacı doğrultusunda çalışma yapan Üniversite öğretim üyeleri ve istekleri halinde konuyla ilgili diğer üniversite, kamu ve özel sektör kurum ve kuruluşları ile sivil toplum kuruluşları temsilcilerinden olmak üzere en fazla yedi üyeden oluşur. Merkez Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyelerin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.
+
+(2) Merkez Danışma Kurulunun görevi; Merkez Müdürünün daveti üzerine yılda en az bir kez toplanarak, Merkezin çalışma alanına giren konularda görüşlerini açıklayıp, tartışılmasını sağlamak, yeni çalışma konuları üzerinde görüş bildirmek ve Merkezin ihtiyaç duyduğu alanlarda çalışmalar yapmaktır.
+
+DÖRDÜNCÜ BÖLÜM
+
+Çeşitli ve Son Hükümler
+
+Merkezin uygulama birimleri
+
+MADDE 13 – (1) İhtiyaçlar doğrultusunda, Merkez Yönetim Kurulunun kararı ile Merkezde uygulama birimleri kurulabilir ve bunların sayısında ve yapılarında değişiklik yapılabilir.
+
+Personel ihtiyacı
+
+MADDE 14 – (1) Merkezde görevlendirilecek teknik, idari ve akademik personel ihtiyacı,  Müdürün teklifi ve Yönetim Kurulunun kararı üzerine, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+Anlaşmalar, kaynakların kullanımı ve işbirliği
+
+MADDE 15 – (1) Merkez tarafından, yeni projeler için kendi adına ve/veya ilgili kamu kurum ve kuruluşlarının işbirliği ile Avrupa Birliği fonları da dahil olmak üzere harici kaynakların kullanımı için başvuru ve anlaşmalar yapılabilir.
+
+(2) Merkez Yönetim Kurulunun gerekli gördüğü faaliyetlerle ilgili hizmet alımı yapılabilir.
+
+(3) Merkez, ilgili mevzuat hükümleri çerçevesinde mali konulardaki iş ve işlemleri yürütür.
+
+(4) Merkez tarafından yürütülen araştırmalar kapsamında her türlü taşınır ve/veya alet, ekipman ve demirbaşlar Merkezin kullanımına tahsis edilir. Merkez hizmetleri için sahaya kurulan uzun süreli ya da kalıcı ekipmanların mülkiyet yönetim esasları ise Merkez Yönetim Kurulu kararları ve ilgili kuruluşlarla yapılacak mutabakatlara göre belirlenir.
+
+(5) Merkezin faaliyetlerinde Merkez Yönetim Kurulunun kararı ve Rektörün onayı ile Üniversitenin bütün laboratuvar imkanları kullanılabilir.
+
+(6) Merkez, amaç ve görevlerini gerçekleştirebilmek için yurt içinde ve yurt dışında araştırma, hizmet, eğitim ve sanayi kuruluşları ile işbirliği yapabilir.
+
+(7) Merkezden elde edilen verilerin akademik kullanım hakkı proje yürütücüleri düzeyinde yapılacak sözleşmeler ile araştırmacıların telif hakkı, gizlilik ilkeleri ve isim yayın sıraları belirlenir ve ilgili akademik yayınlar buna göre düzenlenir.
+
+Yürürlük
+
+MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+Yürütme
+
+MADDE 17 – (1) Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.
+
+ 
+
+ 
+
+ 
