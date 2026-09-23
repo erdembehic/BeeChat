@@ -1,0 +1,501 @@
+{
+  "meta": {
+    "mevzuatNo": "31538",
+    "rgTarihi": "22.05.2019",
+    "rgSayisi": "30781",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=31538&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; Ankara Müzik ve Güzel Sanatlar Üniversitesi Engelsiz Müzik ve Görsel Sanatlar Çalışmaları Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, Ankara Müzik ve Güzel Sanatlar Üniversitesi Engelsiz Müzik ve Görsel Sanatlar Çalışmaları Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez: Ankara Müzik ve Güzel Sanatlar Üniversitesi Engelsiz Müzik ve Görsel Sanatlar Çalışmaları Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Müdür: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Rektör: Ankara Müzik ve Güzel Sanatlar Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Üniversite: Ankara Müzik ve Güzel Sanatlar Üniversitesini,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amacı ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amacı; toplumda özel gereksinimli bireyler ile veya bu bireyler için eğitsel ve terapötik amaçlarla müzik ve görsel sanatlar çalışmaları yürütmek ve bu kapsam ile ilişkili her alanda ilgili mevzuat hükümleri kapsamında; ulusal ve uluslararası düzeyde uygulama ve araştırma faaliyetlerinde bulunmak; bu doğrultuda müzik ve görsel sanatlar ile ilişkili ulusal ve uluslararası kurum ve kuruluşlarla iş birliği yapmak ve iletişimi güçlendirmek, eğitim ve danışmanlık hizmetleri sunmak, bilimsel araştırma ve projeler geliştirmek, yapmak ve yaptırmak, bunların sonucunda kitap, dergi gibi yayın faaliyetlerinde bulunmak, etkinlikler düzenlemek, diğer kurum ve kuruluşlarca düzenlenen etkinliklere katılmak ve desteklemektir. Merkezin faaliyet alanları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "İlgili mevzuat hükümleri kapsamında kamu ve özel sektör ile iş birliği halinde özel gereksinimli bireyler ile veya bu bireyler için eğitsel ve terapötik amaçlarla müzik ve görsel sanatlar alanlarında çalışmalar yürütmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Üniversite çalışanları ve öğrencilerine, ilgili mevzuat hükümleri kapsamında kamu ve özel sektörde çalışan eğitimcilere, özel gereksinimli bireylerin ailelerine ve toplumun diğer kesimlerine yönelik farkındalık ve bilgi düzeyini arttırmak amacıyla eğitimler vermek, bu amaçla kurs, çalıştay, seminer ve benzeri kısa ve uzun süreli eğitim programları, kış ve yaz okulları açmak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Üniversite ve Merkezin amacı doğrultusunda uygulama ve araştırmalar yapmak üzere, müzik toplulukları oluşturmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "İlgili mevzuat hükümleri kapsamında Üniversitenin ve Merkezin amaçları doğrultusunda faaliyetlerin gerçekleştirilmesine yönelik yurt içi ve yurt dışındaki benzer kuruluşlarla iş birliği halinde ortak bilimsel-sanatsal-eğitsel proje ve çalışmalar için gerekli girişimlerde bulunmak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Gerçekleştirilmesi planlanan bilimsel-sanatsal-eğitsel proje ve çalışmaları tamamlayıcı görsel-işitsel, süreli-süresiz yayınlar yapmak veya yapılmasına destek olmak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversitede lisans ve lisansüstü düzeydeki eğitim programlarında özel gereksinimli bireyler ile veya bu bireyler için müzik ve görsel sanatlar alanları kapsamında ders ve seminerlerin düzenlenmesini, tez yazılmasını teşvik etmek; bu konularda düzenlenecek her türlü faaliyete öğrenci ve öğretim üyelerinin katılımını özendirmek."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Özel gereksinimli bireyler ile veya bu bireyler için müzik ve görsel sanatlar alanlarında gerçekleştirilen uygulama, araştırma ve projelere ilişkin yazılan makaleler ve yapılan araştırma sonuçlarını düzenli şekilde çıkarılması planlanan bülten ve dergilerde yayımlamak."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Özel gereksinimli bireyler ile veya bu bireyler için müzik ve görsel sanatlar alanlarında gerçekleştirilen resmî yayınlar, çeşitli dillerde yayımlanmış makale, kitap, dergi ve broşürlerden oluşan bir kütüphane ve dokümantasyon merkezi/arşiv kurmak."
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Özel gereksinimli bireyler ile veya bu bireyler için müzik ve görsel sanatlar alanlarında gerçekleştirilmesi planlanan uygulama ve araştırmalar için atölyeler kurmak."
+                },
+                {
+                  "harf": "h",
+                  "metin": "İlgili mevzuat hükümleri kapsamında özel gereksinimli bireyler ile veya bu bireyler için yürütülen müzik ve görsel sanatlar alanlarındaki çalışmalar konusunda ulusal ve uluslararası bilimsel toplantılar (konferans, sempozyum, kongre ve benzeri) düzenlemek, yurt içi ve/veya yurt dışı bilim, araştırma, inceleme kurumları, eğitim kurumları, kamu kurum ve kuruluşları, özel kuruluşlar, vakıf ve derneklerle iş birliği yapmak, bilimsel bilgi alışverişinde bulunmak, iletişim ağı kurmak ve hizmet değişimi sağlamak."
+                },
+                {
+                  "harf": "ı",
+                  "metin": "Özel gereksinimli bireyler ile veya bu bireyler için müzik ve görsel sanatlar alanlarını kapsayan uzaktan/çevrimiçi eğitim çalışmaları yürütmek; internet, radyo ve televizyon gibi kitle iletişim araçlarını kullanmak ve bu konuda DVD ve CD gibi dijital materyaller hazırlamak ve yayımlamak."
+                },
+                {
+                  "harf": "i",
+                  "metin": "Özel gereksinimli bireyler ile veya bu bireyler için müzik ve görsel sanatlar alanlarında eğitim danışmanlığı, program geliştirme, gelişim izleme ve değerlendirme, eğitim kurumları için yayınlar ve eğitim materyali geliştirme hizmetleri sunmak."
+                },
+                {
+                  "harf": "j",
+                  "metin": "Özel gereksinimli bireyler ile veya bu bireyler için yürütülen müzik ve görsel sanatlar alanlarındaki çalışmalar hakkında kamuyu bilgilendirmek amacı ile sergi, konser, şenlik, yarışma, festival ve benzeri düzenlemek."
+                },
+                {
+                  "harf": "k",
+                  "metin": "İlgili mevzuat hükümleri kapsamında özel gereksinimli bireyler ile veya bu bireyler için müzik ve görsel sanatlar alanlarına ilişkin çalışmalarda danışmanlık ve bilirkişilik yapmak, bu alanlardaki çalışmaları ve eğitimi desteklemek yönünde başarılı araştırmacı, uygulamacı ve öğrencilere burslar, ödüller vermek ve verilmesini teşvik etmek."
+                },
+                {
+                  "harf": "l",
+                  "metin": "Merkezin amacına uygun olarak ilgili mevzuat çerçevesinde Rektörlük tarafından verilen görevleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Müdür",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Müdür."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulu."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdür; Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim üyeleri arasından, Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Müdüre çalışmalarında yardımcı olmak üzere Müdürün önerisi ile Merkezde görevli öğretim elemanlarından iki kişi müdür yardımcısı olarak Rektör tarafından görevlendirilir. Müdür yardımcıları; Müdür ile iş birliği içerisinde Merkezin etkinliklerini yürütür. Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil bırakır. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir. Müdürün görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdürün görevleri şunlardır: Yönetim Kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Üniversitede görevli değişik bilim alanlarından Yönetim Kurulunda görev yapabilecek üyeleri belirleyerek görevlendirilmesi için Rektöre önermek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezi temsil ve Yönetim Kuruluna başkanlık etmek."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Yönetim Kurulunun toplantı gündemini belirlemek ve toplantıya çağırmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Yönetim Kurulunca karara bağlanan konularda gerekli protokol ve anlaşmaları yapmak, koordine etmek, denetlemek, Yönetim Kurulunca karara bağlanan çalışma raporlarını ilgililere sunmak ve sonuçlandırmak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkez bünyesinde oluşturulan çalışma gruplarının faaliyetlerini düzenlemek, yürütmek, koordine etmek, denetlemek."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Yönetim Kurulu kararlarını bu Yönetmelik çerçevesinde uygulamak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Danışma Kurulu tarafından incelenen faaliyet ve dönem raporlarını Rektöre sunmak."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Danışma Kurulunu toplantıya çağırmak ve Başkanlık etmek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulu, Müdürün önerdiği öğretim üyeleri arasından Rektör tarafından görevlendirilir. Yönetim Kurulu, Müdür ve müdür yardımcıları dâhil beş kişiden oluşur. Müdür, Yönetim Kurulu toplantılarına başkanlık eder. Başkanın yokluğunda bu görevi Başkana vekâlet eden müdür yardımcısı üstlenir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yönetim Kurulu, Başkanın daveti ve üye tam sayısının salt çoğunluğunun katılımı ile ayda en az bir defa toplanır ve oy çokluğu ile karar verilir. Oylamada eşitlik olması durumunda Başkanın oyu belirleyicidir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yönetim Kurulu üyeleri üç yıl süreyle görev yaparlar. Görev süresi dolan Yönetim Kurulu üyesi tekrar görevlendirilebilir. Süresi bitmeden ayrılma ve altı aydan fazla görevlendirme nedeniyle toplantılara katılamayacak Yönetim Kurulu üyesinin yerine yeni üye görevlendirilir. Yönetim Kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulunun görevleri şunlardır: Danışma Kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez tarafından yürütülecek faaliyetlerle ilgili çalışma esaslarını, hizmet haklarına ait esasları, ihtiyaç duyulan personelin çalışma esaslarını belirlemek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez bünyesinde kurulacak çalışma gruplarını ve bu gruplarda görevlendirilecek üyeleri tespit edip çalışma gruplarını oluşturmak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezin amacına uygun araştırma, proje ve eğitim müracaatlarını inceleyerek karara bağlamak, uygun gördüğü müracaata ait çalışmaları ilgili çalışma grubuna yaptırmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Çalışma grubu tarafından hazırlanan raporları incelemek ve karara bağlamak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezin dönemler halindeki çalışma planını hazırlamak ve uygulamaya koymak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "İlgili mevzuat hükümleri kapsamında yurt içi ve yurt dışı bilim, araştırma, inceleme kurumları, kamu kurum ve kuruluşları, özel kuruluşlar, vakıf ve derneklerle iş birliği yaparak amaç ve görevlere uygun proje ve karşılıklı yardımı gerçekleştirmek."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Merkezin yıllık programını hazırlamak."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Müdürün önereceği diğer konuları görüşüp karara bağlamak."
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Yıllık faaliyet raporunda yer almayan konulara ilişkin Rektörlüğün onayını alarak diğer faaliyetlerin başlatılmasına karar vermek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Danışma Kurulu; Üniversite mensubu, istekleri halinde; kamu ve özel sektör ile uluslararası alanlardaki tanınmış kişiler arasından Yönetim Kurulunun önerisi ile Rektör tarafından görevlendirilir. Danışma Kurulu, Müdür dâhil beş kişiden oluşur. Müdür Danışma Kurulu toplantılarına başkanlık eder. Danışma Kurulu üyeleri üç yıl süre ile görev yaparlar. Görev süresi dolan Danışma Kurulu üyesi tekrar görevlendirilebilir. Süresi bitmeden ayrılma veya altı aydan fazla görevlendirme nedeniyle toplantılara katılmayacak Danışma Kurulu üyesinin yerine yenisi görevlendirilir. Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir kez toplanarak, Merkezin çalışmaları konusunda ve yeni çalışma alanları üzerinde görüş ve önerilerini bildirir. Danışma Kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Danışma Kurulunun görevleri şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezin görevleri ile ilgili olarak yapılacak çalışmalar, uygulamalar ve alınacak önlemler hakkında tavsiyede bulunmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin diğer kişi ve kuruluşlarla ilişkilerinin geliştirilmesine katkıda bulunmak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezin faaliyet veya dönem raporlarını incelemek ve önerilerde bulunmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkezin çalışma alanına giren konularda Yönetim Kuruluna yardımcı olmak, Müdürün isteği halinde Yönetim Kurulu çalışmalarına katılmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "Çalışma grupları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin çalışmalarını gerçekleştirmek için Yönetim Kurulu kararıyla çalışma grupları oluşturulabilir. Çalışma gruplarının oluşturulması, çalışma usul ve esasları, çalışma grupları arasında koordinasyon ve iş birliğinin sağlanmasına yönelik düzenlemeler Yönetim Kurulu tarafından belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Bu gruplar yapılacak çalışmanın niteliğine göre, Üniversite içindeki öğretim üyeleri ve bu konuda uzmanlaşmış diğer kişilerden oluşabilir. Görev süreleri Yönetim Kurulunun kararı ile belirlenir. Personel ihtiyacı",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilen personel ile karşılanır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümleri Ankara Müzik ve Güzel Sanatlar Üniversitesi Rektörü tarafından yürütülür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "mevzuatNo": "7164",
+    "rgTarihi": "03.09.1993",
+    "rgSayisi": "21687",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7164&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "DİĞER BELGELERİN DÜZENLENMESİNE İLİŞKİN YÖNETMELİK"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "GENEL",
+      "altBaslik": "",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "MEVZUAT NO: 7164 RG TARİHİ: 03.09.1993 RG SAYISI: 21687 KAYNAK: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7164&MevzuatTur=8&MevzuatTertip=5 ================================================================================ İSTANBUL TEKNİK ÜNİVERSİTESİ DİPLOMA, DİPLOMA DEFTERİ, MEZUNİYET BELGESİ İLE DİĞER BELGELERİN DÜZENLENMESİNE İLİŞKİN YÖNETMELİK Kapsam",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "İstanbul Teknik Üniversitesine bağlı fakülte, enstitü ve yüksekokullardan mezun olanlara verilecek olan ön lisans, lisans, yüksek lisans, sanatta yeterlilik ve doktora diplomalarının ve diğer belgelerin düzenlenmesinde bu Yönetmelik hükümleri uygulanır. Diploma Düzenleme Esasları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Fakültelerden mezun olanlara diplomaları yemin metni kendi el yazısı ile yazdırılıp imzalatıldıktan sonra ayrıca okutularak teslim edilir. Mezunların vefatı halinde diplomaları istekleri halinde kanuni mirasçılarına verilir. Kaybedilen Diploma ve Sertifikaların Yerine Verilecek Duplikata (İkinci Nüsha)'ların düzenleme Esasları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Diploma ve sertifikalarını kaybedenlere diploma ve sertifikanın duplikatası verilir. Diploma ve sertifikasını kaybedenler durumu İstanbul, Ankara veya İzmir'de yayımlanan ve ülke çapında dağıtılan bir gazetede 3'er gün ara ile 2 defa ilan ederler. (Kayıp diploma) ve (Kayıp sertifika) gibi bir başlığı ihtiva edecek bu ilanda belgenin nereden alındığı, diploma numarası, mezuniyet yılı ve dönemi, kaybedildiğinden hükmü kalmadığı, belgenin vasıflarına ait bilgilerin belirtilmesi şarttır. Diploma veya sertifikanın alındığı yere yapılacak olan müracaatta, müracaat dilekçesine ilanın çıktığı gazete, noterden tasdikli nüfus cüzdanı sureti eklenir. İlgili bürolarca kayıtlar göz önünde tutularak müracaat incelenir ve dileğin kabul edilip edilmeyeceğine Üniversite Yönetim Kurulunda karar verir. Dileğin kabulü halinde diploma veya sertifikanın duplikatası hazırlanır. Duplikataya aslında bulunan aynı numaralar, kayıtlar ve imza sahiplerinin ad ve soyadları yazılır. Bu suretle hazırlanan duplikatanın altı o günkü Dekan veya Okul Müdürü ve Rektör tarafından imzalanır.Tahribata uğraması nedeniyle orjinal şekli ile ibraz edilen diplomalar için de aynı yol izlenerek duplikata diploma verilir. Bu ikinci nüshaları (Duplikata) kaybedenlere tekrar bir başkası verilmez, yalnız onaylı kayıp kağıdı verilir. Kayıp kağıdının verilmesinde de duplikatalann verilmesi usulüne uyulur. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "İ.T.Ü. Senatosunun 5 Ağustos 1993 tarihli 158 sayılı toplantısında kabul edilen bu yönetmelik yayım tarihinde yürürlüğe girer.",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "sayili",
+              "ham": "158 sayılı toplantısında kabul edilen bu yönetmelik",
+              "no": "158",
+              "ad": "toplantısında kabul edilen bu yönetmelik",
+              "kaynakMadde": 5
+            }
+          ]
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "6 Mayıs 1960 tarihli \"Kayıp Vesikaların İkinci Nüshalarının (DUPL1CAT) Tanzimi Hakkında Yönetmelik\" ile 15 Ocak 1962 tarihli \"Diplomaların Tanzimi ve Tevzi şekli Hakkında Esaslar\" yürürlükten kaldırılmıştır. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu yönetmeliği İstanbul Teknik Üniversitesi Rektör'ü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "sayili",
+      "ham": "158 sayılı toplantısında kabul edilen bu yönetmelik",
+      "no": "158",
+      "ad": "toplantısında kabul edilen bu yönetmelik",
+      "kaynakMadde": 5
+    }
+  ]
+}

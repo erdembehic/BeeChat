@@ -1,0 +1,445 @@
+{
+  "meta": {
+    "mevzuatNo": "38771",
+    "rgTarihi": "04.07.2021",
+    "rgSayisi": "31531",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38771&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Denizcilik Eğitimi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesi Denizcilik Eğitimi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Dekan: İstanbul Teknik Üniversitesi Denizcilik Fakültesi Dekanını,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Fakülte: İstanbul Teknik Üniversitesi Denizcilik Fakültesini,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "GAEBS: Ulaştırma ve Altyapı Bakanlığı tarafından yönetilen Gemi Adamları Eğitim Bilgilendirme Sistemini,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkez: İstanbul Teknik Üniversitesi Denizcilik Eğitimi Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Müdür: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Üniversite (İTÜ): İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amaçları ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amaçları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amaçları şunlardır: Merkezin faaliyet alanları",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Denizcilik eğitimi ile ilgili konularda ulusal ve uluslararası standartlara uygun olarak eğitim, belgelendirme ve danışmanlık hizmeti vermek; seminer, kurslar, konferans, kongre ve çalıştay düzenlemek; alan araştırmaları, sınav organizasyonları ve benzeri çalışmalarda bulunmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Uluslararası düzeyde gemi adamı yeterlilikleri ile ilgili denizcilik eğitim standartlarına ilişkin çalışmalar yapmak ve GAEBS’te tanımlanan eğitimleri uygulamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Denizciliğe ilişkin olarak her türlü akademik eserin yayımını yapmak, gerektiğinde kitaplık ve arşiv oluşturmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Denizcilik eğitimine ilişkin olarak teknolojik ve modern gelişimin sağlanması amacıyla kamu ve özel sektör kurum ve kuruluşları ile uluslararası kuruluşlarla işbirliği yapmak; denizcilik alanına ilişkin olarak bilimsel ve teknolojik gelişmelere katkı sağlayabilecek çalışmalar yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "GAEBS’te tanımlanmış eğitimleri yapmak ve sertifikaları düzenlemek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Gemi adamlarının eğitimine ilişkin akademik bilgi ve beceri düzeylerinin güncellenmesine katkıda bulunmak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Denizcilik alanına ilişkin olarak yetkilendirilen konularda projeler düzenlemek, raporlar hazırlamak ve çalışmaların geliştirilmesini sağlamak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Ülkemizin denizci toplumu olarak yetiştirilmesi ve denizciliğe ilişkin bilincini yükseltmek amacıyla toplantılar düzenlemek, sosyal sorumluluk projeleri geliştirmek."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Yönetim Kurulunun kararlaştıracağı diğer faaliyetlerde bulunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Müdür",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Müdür."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulu."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdür, Fakülte Dekanı tarafından önerilen Fakültenin üç öğretim üyesi arasından Rektör tarafından üç yıl için görevlendirilir. Görev süresi sona eren Müdür tekrar görevlendirilebilir. Görev süresi dolmadan görevinden ayrılan Müdürün yerine Rektör tarafından aynı usulle yeniden görevlendirme yapılır. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesi ve geliştirilmesinden Rektöre karşı sorumludur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Müdür, çalışmalarında kendisine yardımcı olmak üzere Fakültenin öğretim elemanları arasından en fazla iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil olarak bırakır. Göreve vekâlet altı aydan fazla sürerse yeni bir Müdür görevlendirilir. Müdürün görev süresi sona erdiğinde yardımcılarının da görevi kendiliğinden sona erer. Müdürün görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdürün görevleri şunlardır: Yönetim Kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil etmek, Merkezin çalışmalarının düzenli olarak yürütülmesini sağlamak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulunu ve Danışma Kurulunu toplantıya çağırmak, bu toplantıların gündemini belirlemek ve toplantılara başkanlık etmek."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezin kısa, orta ve uzun dönemli politikaları ve bunlara dayalı eğitim, araştırma ve danışmanlık ile ilgili programları hazırlamak ve Yönetim Kurulunun onayına sunmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkezin personel ihtiyacını belirleyip Yönetim Kuruluna sunmak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezin faaliyet alanıyla ilgili ulusal ve uluslararası kurum ve kuruluşlarla iş birliği yapmak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Merkezin yıllık faaliyet raporunu, Yönetim Kurulunun görüşünü aldıktan sonra Rektöre sunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulu; Müdür, müdür yardımcıları ile Müdür tarafından önerilen Fakültenin öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilen dört öğretim elemanı olmak üzere toplam en fazla yedi üyeden oluşur. Herhangi bir nedenle üyeliğin boşalması halinde kalan süreyi tamamlamak üzere yeni üye görevlendirilir. Görev süresi sona eren üyeler tekrar görevlendirilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yönetim Kurulu, Müdürün çağrısı üzerine asgari üç ayda bir ve/veya gerekli hallerde olağanüstü olarak salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır. Oyların eşitliği durumunda Müdürün kullandığı oy yönünde çoğunluk sağlanmış sayılır. Yönetim Kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulunun görevleri şunlardır: Danışma Kurulu ve görevi",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezin çalışma ve yönetimi ile ilgili konularda karar almak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Ulusal ve uluslararası kurum ve kuruluşlarla yapılacak olan işbirliği esaslarını belirlemek."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Müdürün her çalışma dönemi sonunda düzenleyeceği faaliyet raporunun hazırlanmasına ilişkin esasları belirlemek, sunulan raporu ve bir sonraki döneme ilişkin çalışma programını değerlendirmek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkezin personel ihtiyacı konusunda Müdürün teklifini karara bağlamak ve Rektörün onayına sunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdür ve müdür yardımcıları, Danışma Kurulunun doğal üyeleridir. Danışma Kurulu; doğal üyeleri ile Merkezin faaliyet alanıyla ilgili konularda deneyimi ve denizcilik eğitimiyle alakalı çalışmaları bulunan Üniversite içindeki ve/veya Üniversite dışındaki kişiler arasından Rektör tarafından üç yıl için görevlendirilen en az sekiz, en çok on beş üyeden oluşur. Danışma Kurulu üyelerinin en az üçü; özel ve kamu kurum ve kuruluşlarından, istekli olmaları ve kurum/kuruluşlarının muvafakati bulunması kaydıyla Yönetim Kurulunun önerisi üzerine Rektör onayıyla seçilen temsilcilerden oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Danışma Kurulu, yılda en az bir kez Müdürün çağrısı üzerine çoğunluk şartı aranmaksızın toplanır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Danışma Kurulunun görevi; Merkezin faaliyet alanı ile ilgili konularda görüş bildirmek ve tavsiyelerde bulunmaktır.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "Personel ihtiyacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personel tarafından karşılanır. Ekipman ve demirbaşlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyetlerini sürdürebilmesi için alınan her türlü alet, ekipman ve demirbaşlar Merkezin kullanımına tahsis edilir. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri uygulanır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

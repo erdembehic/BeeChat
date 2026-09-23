@@ -1,0 +1,561 @@
+{
+  "meta": {
+    "mevzuatNo": "14866",
+    "rgTarihi": "01.04.2011",
+    "rgSayisi": "27892",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=14866&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ TARIM VE ÇEVRE BİLİŞİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Tarım ve Çevre Bilişimi Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesi Tarım ve Çevre Bilişimi Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-22/1/2014-28890)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "GTHB: Gıda, Tarım ve Hayvancılık Bakanlığını,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez (TARBİL): İstanbul Teknik Üniversitesi Tarım ve Çevre Bilişimi Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkez Müdürü: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkez Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "TÜİK: Türkiye İstatistik Kurumunu,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Yönetim Kurulu Başkanı: Merkezin Yönetim Kurulu Başkanını"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amacı ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amacı; tarım alanlarından, zirai faaliyetleri etkileyen çevresel faktörlerden ve her türlü zirai ürüne ya da üretim sürecine ilişkin işlemlerden, duyarga ağları, telemetrik yöntemler ve uzaktan algılama yöntemleriyle toplanan ve/veya diğer ilgili bilgi sistemleriyle tümleştirilen sayısal verilerin derlenmesi, işlenmesi, bilgi ve hizmetlere dönüştürülmesi için farklı disiplinlerden uzmanları bir araya getirerek temel ve uygulamalı araştırmalar yolu ile çalışmak, tarımda ulusal rekabet gücünü arttırıcı gerçek zamanlı veri işleme ve bilişim teknolojilerine dayalı ileri hizmet sistemleri üretmek, işletmek, yöntem ve bilgilerinden yararlanmasını mümkün kılacak araştırma, yayın, organizasyon ve koordinasyon çalışmalarını yürütmektir. Merkezin faaliyet alanları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-22/1/2014-28890)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Tarım ve çevre bilişimi ile ilgili konularda araştırma ve geliştirme (Ar-Ge) faaliyetleri yapmak, ulusal ve uluslararası düzeyde tarım ve çevre bilgi sistemleri tasarlamak, kurmak ve işletmek, bu amaçla referans uzmanlık kaynağı oluşturmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Farklı alanlardaki teknoloji ve bilgi birikimini bir araya getirerek tarım, hayvancılık, tarıma dayalı sanayii ve çevre konularında veri üretmek, tarım ve çevre ekonomisi konusunda çalışmalar yapmak, ekonometrik model geliştirmek ve karar destek sistemleri oluşturmak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Görev kapsamında araştırma ve teknoloji geliştirme suretiyle Merkezin kurucu ortaklarının ihtiyaçlarına yönelik verimlilik artırıcı yenilikleri uygulamaya koymak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Ürettiği bilginin kullanımını yaygınlaştırmak için toplantılar, eğitimler ve tanıtım faaliyetleri düzenlemek ve katılım sağlamak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Tarım alanları ve ürünlerine ilişkin işlemlerden elde edilen verilerin ve çevre kirliliğinin tespitine yönelik verilerin derlenmesi, işlenmesi için sistemleri araştırmak, projelendirmek, geliştirmek, kurmak, işletmek, verileri katılımcı kurumlar ve sektörel ihtiyaçları karşılamaya yönelik bilgiye dönüştürmek için Ar-Ge çalışmaları yapmak ve uygulamaya koymak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Faaliyetlerine destek sağlamak üzere tarım ve çevre konularında proje üretmek, iş ve hizmet modelleri geliştirmek ve uygulamak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları, Görevleri ve Uygulama Birimleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Merkez yönetim kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez Müdürü,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Yönetim Kurulu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-22/1/2014-28890)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Merkez Yönetim Kurulu; en az ikisi Tarım Reformu Genel Müdürlüğü temsilcisi olmak üzere Bakanlığın belirleyeceği üç üye, TÜİK’in belirleyeceği bir üye, en az biri Üniversitenin Bilgisayar ve Bilişim Fakültesi öğretim üyesi olmak üzere Rektörün belirleyeceği ve atayacağı iki üye ve Merkez Müdürü olmak üzere toplam yedi üyeden oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyelerin yerine yeni üye görevlendirilir ya da görev süresi biten üye yeniden görevlendirilebilir. Süresi bitmeden ayrılanların veya görev değişikliği olanların yerine aynı usulle yeni üyeler görevlendirilir; yeni seçilen üye ayrılan üyenin görev süresini tamamlar.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Merkez Yönetim Kurulu, ilk toplantısında üyeleri içinden bir kişiyi oylama ile merkez yönetim kurulu başkanı olarak seçer. Yönetim Kurulu Başkan seçimi için, toplantı katılım oranından bağımsız olarak en az dört üyenin oyunu alma şartı aranır. Merkez Yönetim Kurulu aksi yönde bir karar almadığı, Merkez Yönetim Kurulunda temsiliyete engel hukuki ya da herhangi bir mücbir neden oluşmadığı sürece Yönetim Kurulu Başkanı üyelik dönemi süresince bu görevi yürütür. Yönetim Kurulu Başkanının değişimi gerektiği hallerde aynı yöntemle Merkez Yönetim Kurulu yeni başkanını belirler; yeni seçilen başkan, ayrılan başkanın görev süresini tamamlar.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Merkez Yönetim Kurulu; Başkanın çağrısı ile yılda en az altı defa üye tamsayısının yarıdan fazlasıyla toplanır ve kararlar toplantıya katılanların salt çoğunluğuyla alınır. Başkan Merkez Yönetim Kurulunun güncel ihtiyaçlara göre ve en az bu Yönetmelikte belirlenen sıklıkta toplanmasından, merkezin idari yapısının sürdürülmesinden ve idari koordinasyonun sağlanmasından Merkez Yönetim Kuruluna karşı sorumludur.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Merkez Yönetim Kurulu üyeleri, yönetim kurulu başkanının onayı ile oy hakkı olmaksızın dinleme ve görüş almak üzere mensubu oldukları kurumdan gündem konusuyla ilgili kişinin Merkez Yönetim Kurulu toplantılarına katılımını sağlayabilir. Merkez yönetim kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-22/1/2014-28890)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Merkez Yönetim Kurulunun görevleri şunlardır: Merkez müdürü",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezin etkinlikleri ve yönetimiyle ilgili konuları görüşüp karara bağlamak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin bütçe tasarısını, faaliyet raporunu ve çalışma programını görüşerek onaylamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezin bireysel, kamusal ve kurumlar arası hizmet ve ilişkilerini belirlemek, diğer ilgili kurumlarla işbirliği halinde anlaşmaları şekillendirmek ve onay vermek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkeze yapılan proje tekliflerini değerlendirmek ve bütçelerini onaylamak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezin uzun vadeli stratejik plan ve programını onaylamak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Merkez Müdürünün önerisiyle akademik, teknik ve idari kadrolarda görev yapacak olanları değerlendirmek ve onaylamak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Merkez Müdürünün önerileri kapsamında uygulama birimlerinin yapısı ve niteliklerini düzenlemek."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Merkez Yönetim Kuruluna üye veren kurumların görüşlerini değerlendirmek ve buna bağlı olarak merkez faaliyetlerini düzenlemek."
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "İlgili diğer iş ve işlemleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-22/1/2014-28890)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Merkez Müdürü olarak Üniversitenin Bilgisayar ve Bilişim Fakültesi öğretim üyeleri içinden öncelikle merkez faaliyet alanları ve merkez projeleri ile uyumlu tecrübesi olan bir kişi Rektör tarafından Merkez Yönetim Kuruluna önerilir. Rektör tarafından önerilen merkez müdür adayı için Merkez Yönetim Kurulunca yapılan oylama ile Merkez Yönetim Kurulunun görüşü belirlenir. Merkez Müdürü adayının Merkez Yönetim Kurulu üyelerinden en az 4 kabul oyu almasına bağlı olumlu Merkez Yönetim Kurulu görüşü ile Merkez Müdürü Rektör tarafından üç yıl için görevlendirilir. Merkez Yönetim Kurulu tarafından adayın uygun görülmemesi halinde Merkez Yönetim Kurulu adına gerekçeli bir yazı ile durum Üniversiteye iletilir. Rektör tarafından aynı koşulları sağlamak üzere yeni bir aday 15 gün içinde Merkez Yönetim Kuruluna bildirilir ve Merkez Yönetim Kurulu onayı alınana kadar bu süreç devam ettirilir. Merkez Müdürü, Merkezde görevli öğretim üye veya elemanları arasından en çok iki kişiyi Merkez Yönetim Kurulu onayı ile Merkez Müdür yardımcısı olarak görevlendirir. Merkez Müdürü, görevi başında bulunmadığı zaman yardımcılarından birisini vekil bırakır. Göreve vekalet, kesintisiz dört aydan fazla sürerse yeni bir Merkez Müdürü görevlendirilir. İlk Merkez Müdürü adayı, yönetmelik değişikliğinden itibaren 15 gün içinde Merkez Yönetim Kuruluna Rektör tarafından bildirilir. Rektörün önerisi ile Merkez Yönetim Kurulu tarafından onaylanarak Rektör tarafından atanıncaya kadarki süreçte Merkez faaliyetlerinin kesintiye uğramaması için varsa Rektör tarafından görevlendirilmiş yoksa geçici Müdür faaliyetleri yürütür ve Merkez Yönetim Kuruluna katılır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Süresi dolan, süresi tamamlanmadan ayrılan veya görevden alınan Merkez Müdürünün yerine, aynı usulle görevlendirme yapılır. Süresi tamamlanmadan ayrılan veya görevden alınan Merkez Müdürünün yerine yeni atanan müdür ayrılan müdürün görev süresini tamamlar. Merkez müdürünün görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-22/1/2014-28890)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Merkez Müdürünün görevleri şunlardır: Merkez danışma kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil etmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez personelinin düzenli ve verimli çalışmasını sağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez Yönetim Kurulu Başkanının olmadığı durumlarda başkanlığa vekalet etmek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkez Yönetim Kurulu kararlarının uygulanmasını sağlamak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkez Yönetim ve Danışma Kurullarına toplantı gündemini hazırlamak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Merkez bütçe tasarısını, faaliyet raporunu ve çalışma programını hazırlayarak Merkez Yönetim Kurulunun onayına sunmak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Birim yöneticilerini belirleyerek Merkez Yönetim Kurulunun onayına sunmak."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Merkezin işletme faaliyetlerinin sürekliliğini sağlamak."
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Merkez birimlerinin yönetimini sağlamak."
+                },
+                {
+                  "harf": "h",
+                  "metin": "Merkezin teknolojik, akademik, idari ve mali hedeflerine ulaşması için gerekli işletme faaliyetlerinin yürütülmesini sağlamak."
+                },
+                {
+                  "harf": "ı",
+                  "metin": "Merkez projelerinin bütüncül hedeflere ulaşması için gerekli koordinasyonu sağlamak."
+                },
+                {
+                  "harf": "i",
+                  "metin": "İlgili diğer iş ve işlemleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-22/1/2014-28890)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Merkez Danışma Kurulu; Merkezin amacı doğrultusunda çalışma yapan ilgili kişiler ve istekleri halinde diğer kurum temsilcileri arasından Yönetim Kurulu Başkanı tarafından Merkez Yönetim Kuruluna önerilen ve kurul tarafından onaylanan en az beş, en fazla yirmi üyeden oluşur. Merkez Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyelerin yerine aynı usulle yeni üyeler görevlendirilir; yeni seçilen üye ayrılan üyenin görev süresini tamamlar.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Danışma Kurulunun görevi; Merkez Müdürünün daveti üzerine yılda en az bir kez toplanarak, Merkezin çalışma alanına giren konular hakkında bilgi alıp, görüşlerini bildirmek, tartışılmasını sağlamak, yeni çalışma konuları ve yöntemler üzerinde önerilerde bulunmak ve Merkezin ihtiyaç duyduğu alanlarda strateji geliştirmektir. Merkezin uygulama birimleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "İhtiyaçlar doğrultusunda, Merkez Yönetim Kurulunun kararı ile Merkezde uygulama birimleri kurulabilir ve bunların sayısında ve yapılarında değişiklik yapılabilir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "Personel ihtiyacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezde görevlendirecek teknik, idari ve akademik personel ihtiyacı, Merkez Müdürünün teklifi ve Merkez Yönetim Kurulunun kararı üzerine 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır. Anlaşmalar, kaynakların kullanımı ve işbirliği",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-22/1/2014-28890)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Merkez tarafından, merkezin faaliyet alanları kapsamında yeni projeler için kendi adına ve/veya ilgili kamu kurum ve kuruluşlarının işbirliği ile Avrupa Birliği fonları da dahil olmak üzere harici kaynakların kullanımı için başvuru ve anlaşmalar yapılabilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez, Merkez Yönetim Kurulunun gerekli gördüğü faaliyetlerle ilgili hizmet alımı yapabilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Merkez, ilgili mevzuat hükümleri çerçevesinde mali konulardaki iş ve işlemleri yürütür.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Merkez tarafından yürütülen araştırmalar kapsamında her türlü taşınır ve/veya alet, ekipman ve demirbaşlar Merkezin kullanımına tahsis edilir. Merkez hizmetleri için sahaya kurulan uzun süreli ya da kalıcı ekipmanların mülkiyet yönetim esasları ise Merkez Yönetim Kurulu kararları ve ilgili kuruluşlarla yapılacak mutabakatlara göre belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Merkezin faaliyetlerinde Merkez Yönetim Kurulunun kararı ve Rektörün onayı ile Üniversitenin bütün laboratuvar imkanları kullanılabilir.",
+              "bentler": []
+            },
+            {
+              "no": 6,
+              "metin": "Merkez, amaç ve görevlerini gerçekleştirebilmek için yurt içinde ve yurt dışında araştırma, hizmet, eğitim ve sanayi kuruluşları ile işbirliği yapabilir.",
+              "bentler": []
+            },
+            {
+              "no": 7,
+              "metin": "Merkezin amaç ve faaliyetleri kapsamında, Üniversite, Bakanlık ve TÜİK arasında imzalanan protokoller çerçevesinde Merkezce saha faaliyetleri yürütülür.",
+              "bentler": []
+            },
+            {
+              "no": 8,
+              "metin": "Merkezden elde edilen verilerin akademik kullanım hakkı proje yürütücüleri düzeyinde yapılacak sözleşmeler ile araştırmacıların telif hakkı, gizlilik ilkeleri ve isim yayın sıraları belirlenir ve ilgili akademik yayınlar buna göre düzenlenir. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür. Yönetmeliğin Yayımlandığı Resmî Gazete’nin Tarihi Sayısı 1/4/2011 27892 Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin Tarihi Sayısı 1. 22/1/2014 28890 2. 3.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

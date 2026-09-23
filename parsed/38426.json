@@ -1,0 +1,507 @@
+{
+  "meta": {
+    "mevzuatNo": "38426",
+    "rgTarihi": "22.03.2021",
+    "rgSayisi": "31431",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38426&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "GÜVENLİĞİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Demiryolu Ulaşımı Emniyeti ve Güvenliği Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesi Demiryolu Ulaşımı Emniyeti ve Güvenliği Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez: İstanbul Teknik Üniversitesi Demiryolu Ulaşımı Emniyeti ve Güvenliği Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Müdür: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Senato: İstanbul Teknik Üniversitesi Senatosunu,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amaçları ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amaçları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amaçları şunlardır: Merkezin faaliyet alanları",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Demiryolu işletmeciliğinin güvenli bir şekilde yapılabilmesi için demiryolu altyapısı-üstyapısı-sinyalizasyon-çeken/çekilen araçların mevcut durumu, meteorolojik ve sismik olayların etkisi, demiryolu trafiği, demiryolu sanat yapıları, demiryolu sistem ve çevre güvenliği ve iş güvenliği gibi tüm alanlarda ulusal ve uluslararası, disiplinler arası, teorik ve/veya uygulamalı araştırmalar yapmak, teknoloji geliştirmek ve araştırmaların sonuçlarının karar vericilere ve son kullanıcılara ulaşması için faaliyetlerde bulunmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Demiryolu emniyeti ve güvenliği alanındaki bilimsel faaliyetleri desteklemek, sunmak ve yayımlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Demiryolu emniyeti ve güvenliğinin gelecekte yaşam ve farklı sektörlere yapabileceği etkileri belirlemek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Ulusal ve uluslararası platformlarda demiryolu emniyeti ve güvenliği ile ilgili konularda yer almak, ilgili kuruluşlarla iş birliğini arttırmak veya karar vericilere önerilerde bulunmak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Demiryolu emniyeti ve güvenliği ve etkileri konusunda kamu kurumları veya özel sektörden ilgilileri ve öğrencileri eğitmek, farkındalık arttırıcı kurslar, bilimsel toplantılar düzenlemek, toplumu bu konuda bilimsel verilerle aydınlatmak ve bilinçlendirmek."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Demiryolu emniyeti ve güvenliği konusunda Ülkemizde ve dünyada yapılan çalışmaları takip etmek ve veri tabanı oluşturmak, veri ve araştırmalarda sürdürülebilirliği sağlamak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Ülkemizde, ulusal ve uluslararası ilgili kuruluşların, demiryolu emniyeti ve güvenliği ve etkileri ile ilgili tüm alanlarda proje, araştırma, planlama, eğitim ve danışmanlık konularında odak ve iş birliği noktası olmak, karar vericilere bilgi desteği sağlamak."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Demiryolu emniyeti ve güvenliği konusunda sorumlulukları olan kurumlarla iş birliği protokolleri ile güç birliği yapmak, projeler geliştirmek ve Türkiye’nin bu alandaki uygulamalı araştırma potansiyelini arttırmak."
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Demiryolu emniyeti ve güvenliği ile ilgili konularda sorun ve çözümlerle ilgili olarak yerel yönetimler, kamu kurumları ve özel sektör işletmeleri için uzman sistem yazılımları hazırlamak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Demiryolu emniyeti ve güvenliği ve etkileri konularında araştırma yapmak, projeler geliştirmek, veri tabanı oluşturmak, veri analizi yapmak, çözümler üretmek ve takip etmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Demiryolu emniyeti ve güvenliğinin farklı senaryolar kullanılarak analizini yapmak, analizdeki değişikliklere göre uygulama projeleri hazırlamak ve bunların uygulanmasını sağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Demiryolu emniyeti ve güvenliğinin farklı sektörlere yapabileceği etkileri araştırmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Demiryolu emniyeti ve güvenliği ve etkileri alanında ulusal ve uluslararası iş birliği yapmak, kamu kurumları ve/veya özel sektör kuruluşları ile ortak projeler geliştirmek, projeler yapmak ve bilimsel toplantılar düzenlemek."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Araştırmalardan elde edilen sonuçları ilgililere ve son kullanıcılara iletmek, bilimsel yayınlar yapmak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Demiryolu emniyeti güvenliği ve etkileri konusunda ilgili kurum ve kuruluşlara bilimsel danışmanlık ve eğitim hizmetleri vermek."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Demiryolu emniyeti ve güvenliğini uluslararası güncel yöntem ve teknolojilerle belirlemek, uygulamalı ve teorik olarak araştırmalarını yapmak."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Ulusal ve uluslararası bilimsel etkinlikler düzenlemek ve sertifika düzeyinde çeşitli eğitsel programların açılmasını sağlamak ve yürütmek."
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Üretilen çözümlerin yaygınlaştırılması için internet üzerinden etkinlikler hazırlamak."
+                },
+                {
+                  "harf": "h",
+                  "metin": "Hazırlanan çözümlerin kullanımını kolaylaştırmak üzere uzman sistemler hazırlamak."
+                },
+                {
+                  "harf": "ı",
+                  "metin": "İlgili mevzuatla verilen Merkezin amaçlarına uygun diğer çalışmaları yapmak."
+                },
+                {
+                  "harf": "i",
+                  "metin": "Ulaştırma konularında gelen bilirkişilik taleplerini ilgili mevzuat hükümleri çerçevesinde yerine getirmek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Müdür",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Müdür."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulu."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdür, Merkezin amaçları ve faaliyet alanları ile ilgili konularda araştırmalar yapan Üniversitenin kadrolu ve tam zamanlı öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür aynı usulle tekrar görevlendirilebilir. Süresi tamamlanmadan ayrılan veya görevden alınan Müdür yerine kalan süreyi tamamlamak üzere aynı usulle yeni Müdür görevlendirilir. Aynı öğretim üyesi arka arkaya iki dönemden fazla Müdür olarak görevlendirilemez. Müdürün altı aydan fazla görevinin başında bulunamaması halinde görevi kendiliğinden sona erer. Müdür, Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden ve geliştirilmesinden Rektöre karşı sorumludur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkezde görevli öğretim üyeleri veya görevlileri arasından en çok iki kişi, Müdürün önerisi üzerine Rektör tarafından üç yıl süre ile müdür yardımcısı olarak görevlendirilir. Müdür yardımcıları, Müdürün kendilerine vereceği görevleri yapar. Müdürün görevi başında bulunmaması durumunda kendisine müdür yardımcılarından biri vekâlet eder. Müdürün görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdürün görevleri şunlardır: Yönetim Kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil etmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin çalışmalarının düzenli yürütülmesini ve geliştirilmesini sağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Yönetim Kurulunu ve Danışma Kurulunu olağan ve olağanüstü toplantıya çağırmak, bu toplantıların gündemlerini hazırlamak ve toplantılara başkanlık etmek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Yönetim Kurulu kararlarının uygulanmasını sağlamak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezin yıllık faaliyet raporunu ve bir sonraki yıla ait yıllık çalışma programını hazırlamak ve Yönetim Kurulunun onayı ile Rektörlüğe sunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulu; Müdür ve müdür yardımcıları ile Merkezin amaçları ve faaliyet alanları ile ilgili konularda Üniversitede araştırmalar yapan tam zamanlı çalışan öğretim üyeleri veya görevlileri arasından Rektör tarafından görevlendirilen üç üye olmak üzere en fazla toplam altı üyeden oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yönetim Kurulu, Müdürün çağrısı üzerine en az üç ayda bir kere üyelerin salt çoğunluğu ile toplanır ve kararlar oy çokluğuyla alınır. Oylamalarda eşitlik olması durumunda Müdürün oyu iki oy olarak sayılır. Müdür gerektiğinde olağanüstü toplantıya çağırabilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yönetim Kurulu toplantı tutanakları, Danışma Kurulu üyelerinin incelemesine açık tutulur, ayrıca bu tutanakların birer nüshası Rektörlüğe iletilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir. Yönetim Kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulunun görevleri şunlardır: Danışma Kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezin amaçları doğrultusunda çalışması ve yönetimi ile ilgili konularda karar almak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Danışma Kurulu üyelerinin tavsiyelerini görüşüp karara bağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezin yıllık faaliyet raporunu ve yıllık çalışma programını görüşerek son şeklini vermek ve Rektörlüğe sunmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Proje, araştırma, yayım ve diğer çalışma alanlarına yardımcı konularda karar almak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkez faaliyetleri ile ilgili çalışma grupları ve komisyonları oluşturmak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Merkezin uzun vadeli bilimsel ve idarî plan ve programını hazırlamak ve değerlendirmek üzere Rektörlüğe sunmak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Bilimsel ve idari plan önerileri geliştirmek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Danışma Kurulu; Müdür ile Merkezin faaliyet alanları doğrultusunda çalışan, bu konularda Merkeze katkıda bulunabilecek Üniversite öğretim üyeleri veya görevlileri ile istekleri halinde konuyla ilgili diğer üniversite öğretim üyeleri, kamu kurumları veya özel sektör kuruluşları temsilcileri ve bağımsız araştırmacılar arasından Yönetim Kurulunca önerilen ve Rektör tarafından görevlendirilen en fazla on üyeden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyelerin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Danışma Kurulu yılda bir kez olağan olarak toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü toplantıya çağırabilir. Danışma Kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Danışma Kurulunun görevleri şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Uzun vadeli bilimsel araştırma projelerini ve idari faaliyet planlarını değerlendirerek Yönetim Kuruluna önerilerde bulunmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez çalışmalarına bilimsel ve idari açıdan önerilerde bulunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "Personel ihtiyacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca, Rektör tarafından görevlendirilen personel ile karşılanır. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri ile Senato kararları uygulanır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

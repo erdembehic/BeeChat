@@ -1,0 +1,1379 @@
+{
+  "meta": {
+    "mevzuatNo": "23368",
+    "rgTarihi": "25.02.2017",
+    "rgSayisi": "29990",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23368&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "ÖĞRETİM YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesine bağlı enstitülerde yürütülen lisansüstü eğitim, öğretim ve sınavlarla ilgili esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesine bağlı enstitülerde yürütülen tezli ve tezsiz yüksek lisans, doktora ve sanatta yeterlik programları ile bunların gerektirdiği eğitim, bilimsel araştırma ve uygulama faaliyetlerine yönelik programlardan oluşan lisansüstü eğitim ve öğretime ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "14",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Akademik yarıyıl: Senato tarafından kabul edilen bir akademik takvim yarıyılını,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "AKTS: Avrupa Kredi Transfer Sistemini,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Azami süre: Yüksek lisans öğreniminde altı yarıyıl, doktora öğreniminde ise yüksek lisans derecesi ile kabul edilenler için on iki yarıyıl, lisans derecesi ile kabul edilenler için on dört yarıyıllık süreyi,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Danışman: Enstitüde kayıtlı öğrenciye ders ve yüksek lisans tezi, doktora tezi, sanatta yeterlik tezi ve uygulaması gibi tez çalışması dönemlerinde rehberlik etmek üzere enstitü yönetim kurulu tarafından atanan öğretim üyeleri, doktora ve sanatta yeterlik unvanına sahip öğretim görevlilerini,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Doktora yeterlik/sanatta ön yeterlik komitesi: Program yürütme kurulunun önerisi enstitü anabilim/anasanat dalı başkanının uygun görüşü ve enstitü yönetim kurulunun onayı ile kurulan, üç yıl süreyle görev yapan, Üniversitenin öğretim üyeleri içinden seçilen beş üyeden oluşan ve yeterlik/ön yeterlik sınavlarını düzenleyen ve yürüten komiteyi,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "(Değişik:RG-12/5/2026-33251) Enstitü: İstanbul Teknik Üniversitesine bağlı lisansüstü eğitim-öğretim ve araştırma yapan ilgili enstitüyü,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Enstitü anabilim/anasanat dalı: Enstitüde eğitim programı bulunan ilgili anabilim dalını,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Enstitü anabilim/anasanat dalı akademik kurulu: Enstitü anabilim ya da anasanat dalının, lisansüstü düzeyde ders veren ve/veya tez yöneten, tam zamanlı öğretim üyelerinden ve doktora ve sanatta yeterlik unvanına sahip öğretim görevlilerinden oluşan ilgili kurulu,"
+                },
+                {
+                  "harf": "h",
+                  "metin": "Enstitü anabilim/anasanat dalı başkanı: Enstitüde lisansüstü programı bulunan anabilim/anasanat dalı başkanını,"
+                },
+                {
+                  "harf": "ı",
+                  "metin": "Enstitü kurulu: Enstitü müdürünün başkanlığında, enstitü müdür yardımcıları ve enstitüde öğretim programları bulunan ve/veya ortak öğretim programı yürüten enstitü anabilim/anasanat dalı başkanlarını,"
+                },
+                {
+                  "harf": "i",
+                  "metin": "Enstitü yönetim kurulu: Müdürün başkanlığında, müdür yardımcıları, müdürce gösterilecek altı aday arasından enstitü kurulu tarafından üç yıl için seçilecek üç öğretim üyesinden oluşan ilgili kurulu,"
+                },
+                {
+                  "harf": "j",
+                  "metin": "Eş danışman: Tez çalışmasının niteliğinin gerektirdiği durumlarda atanan ikinci danışmanı,"
+                },
+                {
+                  "harf": "k",
+                  "metin": "İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,"
+                },
+                {
+                  "harf": "l",
+                  "metin": "Kredi: Kredili bir lisansüstü dersinin yarıyıl kredi değeri; bir yarıyıl devam eden bir dersin haftalık teorik ders saatinin tamamı ile haftalık uygulama, atölye çalışması ya da laboratuvar saatinin yarısının toplamını,"
+                },
+                {
+                  "harf": "m",
+                  "metin": "Öğrenci kabul komisyonu: Her akademik yarıyıl öncesi program yürütme kurulu ve enstitü anabilim/anasanat dalı başkanlığınca önerilen ve enstitü yönetim kurulu kararıyla onaylanan Üniversitenin öğretim üyeleri içinden seçilen en az üç asil ve iki yedek öğretim üyesi ve/veya doktora ve sanatta yeterlik unvanına sahip öğretim görevlisinden oluşan komisyonu,"
+                },
+                {
+                  "harf": "n",
+                  "metin": "ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,"
+                },
+                {
+                  "harf": "o",
+                  "metin": "Program: Yüksek lisans, doktora veya sanatta yeterlik unvanlarına yönelik belirli sayıda ve belirli içerikte zorunlu ve seçmeli dersler ile doktora yeterlik/sanatta ön yeterlik sınavı, tez ve uygulamalarını,"
+                },
+                {
+                  "harf": "ö",
+                  "metin": "Program akademik kurulu: Aynı enstitü anabilim/anasanat dalında birden çok program olduğu durumlarda her program için kurulan kurulu,"
+                },
+                {
+                  "harf": "p",
+                  "metin": "Program koordinatörü: Program akademik kuruluna ve yürütme kuruluna başkanlık eden öğretim üyesini,"
+                },
+                {
+                  "harf": "r",
+                  "metin": "Program yürütme kurulu: Üç veya beş kişiden oluşan ve üç yıl süreyle görev yapmak üzere kurulan, ilgili lisansüstü programın yürütülmesinden sorumlu olan ilgili kurulu,"
+                },
+                {
+                  "harf": "s",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "ş",
+                  "metin": "Senato: İstanbul Teknik Üniversitesi Senatosunu,"
+                },
+                {
+                  "harf": "t",
+                  "metin": "Tez: Yüksek lisans tezi, doktora tezi/sanatta yeterlik tezi ve uygulamasını,"
+                },
+                {
+                  "harf": "u",
+                  "metin": "Tez izleme komitesi: Doktora ve sanatta yeterlik programlarında kayıtlı öğrencinin tez çalışmasını izleyen komiteyi,"
+                },
+                {
+                  "harf": "ü",
+                  "metin": "Tez jürisi: Tezli yüksek lisans doktora ve sanatta yeterlikte öğrencinin tez çalışmasındaki başarı durumunu belirleyen jüriyi,"
+                },
+                {
+                  "harf": "v",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "y",
+                  "metin": "Yeterlik sınavı: Doktora ve sanatta yeterlik programlarındaki öğrencilerin kayıtlı oldukları programlardaki temel konularda ve tezi ile ilgili konularda yeterli bilgiye sahip olup olmadığının belirlendiği sınavı"
+                },
+                {
+                  "harf": "z",
+                  "metin": "(Ek:RG-22/7/2022-31900) Bütünleşik yüksek lisans: Üniversitenin lisans programlarının ilk beş yarıyılını başarı ile tamamlayanların öğrenimlerinin, yüksek lisans programı ile kesintisiz olarak birleştirildiği ve süreklilik gerektiren; ders, tez ve stajı içeren programı,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Yüksek Lisans Programları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Genel esaslar",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yüksek lisans programı, tezli ve/veya tezsiz olmak üzere iki şekilde yürütülebilir. Bu programların hangi enstitü anabilim dallarında ve nasıl yürütüleceği Senato tarafından belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Tezli ve tezsiz yüksek lisans programları arasında geçişe ilişkin koşullar Senato tarafından belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Öğretim elemanı ve öğrencilerin aynı mekânda bulunma zorunluluğu olmaksızın, bilgi ve iletişim teknolojilerine dayalı olarak öğretim faaliyetlerinin planlandığı ve yürütüldüğü lisansüstü uzaktan öğretim programları açılabilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "İkinci öğretim programlarında sadece tezsiz yüksek lisans eğitimi yürütülebilir. Bu programlarda doktora ve tezli yüksek lisans eğitimi yapılamaz. Tezli yüksek lisans programı",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Tezli yüksek lisans programının amacı; öğrencinin bilimsel araştırma yaparak bilgiye erişme, bilgiyi değerlendirme, yorumlama, kullanma ve üretme yeteneğini kazanmasını sağlamaktır. (Değişik cümle:RG-12/5/2026-33251) Bu program; yedi adet dersten az olmamak kaydıyla en az yirmi bir kredilik dersler ile kredisiz dersler, bir seminer dersi ve tez çalışmasından oluşur. Sanatla ilgili programlarda ayrıca uygulama çalışması da aranır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "(Ek:RG-22/7/2022-31900) Öğrenci, bütünleşik programın onuncu, yüksek lisans programının ise ikinci yarıyılında tez çalışmasına kaydolur ve eş zamanlı olarak 100 iş günü boyunca staj görür. Süre",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Tezli yüksek lisans programının süresi bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın dört yarıyıl olup, program en çok altı yarıyılda tamamlanır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Dört yarıyıl sonunda öğretim planında yer alan kredili derslerini ve seminer dersini başarıyla tamamlayamayan veya bu süre içerisinde programın öngördüğü başarı koşullarını/ölçütlerini yerine getiremeyen; azami süreler içerisinde ise tez çalışmasında başarısız olan veya tez savunmasına girmeyen öğrencinin Üniversite ile ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "(Ek:RG-2/11/2020-31292)(1) Afet ve salgınlarda tez aşamasındaki lisansüstü eğitim öğrencilerine talepleri halinde bir dönem, afet veya salgının aşamasına göre tekrar başvurmaları durumunda bir dönem daha olmak üzere en fazla iki dönem ek süre verilebilir, verilen bu ek süreler azami süreden sayılmaz. Tez danışmanı atanması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-2/11/2020-31292)(1)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Tezli yüksek lisans programında danışmanlık yapacak olan öğretim üyelerinin çalışma konuları ilgili programlar tarafından ilan edilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Danışmanlık yapacak öğretim üyesi en geç birinci yarıyılın sonuna kadar belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Kayıt olan öğrencilerin danışman atama işlemlerinin nasıl yapılacağı Senato tarafından belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Tez çalışmasının niteliğinin gerektirdiği durumlarda ikinci bir danışman, eş danışman olarak atanabilir.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Danışman değişikliği öğrencinin ve/veya danışmanın program yürütme kuruluna yazılı başvurusu, danışmanın, enstitü anabilim/anasanat dalı başkanının görüşü ve enstitü yönetim kurulunun kararı ile gerçekleşir. Danışman değişikliğinde yeni danışmanın onayı da aranır.",
+              "bentler": []
+            },
+            {
+              "no": 6,
+              "metin": "Öğrencinin alacağı derslerin belirlenmesi ve kayıt işlemleri danışman atanıncaya kadar program yürütme kurulu tarafından, danışman atanması sonrasında ise danışman tarafından yürütülür. Yüksek lisans tezinin sonuçlanması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrenci, Senato tarafından belirlenen tez yazım kılavuzuna uygun biçimde yazılan ve danışmanınca onaylanan tezini jüri önünde sözlü olarak savunmak zorundadır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Öğrenci, Senato tarafından belirlenen yazım kurallarına uygun biçimde yazıldığı danışmanınca onaylanan tezini jüri önünde sözlü olarak savunmak zorundadır. Yüksek lisans tezinin savunmasından önce ve düzeltme verilen tezlerde ise düzeltme ile birlikte öğrenci tezini tamamlayarak danışmanına sunar. Danışman, söz konusu teze ilişkin intihal yazılım programı raporunu alarak tezle birlikte Enstitüye sunar. Rapordaki verilerde gerçek bir intihalin tespiti halinde gerekçesi ile birlikte karar verilmek üzere tez enstitü yönetim kuruluna gönderilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yüksek lisans tez jürisi, tezin enstitüye tesliminden itibaren bir hafta içinde, program yürütme kurulu önerisi, anabilim/anasanat dalı başkanının görüşü ile enstitüye iletilir ve enstitü yönetim kurulu kararı ile atanır. Jüri, biri öğrencinin danışmanı ve en az biri başka bir yükseköğretim kurumundan olmak üzere üç kişiden oluşur. Eş danışman olması durumunda jüri, en az ikisi Üniversite içindeki başka bir anabilim/anasanat dalından veya başka bir yükseköğretim kurumundan olmak üzere beş kişiden oluşur. En fazla bir jüri üyesi yükseköğretim kurumları dışındaki kurum ve kuruluşlarda görev yapan ilgili konuda doktora/sanatta yeterlik unvanına sahip uzmanlardan seçilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Jüri üyeleri, tezin kendilerine teslim edildiği tarihten itibaren en geç bir ay içinde toplanarak öğrenciyi tez sınavına alır. Sınav, tez çalışmasının sunulması ve bunu izleyen soru-cevap bölümünden oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Tez sınavının tamamlanmasından sonra jüri tez hakkında oy çokluğu veya oy birliğiyle kabul, ret veya düzeltme kararı verir. Bu karar enstitü anabilim/anasanat dalı başkanlığınca tez sınavını izleyen üç gün içinde enstitüye tutanakla bildirilir.",
+              "bentler": []
+            },
+            {
+              "no": 6,
+              "metin": "Tezi hakkında düzeltme kararı verilen öğrenci en geç üç ay içinde gereğini yaparak tezini aynı jüri önünde yeniden savunur.",
+              "bentler": []
+            },
+            {
+              "no": 7,
+              "metin": "Tez çalışması başarısız bulunan öğrencilere talepleri halinde tezsiz yüksek lisans programının ders kredi yükü ve dönem projesi gereklerini yerine getirmiş olmak kaydıyla tezsiz yüksek lisans diploması verilir. Bu değişikliğin nasıl yapılacağı Senato tarafından belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 8,
+              "metin": "Yüksek lisans mezuniyet şartları Senato tarafından belirlenir. Tezli yüksek lisans diploması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Tez sınavında başarılı olan ve diğer koşulları sağlayan öğrenci, gerekli düzeltmeleri de tamamladıktan sonra Senatonun belirlediği tez yazım kılavuzuna göre yazılmış ve ciltlenmiş bir kopya yüksek lisans tezini ve tezin iki elektronik kopyasını tez danışmanının kabul yazısıyla birlikte tez sınavına giriş tarihinden itibaren bir ay içinde enstitüye teslim eder. Enstitü yönetim kurulu talep halinde teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması halinde Üniversite ile ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Mezuniyetine enstitü yönetim kurulunca karar verilen öğrenciye Senatoca uygun görülen tezli yüksek lisans diploması verilir. Tezli yüksek lisans diploması üzerinde öğrencinin tamamladığı enstitü anabilim/anasanat dalındaki programın onaylanmış adı bulunur. (Değişik cümle:RG-30/6/2017- 30110) Mezuniyet tezin sınav jüri komisyonu tarafından imzalı nüshasının teslim edildiği tarihtir. Tezsiz yüksek lisans programı",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Tezsiz yüksek lisans programının amacı; öğrenciye mesleki konuda bilgi kazandırmak ve mevcut bilginin uygulamada nasıl kullanılacağını göstermektir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Tezsiz yüksek lisans programı toplam otuz krediden az, kırk krediden fazla olmamak koşuluyla en az on adet en fazla on üç adet ders ile dönem projesi dersinden oluşur. Dönem projesi, başarılı veya başarısız olarak değerlendirilir. Öğrenci, dönem projesinin alındığı yarıyılda dönem projesine kayıt yaptırmak ve yarıyıl sonunda yazılı bir rapor vermek zorundadır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Tezsiz yüksek lisans programı ikinci öğretimde de yürütülebilir. Birinci öğretim tezsiz yüksek lisans programı süre ve ders yükleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Tezsiz yüksek lisans programını tamamlama süresi, bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın en az iki yarıyıl, en çok üç yarıyıldır. Bu sürenin sonunda başarısız olan veya programı tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Tezsiz yüksek lisans programındaki ders yükleri, süre ve mezuniyet ile ilgili diğer şartlar Senato tarafından belirlenir. İkinci öğretim tezsiz yüksek lisans programı süre ve ders yükleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "İkinci öğretim programlarında sadece tezsiz yüksek lisans öğretimi yürütülebilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Tezsiz yüksek lisans programını tamamlama süresi, bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın en az iki yarıyıl, en çok üç yarıyıldır. Bu sürenin sonunda başarısız olan veya programı tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Süre ve mezuniyet ile ilgili diğer şartlar Senato tarafından belirlenir. Danışman atanması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Tezsiz yüksek lisans programında, enstitü anabilim dalı başkanlığı her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya Senato tarafından belirlenen niteliklere sahip bir öğretim görevlisini en geç birinci yarıyılın sonuna kadar belirler. Tezsiz yüksek lisans diploması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Derslerini ve dönem projesini başarı ile tamamlayan öğrencinin mezuniyetine enstitü yönetim kurulunca karar verilir ve tezsiz yüksek lisans diploması verilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Tezsiz yüksek lisans diploması üzerinde öğrencinin tamamladığı enstitü anabilim/anasanat dalındaki programın onaylanmış adı bulunur.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Tezsiz yüksek lisans programına devam edenler, başvurdukları yükseköğretim kurumunca tezli yüksek lisans programı için belirlenmiş olan asgari şartları yerine getirmek kaydıyla, tezli yüksek lisans programına geçiş yapabilirler. Bu durumda tezsiz yüksek lisans programında alınan dersler enstitü yönetim kurulu kararıyla tezli yüksek lisans programındaki derslerin yerine sayılır.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Doktora Programı",
+      "maddeler": [
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "Genel esaslar",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Doktora programının amacı; öğrenciye bağımsız araştırma yapma, bilimsel olayları geniş ve derin bir bakış açısı ile irdeleyerek yorum yapma ve yeni sentezlere ulaşmak için gerekli adımları belirleme yeteneği kazandırmaktır. Doktora çalışmaları sonunda hazırlanacak tezin; niteliklerinden birini yerine getirmesi gerekir.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Bilime yenilik getirmesi,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yeni bir bilimsel yöntem geliştirmesi,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Bilinen bir yöntemi yeni bir alana uygulama,"
+                }
+              ]
+            },
+            {
+              "no": 2,
+              "metin": "Doktora programı, tezli yüksek lisans derecesi olan öğrenciler için toplam yirmi bir krediden az olmamak koşuluyla en az yedi adet ders, seminer, yeterlik sınavı, tez önerisi ve tez çalışmasından, lisans derecesi ile kabul edilmiş olan öğrenciler için ise toplam kırk iki krediden az olmamak koşuluyla on dört adet ders, seminer, yeterlik sınavı, tez önerisi ve tez çalışmasından oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Doktora programları yurt içi ve yurt dışı entegre doktora programları şeklinde de düzenlenebilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Doktora programına lisans derecesi ile kabul edilmiş ve en az (Değişik ibare:RG-12/5/2026-33251) yirmi bir kredilik dersini başarı ile tamamlamış bir öğrenci yüksek lisans programına geçebilir. Yüksek lisans programına geçiş Senato tarafından belirlenir. Süre",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-30/6/2017- 30110)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Doktora programı, bilimsel hazırlıkta geçen süre hariç tezli yüksek lisans derecesi ile kabul edilenler için kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın sekiz yarıyıl olup azami tamamlama süresi on iki yarıyıl; lisans derecesi ile kabul edilenler için on yarıyıl olup azami tamamlama süresi on dört yarıyıldır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Doktora programı için gerekli kredili dersleri başarıyla tamamlamanın azami süresi yüksek lisans derecesi ile kabul edilenler için dört yarıyıl, lisans derecesi ile kabul edilenler için altı yarıyıldır. Gerekli kredili dersleri azami süre içinde tamamlamayan öğrencilerin Üniversite ile ilişiği kesilir. Bu süre içinde kredili derslerini başarıyla tamamlayamayan veya Üniversitenin öngördüğü en az genel not ortalamasını sağlayamayan öğrencinin Üniversite ile ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Kredili derslerini başarıyla bitiren, yeterlik sınavında başarılı bulunan ve tez önerisi kabul edilen, ancak tez çalışmasını birinci fıkrada belirtilen on iki veya on dört yarıyıl sonuna kadar tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Lisans derecesi ile doktora programına başvurmuş öğrencilerden, kredili derslerini ve/veya azami süresi içinde tez çalışmasını tamamlayamayanlara, doktora tezinde başarılı olamayanlara tezsiz yüksek lisans için gerekli kredi yükü, proje ve benzeri diğer şartları yerine getirmiş olmaları kaydıyla talepleri halinde tezsiz yüksek lisans diploması verilir.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "(Ek:RG-2/11/2020-31292)(1) Afet ve salgınlarda tez aşamasındaki lisansüstü eğitim öğrencilerine talepleri halinde bir dönem, afet veya salgının aşamasına göre tekrar başvurmaları durumunda bir dönem daha olmak üzere en fazla iki dönem ek süre verilebilir, verilen bu ek süreler azami süreden sayılmaz. Tez danışmanı atanması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 18,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-30/6/2017- 30110)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Doktora programında danışmanlık yapacak olan öğretim üyeleri ve çalışma konuları Senato tarafından belirlenen esaslar çerçevesinde ilgili programlar tarafından ilan edilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Doktora programlarında öğretim üyelerinin tez yönetebilmesi için, başarı ile tamamlanmış en az bir yüksek lisans tezi yönetmiş olması gerekir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Doktora öğrencisi, çalışmak istediği tez konusu ve danışmanını belirten bir dilekçe ile program yürütme kuruluna başvurur. Program yürütme kurulu, danışmanın onayını alarak, enstitü anabilim dalı başkanı görüşü ile birlikte enstitü yönetim kuruluna sunar. Danışman atanması enstitü yönetim kurulu kararı ile kesinleşir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Tez çalışmasının niteliğinin birden fazla tez danışmanı gerektirdiği durumlarda eş danışman; danışman önerisi, program yürütme kurulu ve enstitü anabilim dalı başkanının uygun görüşü ile enstitü yönetim kurulu kararı ile atanır. Atanacak ikinci tez danışmanı Üniversite kadrosu dışından da en az doktora derecesine sahip kişilerden olabilir.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Danışman değişikliği, öğrencinin ve/veya danışmanın yazılı başvurusu üzerine danışman öğretim üyelerinin, program yürütme kurulunun ve enstitü anabilim dalı başkanının görüşü alınarak enstitü yönetim kurulu kararı ile yapılır. Yeterlik sınavı",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 19,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yeterlik sınavının amacı, öğrencinin bulunduğu programdaki temel konularda ve tezi ile ilgili konularda yeterli bilgiye sahip olup olmadığının sınanmasıdır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "(Değişik cümle:RG-30/6/2017- 30110) Yeterlik sınavı güz ve bahar yarıyıllarının sonunda olmak üzere yılda iki kez yapılır. Kredilerini tamamlayan, ağırlıklı genel not ortalaması en az 3,00 olan yüksek lisans derecesi ile kabul edilen öğrenci en geç beşinci yarıyılın, lisans derecesi ile kabul edilmiş olan öğrenci en geç yedinci yarıyılın sonuna kadar yeterlik sınavına girmek zorundadır. Girmediği takdirde başarısız sayılır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yeterlik sınavına girmek için başvuruda bulunan öğrenci, yeterlik sınavına girmediği takdirde başarısız sayılır.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Yeterlik sınavında başarısız olan öğrenci bir sonraki yarıyılda tekrar sınava alınır. Yeterlik sınavında iki kez başarısız olan öğrencinin Üniversite ile ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Yeterlik sınavları, Senato tarafından belirlenen esaslara göre doktora yeterlik komitesi tarafından düzenlenir ve yürütülür. Tez izleme komitesi",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 20,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yeterlik sınavında başarılı bulunan öğrenci için; danışmanın önerisi, program yürütme kurulunun ve enstitü anabilim dalı başkanının uygun görüşü ve enstitü yönetim kurulu kararı ile en geç bir ay içinde bir tez izleme komitesi oluşturulur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Tez izleme komitesinin kurulmasından sonraki dönemlerde, enstitü anabilim dalı başkanlığının önerisi ve enstitü yönetim kurulu kararı ile üyelerde değişiklik yapılabilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Tez izleme komitesinin oluşturulması ile ilgili esaslar Senato tarafından belirlenir. Tez önerisi savunması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 21,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Doktora yeterlik sınavını başarı ile tamamlayan öğrenci, en geç altı ay içinde, yapacağı araştırmanın amacını, yöntemini ve çalışma planını kapsayan tez önerisini enstitüye ve tez izleme komitesine sunar ve tez izleme komitesi önünde sözlü olarak savunur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Savunmayı değerlendiren tez izleme komitesi, oy çokluğu veya oy birliğiyle kabul veya ret kararı verir ve karar bir tutanak ile üç gün içinde enstitüye bildirilir. Tez izleme komitesi, öğrencinin sunduğu tez önerisinin kabulüne, düzeltilmesine veya reddine salt çoğunlukla karar verir. Düzeltme için bir ay süre verilir. Bu süre sonunda kabul veya red yönünde salt çoğunlukla verilen karar, enstitü anabilim/anasanat dalı başkanlığınca işlemin bitişini izleyen üç gün içinde enstitüye tutanakla bildirilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Süresi içerisinde tez önerisini yazılı olarak vermeyen, savunma yapmayan veya tez önerisi reddedilen öğrenci, yeni bir danışman ve tez konusu seçme hakkına sahiptir. Böyle bir durumda program yürütme kurulunun önerisi, enstitü anabilim dalı başkanının onayı ve enstitü yönetim kurulu kararı ile yeni bir tez izleme komitesi seçilebilir. Programa aynı danışmanla fakat yeni bir tez konusu ile devam etmek isteyen öğrenci üç ay içinde, danışmanını ve tez konusunu değiştiren öğrenci ise altı ay içinde yeniden tez önerisi savunmasına alınır.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Tez önerisinin süresi içinde iki defa üst üste verilmemesi veya tez izleme komitesi tarafından iki defa üst üste başarısız bulunulması durumunda öğrencinin Üniversite ile ilişiği kesilir. Doktora tezinin izlenmesi",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 22,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik cümle:RG-12/5/2026-33251) Tez önerisi kabul edilen öğrenci, Ocak-Haziran ve Temmuz-Aralık ayları arasında birer defa olmak üzere yılda iki kez tez çalışmasının gelişmesi ile ilgili enstitüye yazılı bir rapor sunarak bu raporu takip eden ve Senato tarafından belirlenen sürede tezini tez izleme komitesi önünde savunur. Bu raporda tez konusu ile ilgili yaptığı çalışmaları ve yapacağı çalışma planını belirtir. Öğrencinin tez çalışması, komite tarafından başarılı veya başarısız olarak değerlendirilir ve bir tutanakla program yürütme kurulu aracılığı ile enstitü müdürlüğüne bildirilir. Tez izleme komitesi tarafından üst üste iki kez veya aralıklı olarak üç kez başarısız bulunan öğrencinin Üniversite ile ilişiği kesilir. Doktora tezinin sonuçlandırılması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 23,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrenci, Senatoca belirlenen tez yazım kılavuzu esaslarına uygun şekilde hazırladığı tezini, danışmanının görüşü ile birlikte enstitüye teslim eder.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Öğrenci, Senato tarafından belirlenen yazım kurallarına uygun biçimde yazıldığı danışmanınca onaylanan tezini jüri önünde sözlü olarak savunmak zorundadır. Doktora tezinin savunmasından önce ve düzeltme verilen tezlerde ise düzeltme ile birlikte öğrenci tezini tamamlayarak danışmanına sunar. Danışman, söz konusu teze ilişkin intihal yazılım programı raporunu alarak tezle birlikte Enstitüye sunar. Rapordaki verilerde gerçek bir intihalin tespiti halinde gerekçesi ile birlikte karar verilmek üzere tez enstitü yönetim kuruluna gönderilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "(Değişik:RG-2/11/2020-31292)(1) Doktora tez jürisi, danışman ve program yürütme kurulunun önerisi, enstitü anabilim/anasanat dalı başkanının görüşü ve enstitü yönetim kurulunun kararıyla belirlenir. Jüri, üçü öğrencinin tez izleme komitesinde yer alan öğretim üyeleri ve en az ikisi Üniversite dışından olmak üzere danışman dâhil beş öğretim üyesinden oluşur. Danışmanın oy hakkı olup olmadığı hususunda ilgili yönetim kurulu karar verir. Danışmanın oy hakkı olmaması durumunda jüri altı öğretim üyesinden oluşur. En çok bir jüri üyesi yükseköğretim kurumları dışındaki kurum ve kuruluşlarda görev yapan doktor unvanına sahip uzmanlardan seçilebilir. Enstitü yönetim kurulu, ayrıca birisi Üniversiteden, diğeri ise başka bir yükseköğretim kurumunun öğretim üyelerinden olmak üzere iki yedek üye seçer.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "(Değişik:RG-2/11/2020-31292)(1) Eş danışman oy hakkı olmaksızın jüride yer alabilir.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Haklı ve geçerli mazeretleri nedeniyle jüriye katılamayacak olan üyeler katılamama gerekçelerini tezi teslim aldıkları tarihten itibaren en geç bir hafta içinde yazılı olarak enstitü müdürlüğüne bildirirler.",
+              "bentler": []
+            },
+            {
+              "no": 6,
+              "metin": "İlgili enstitü, tezi iki hafta süre ile incelemeye tabi tutar ve bunu Rektörlüğe, fakültelere ve diğer enstitülere ilan edilmek üzere duyurur. Bu süre içinde gelen tezle ilgili yazılı görüşler enstitü müdürlüğünce jüri üyelerine yazılı olarak bildirilir.",
+              "bentler": []
+            },
+            {
+              "no": 7,
+              "metin": "Jüri üyeleri adayın sunduğu doktora tezini, bilimsel ve biçimsel yönden inceleyerek tez hakkında hazırladıkları kişisel raporları, tezin kendilerine teslim edildiği tarihten itibaren en geç yirmi bir gün içinde enstitü müdürlüğüne verirler. Bu süre sonunda raporunu teslim etmeyen jüri üyelerinin yerine yedek jüri üyeleri görevlendirilir. Raporunu süresi içerisinde sunmayan öğretim üyesinin gerekçelerini enstitü müdürlüğüne yazılı olarak bildirmesi gerekir.",
+              "bentler": []
+            },
+            {
+              "no": 8,
+              "metin": "Jüri üyeleri, söz konusu tezin kendilerine teslim edildiği tarihten itibaren en geç bir ay içinde toplanarak öğrenciyi tez sınavına alır. Doktora tez sınavının tarihi ve yeri danışmanın önerisi ile enstitülerce belirlenir ve jüri üyelerine yazılı olarak bildirilir.",
+              "bentler": []
+            },
+            {
+              "no": 9,
+              "metin": "Tez sınavından sonra, jüri dinleyicilere kapalı olarak toplanır, tez hakkında oy çokluğu veya oy birliğiyle kabul, ret veya düzeltme kararı verir ve bir tutanakla belgelenir. Ayrıca doktora tezini ve sınavı değerlendiren bir ortak rapor düzenler. Tezin oy çokluğuyla kabul edilmesi durumunda ret oyu veren jüri üyelerinin görüşleri ile diğer jüri üyelerince bu görüşlere verilen cevaplar da bu raporda yer alır.",
+              "bentler": []
+            },
+            {
+              "no": 10,
+              "metin": "Jüri tarafından program yürütme kuruluna iletilen ortak rapor ve tutanak, program koordinatörü ve anabilim dalı başkanlığının onayıyla tez sınavını izleyen üç gün içinde enstitüye bildirilir. Tezi reddedilen öğrencinin Üniversite ile ilişiği kesilir. Tezi hakkında düzeltme kararı verilen öğrenci en geç altı ay içinde gereğini yaparak danışmanının onayıyla enstitüye teslim ettiği düzeltilmiş tezini aynı jüri önünde yeniden savunur. Düzeltme süresi sonunda düzeltilmiş tezini teslim etmeyen veya düzeltilmiş tezini teslim ettikten sonraki savunma sınavı sonunda da tezi kabul edilmeyen öğrencinin Üniversite ile ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 11,
+              "metin": "Lisans derecesi ile doktoraya kabul edilmiş olanlardan tezde başarılı olamayanlar için talepleri halinde tezsiz yüksek lisans programının ders kredi yükü, proje yazımı ve benzeri gereklerini yerine getirmiş olmak kaydıyla tezsiz yüksek lisans diploması verilir.",
+              "bentler": []
+            },
+            {
+              "no": 12,
+              "metin": "Doktora öğreniminde mezuniyet şartları Senato tarafından belirlenir. Doktora diploması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 24,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Tez sınavında başarılı olan ve diğer koşulları sağlayan öğrenci gerekli düzeltmeleri de tamamladıktan sonra, Senato tarafından belirlenen tez yazım kılavuzuna göre yazılmış ve ciltlenmiş bir kopya doktora tezini ve tezin iki elektronik kopyasını tez danışmanının kabul yazısıyla birlikte tez sınavına giriş tarihinden itibaren bir ay içinde enstitüye teslim eder. Enstitü yönetim kurulu başvuru üzerine teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması halinde Üniversite ile ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Enstitü yönetim kurulu tarafından jüri raporları doğrultusunda kabul edilen ve tezi biçim yönünden uygun bulunan öğrencinin, doktor unvanı almaya hak kazanması için Senato tarafından belirlenen mezuniyet şartını sağlaması gerekir. (Değişik cümle:RG-30/6/2017- 30110) Mezuniyet tarihi; tezin sınav jüri komisyonu tarafından imzalı nüshasının teslim edildiği tarihtir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Doktora diploması üzerinde öğrencinin izlemiş olduğu enstitü anabilim dalındaki programın onaylanmış adı bulunur.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Sanatta Yeterlik Programı",
+      "maddeler": [
+        {
+          "no": 25,
+          "gecici": false,
+          "baslik": "Genel esaslar",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Sanatta yeterlik programı, öğrenciye bağımsız araştırma yapmayı ve sanat dalında yeni sentezlere ulaşmak için gerekli adımları belirleme yeteneği kazandırmayı ve öğrencinin kendi disiplini içerisindeki temel konularda yeterlik sahibi olmasını amaçlar. Sanatta yeterlik programı sonunda hazırlanacak tezin ve birlikte sunulacak olan uygulamalı sergi, bireysel icra, gösteri, temsil ve benzeri çalışmaların; niteliklerinden birini yerine getirmesi gerekir.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Sanat dalına yenilik getirme,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yeni bir sanatsal yöntem geliştirme,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Bilinen bir sanatsal yöntemi yeni bir alana uygulama,"
+                }
+              ]
+            },
+            {
+              "no": 2,
+              "metin": "Sanatta yeterlik programı; yüksek lisans derecesi olan öğrenciler için toplam en az yirmi bir krediden az olmamak koşuluyla en az yedi adet ders, yeterlik sınavı, tez önerisi ve tez çalışmasından, lisans derecesi ile kabul edilmiş olan öğrenciler için ise toplam en az kırk iki krediden az olmamak koşuluyla on dört adet ders, proje, sergi, resital, konser, gösteri, temsil ve benzeri uygulamalar ile ön yeterlik sınavı, tez önerisi, tez ve uygulama çalışmalarından oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Sanatta yeterlik programları yurt içi ve yurt dışı entegre sanatta yeterlik programları şeklinde de düzenlenebilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Sanatta yeterlik programına lisans derecesi ile kabul edilmiş ve en az yirmi bir kredilik dersini başarı ile tamamlamış bir öğrenci yüksek lisans programına geçebilir. Yüksek lisans programına geçiş esasları Senato tarafından belirlenir. Süre",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 26,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-30/6/2017- 30110)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Sanatta yeterlik programını tamamlama süresi, bilimsel hazırlıkta geçen süre hariç yüksek lisans derecesi ile kabul edilenler için kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın sekiz yarıyıl olup azami tamamlama süresi on iki yarıyıl, lisans derecesi ile kabul edilenler için on yarıyıl olup azami tamamlama süresi on dört yarıyıldır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Sanatta yeterlik programı için gerekli kredili dersleri başarıyla tamamlamanın azami süresi tezli yüksek lisans derecesi ile kabul edilenler için dört yarıyıl, lisans derecesi ile kabul edilenler için altı yarıyıldır. Bu süre içinde kredili derslerini başarıyla tamamlayamayan veya Üniversitenin öngördüğü en az genel not ortalamasını sağlayamayan öğrencinin Üniversite ile ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Kredili derslerini ve uygulamalarını başarıyla bitiren; ancak tez, sergi, proje, resital, konser, temsil gibi çalışmalarını birinci fıkrada belirtilen azami on iki yarıyıl veya dört yarıyıl sonuna kadar tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Lisans derecesi ile sanatta yeterlik programına başvurmuş öğrencilerden, gerekli kredi yükü, proje ve benzeri diğer şartları yerine getirmiş olmaları kaydıyla sanatta yeterlik tezinde başarılı olamayanlara talepleri halinde tezsiz yüksek lisans diploması verilir. Tez danışmanı atanması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 27,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Sanatta yeterlik programında danışmanlık yapacak olan öğretim üyeleri ve çalışma konuları ilgili programlar tarafından ilan edilir. Danışman ataması en geç ikinci dönem sonuna kadar yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Sanatta yeterlik öğrencisi, çalışmak istediği tez konusu ve danışmanını belirten bir dilekçe ile program yürütme kuruluna başvurur. Program yürütme kurulu, danışmanın onayını alarak, enstitü anabilim dalı başkanı görüşü ile birlikte enstitü yönetim kuruluna sunar. Danışman atanması enstitü yönetim kurulu kararı ile kesinleşir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Tez çalışmasının niteliğinin birden fazla tez danışmanı gerektirdiği durumlarda eş danışman; danışman önerisi, program yürütme kurulu ve enstitü anabilim dalı başkanının uygun görüşü ile enstitü yönetim kurulu kararı ile atanır. (Ek cümle:RG-30/6/2017- 30110) Atanacak ikinci tez danışmanı Üniversite kadrosu dışında da doktora/sanatta yeterlik derecesine sahip kişilerden olabilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Danışman değişikliği, öğrencinin ve/veya danışmanın yazılı başvurusu üzerine danışman öğretim üyelerinin, program yürütme kurulunun ve enstitü anabilim dalı başkanının görüşü alınarak enstitü yönetim kurulu kararı ile yapılır. Sanatta yeterlik çalışmasının sonuçlanması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 28,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Tez hazırlayan öğrenci elde ettiği sonuçları, sergi, proje, resital, konser, temsil gibi çalışmasını açıklayan ve belgeleyen metni Senato tarafından kabul edilen yazım kurallarına uygun biçimde yazarak, tez, sergi, proje, resital, konser, temsil gibi çalışmalarını jüri önünde sözlü olarak savunur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Sanatta yeterlik çalışmasının savunmasından önce ve düzeltme verilen tez ve çalışmalarda ise düzeltme ile birlikte öğrenci tezini/çalışmasını tamamlayarak danışmanına sunar. Danışman tezin savunulabilir olduğuna ilişkin görüşü ile birlikte tezi enstitüye teslim eder. Enstitü söz konusu teze ilişkin intihal yazılım programı raporunu alarak danışmana ve jüri üyelerine gönderir. Rapordaki verilerde bir intihalin tespiti halinde gerekçesi ile birlikte karar verilmek üzere tez enstitü yönetim kuruluna gönderilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Sanatta yeterlik çalışmasını tamamlayan öğrenci, tezin istenen sayıda nüshasını danışmanına teslim eder. Danışman, tezin yazım kurallarına uygunluğu yönünden görüşünü yazılı olarak belirtir ve tezleri anabilim/anasanat dalı başkanlığı aracılığıyla enstitüye gönderir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Sanatta yeterlik jürisi, danışman ve enstitü anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim kurulu onayı ile atanır. Jüri, en az ikisi kendi yükseköğretim kurumu dışından öğretim üyesi olmak üzere danışman dahil beş kişiden oluşur. Danışmanın oy hakkı olup olmadığı hususunda enstitü yönetim kurulu karar verir. Danışmanın oy hakkı olmaması durumunda jüri altı kişiden oluşur. Ayrıca ikinci tez danışmanı oy hakkı olmaksızın jüride yer alabilir.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Jüri üyeleri, söz konusu tezin veya metnin kendilerine teslim edildiği tarihten itibaren en geç bir ay içinde toplanarak öğrenciyi sınava alır. Sınav, sanatta yeterlik çalışmasının sunumu ve bunu izleyen soru-cevap bölümünden oluşur. Sınav öğretim elemanları, lisansüstü öğrenciler ve alanın uzmanlarından oluşan dinleyicilerin katılımına açık olarak yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 6,
+              "metin": "Sınavın tamamlanmasından sonra jüri, dinleyicilere kapalı olarak, öğrencinin tez, sergi, proje, resital, konser, temsil gibi sanatta yeterlik çalışması hakkında salt çoğunlukla kabul, ret veya düzeltme kararı verir. Tezi ve sanatta yeterlik çalışması kabul edilen öğrenciler başarılı olarak değerlendirilir. Bu karar, enstitü anabilim/anasanat dalı başkanlığınca sınavı izleyen üç gün içinde enstitüye tutanakla bildirilir. Tezi ve sanatta yeterlik çalışması başarısız bulunarak reddedilen öğrencinin Üniversite ile ilişiği kesilir. Sanatta yeterlik çalışması hakkında düzeltme kararı verilen öğrenci en geç altı ay içinde gerekli düzeltmeleri yaparak tez, sergi, proje, resital, konser, temsil gibi sanatta yeterlik çalışmasını aynı jüri önünde yeniden savunur. Bu savunma sonunda da başarısız bulunarak sanatta yeterlik çalışması kabul edilmeyen öğrencinin Üniversite ile ilişiği kesilir. Lisans derecesi ile sanatta yeterlik programına kabul edilmiş olanlardan tez, sergi, proje, resital, konser, temsil gibi sanatta yeterlik çalışması başarılı olamayanlar için talepleri halinde 26 ncı maddenin dördüncü fıkrasına göre tezsiz yüksek lisans diploması verilir. Sanatta yeterlik tezinin sonuçlandırılması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 29,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrenci, Senatoca belirlenen tez yazım kılavuzu esaslarına uygun şekilde hazırladığı tezini, danışmanının görüşü ile birlikte enstitüye teslim eder.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Öğrenci, Senato tarafından belirlenen yazım kurallarına uygun biçimde yazıldığı danışmanınca onaylanan tezini jüri önünde sözlü olarak savunmak zorundadır. Sanatta yeterlik tezinin savunmasından önce ve düzeltme verilen tezlerde ise düzeltme ile birlikte öğrenci tezini tamamlayarak danışmanına sunar. Danışman tezin savunulabilir olduğuna ilişkin görüşü ile birlikte tezi enstitüye teslim eder. Enstitü söz konusu teze ilişkin intihal yazılım programı raporunu alarak tezle birlikte danışmana ve jüri üyelerine gönderir. Rapordaki verilerde bir intihalin tespiti halinde gerekçesi ile birlikte karar verilmek üzere tez enstitü yönetim kuruluna gönderilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Sanatta yeterlik tez jürisi, program yürütme kurulunun önerisi, enstitü anabilim/anasanat dalı başkanının görüşü ve enstitü yönetim kurulunun kararıyla belirlenir. Jüri en az ikisi başka bir yükseköğretim kurumunun öğretim üyesi olmak üzere beş üyeden oluşur. Sanatta yeterlik sınavında danışmanın oy hakkı vardır. En çok bir jüri üyesi yükseköğretim kurumları dışındaki kurum ve kuruluşlarda görev yapan doktor unvanına sahip uzmanlardan seçilebilir. Enstitü yönetim kurulu, ayrıca birisi Üniversiteden, diğeri ise başka bir yükseköğretim kurumunun öğretim üyelerinden olmak üzere iki yedek üye seçer.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Tez çalışması eş danışmanla yapılıyor ise jüri, en az üçü Üniversite dışından olmak üzere yedi üyeden oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Haklı ve geçerli mazeretleri nedeniyle jüriye katılamayacak olan üyeler katılamama gerekçelerini tezi teslim aldıkları tarihten itibaren en geç bir hafta içinde yazılı olarak enstitü müdürlüğüne bildirirler.",
+              "bentler": []
+            },
+            {
+              "no": 6,
+              "metin": "İlgili enstitü, tezi iki hafta süre ile incelemeye tabi tutar ve bunu Rektörlüğe, fakültelere ve diğer enstitülere ilan edilmek üzere duyurur. Bu süre içinde gelen tezle ilgili yazılı görüşler enstitü müdürlüğünce jüri üyelerine yazılı olarak bildirilir.",
+              "bentler": []
+            },
+            {
+              "no": 7,
+              "metin": "Jüri üyeleri adayın sunduğu sanatta yeterlik tezini, bilimsel ve biçimsel yönden inceleyerek tez hakkında hazırladıkları kişisel raporları, tezin kendilerine teslim edildiği tarihten itibaren en geç yirmi bir gün içinde enstitü müdürlüğüne verirler. Bu süre sonunda raporunu teslim etmeyen jüri üyelerinin yerine yedek jüri üyeleri görevlendirilir. Raporunu süresi içerisinde sunmayan öğretim üyesinin gerekçelerini enstitü müdürlüğüne yazılı olarak bildirmesi gerekir.",
+              "bentler": []
+            },
+            {
+              "no": 8,
+              "metin": "Jüri üyeleri, söz konusu tezin kendilerine teslim edildiği tarihten itibaren en geç bir ay içinde toplanarak öğrenciyi tez sınavına alır. Sanatta yeterlik tez sınavının tarihi ve yeri danışmanın önerisi gözetilerek enstitü tarafından belirlenir, jüri üyelerine yazılı olarak bildirilir.",
+              "bentler": []
+            },
+            {
+              "no": 9,
+              "metin": "Tez sınavından sonra, jüri dinleyicilere kapalı olarak toplanır, tez hakkında oy çokluğu veya oy birliğiyle kabul, ret veya düzeltme kararı verir ve bunu bir tutanakla belgeler. Ayrıca sanatta yeterlik tezini ve sınavı değerlendiren bir ortak rapor düzenler. Tezin oy çokluğuyla kabul edilmesi durumunda ret oyu veren jüri üyelerinin görüşleri ile diğer jüri üyelerince bu görüşlere verilen cevaplar da bu raporda yer alır.",
+              "bentler": []
+            },
+            {
+              "no": 10,
+              "metin": "Jüri tarafından program yürütme kuruluna iletilen ortak rapor ve tutanak, program koordinatörü ve anabilim dalı başkanlığının onayıyla tez sınavını izleyen üç gün içinde enstitüye bildirilir. Tezi reddedilen öğrencinin Üniversite ile ilişiği kesilir. Tezi hakkında düzeltme kararı verilen öğrenci en geç altı ay içinde gereğini yaparak danışmanının onayıyla enstitüye teslim ettiği düzeltilmiş tezini aynı jüri önünde yeniden savunur. Bu savunma sonunda da tezi kabul edilmeyen öğrencinin Üniversite ile ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 11,
+              "metin": "Lisans derecesi ile sanatta yeterliğe kabul edilmiş olanlardan tezde başarılı olamayanlar için talepleri halinde tezsiz yüksek lisans programının ders kredi yükü, proje yazımı ve benzeri gereklerini yerine getirmiş olmak kaydıyla tezsiz yüksek lisans diploması verilir.",
+              "bentler": []
+            },
+            {
+              "no": 12,
+              "metin": "Sanatta yeterlik öğreniminde mezuniyet şartları Senato tarafından belirlenir. Sanatta yeterlik diploması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 30,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Tez sınavında başarılı olan ve diğer koşulları sağlayan öğrenci, Senato tarafından belirlenen tez yazım kılavuzuna göre yazılmış ve ciltlenmiş bir kopya sanatta yeterlik tezini ve tezin iki elektronik kopyasını tez danışmanının kabul yazısıyla birlikte tez sınavına giriş tarihinden itibaren bir ay içerisinde enstitüye teslim eder. Öğrencinin mezuniyetine karar verilmesi için, sanatta yeterlik tezinin bu fıkrada belirtilen şekilde teslim edilmesi gerekir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Enstitü yönetim kurulu tarafından jüri raporları doğrultusunda kabul edilen ve tezi biçim yönünden uygun bulunan öğrenciye, Senato tarafından belirlenen mezuniyet şartını da sağladığı takdirde sanat dalının özelliğine göre alanını belirleyen ve öğrencinin izlemiş olduğu enstitü anasanat dalındaki programın onaylanmış adı bulunan sanatta yeterlik diploması verilir. (Değişik cümle:RG-30/6/2017- 30110) Mezuniyet tarihi; tezin sınav jüri komisyonu tarafından imzalı nüshasının teslim edildiği tarihtir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 5,
+      "baslik": "BEŞİNCİ BÖLÜM",
+      "altBaslik": "Bilimsel Hazırlık Programı, Kredi Sistemi ve Özel Öğrenci Kabulü",
+      "maddeler": [
+        {
+          "no": 31,
+          "gecici": false,
+          "baslik": "Bilimsel hazırlık programına öğrenci kabulü",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yüksek lisans ve doktora programlarında eksikliklerini gidermek amacıyla; Senato tarafından belirlenen esaslar çerçevesinde bilimsel hazırlık programı uygulanabilir. Özel öğrenci kabulü",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Lisans derecesi başvurdukları yüksek lisans programından farklı alanlarda olan adaylara,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Lisans derecesi Üniversite dışındaki yükseköğretim kurumlarından olan yüksek lisans programı adaylarına,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Lisans veya yüksek lisans derecesi Üniversite dışındaki yükseköğretim kurumlarından olan doktora programı adaylarına,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Lisans veya yüksek lisans derecesi başvurdukları doktora programından farklı alanda olan adaylara,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 32,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-2/11/2020-31292)(1)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Bir yüksek lisans, doktora ya da sanatta yeterlik programına kayıtlı olan öğrenci, kayıtlı olduğu enstitü anabilim/anasanat dalı başkanlığının onayı ile Üniversitedeki lisansüstü derslere özel öğrenci olarak kabul edilebilir. Özel öğrenci kabulüne ilişkin hususlar Senato tarafından belirlenir. Lisansüstü programa başvuru koşulları, kontenjan, kabul ve kayıt",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 33,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Lisansüstü programa başvuru koşulları, kontenjanlar, ön kayıt, kabul ve kesin kayda ilişkin süreçler, ilgili mevzuat hükümlerine uygun olarak Senato tarafından düzenlenir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Öğrenci kabul edilecek lisansüstü programlar, kontenjanlar, başvuru koşulları ve lisansüstü programlarına kabul için adaylarda aranacak nitelikler program türüne bağlı olmak üzere, Senato tarafından belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "(Ek:RG-2/11/2020-31292)(1) Lisansüstü program kontenjanları, Yükseköğretim Kurulu tarafından belirlenen lisansüstü programlarda görev alabilecek öğretim üyesi sayısı ve mevcut öğretim üyesi başına düşen öğrenci sayısı dikkate alınarak, tezli yüksek lisans ve doktora programları için öğretim üyesi başına düşen tez danışmanlığı en fazla 14, tezsiz yüksek lisans programları için ise tezli yüksek lisans ve doktora programları hariç en fazla 16 öğrenci düşecek şekilde belirlenir. Ancak, Yükseköğretim Kurulu ile yapılan protokol dâhilinde ve Üniversite sanayi işbirliği çerçevesinde yürütülen lisansüstü programlar için bu kontenjan %50’ye kadar artırılabilir. Yatay geçiş yoluyla öğrenci kabulü",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 34,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Üniversitedeki veya başka bir yükseköğretim kurumundaki lisansüstü programda en az bir yarıyılı tamamlamış öğrenci, Senato tarafından belirlenen esaslar çerçevesinde yatay geçiş yoluyla Üniversitenin lisansüstü programlarına kabul edilebilir. Yabancı uyruklu adayların kabulü",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 35,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yabancı uyruklu adayların lisansüstü eğitim programlarına kabul koşulları, program yürütme kurulu ve enstitü anabilim/anasanat dalı başkanlığının görüşü ve enstitü yönetim kurulunun önerisi üzerine Senato tarafından belirlenir. Lisansüstü programlara kayıt, kayıt yenileme, süre ve katkı payı",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 36,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Üniversitede başvurdukları lisansüstü programlarda öğrenim yapma hakkı elde eden adaylar kayıtlarını, akademik takvimde belirlenen süre içinde Senato tarafından belirlenen esaslara göre yaptırırlar. Kayıt için istenen belgelerin aslı veya onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Lisansüstü öğrencileri her yarıyıl başında, Senato kararlarına göre kayıtlarını yenilerler.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Bilimsel hazırlık öğretiminin birinci yılının sonunda, bilimsel hazırlık derslerini tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Lisansüstü eğitimde kayıt yenileme esasları Senato tarafından belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "İlgili mevzuat hükümleri uyarınca belirlenen öğrenci katkı payı ve/veya öğrenim ücretleri, dönem başlarında akademik takvimde belirtilen tarihlerde ödenir. Mazeretleri enstitü yönetim kurulunca kabul edilenler hariç, süresi içinde katkı payı ve/veya öğrenim ücretini ödemeyenler o dönem için kayıt yaptıramaz/yeniletemez ve öğrencilik haklarından yararlanamaz.",
+              "bentler": []
+            },
+            {
+              "no": 6,
+              "metin": "Eğitim ve öğretim başladıktan sonra, öğrenci katkı payı ve/veya öğrenim ücretini yatırmış olan fakat daha sonra Üniversiteden ayrılan, çıkarılan, kaydı silinen veya mezun olanların o yarıyılda ödemiş oldukları öğrenci katkı payı ve/veya öğrenim ücreti iade edilmez.",
+              "bentler": []
+            },
+            {
+              "no": 7,
+              "metin": "Öğrenci değişim programlarına, ortak programlara ve benzer programlara katılan öğrencilerin katkı paylarının ve/veya öğrenim ücretlerinin nasıl ödeneceği Üniversiteler arasındaki protokolle belirlenir. Derslerin açılması ve ders sorumlulukları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 37,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrencilerin danışmanları tarafından açılan ve tez çalışmasına yönelik olan uzmanlık alan dersleri kredisiz olarak açılır. Uzmanlık alan derslerinin ders yükü, Senato tarafından belirlenir. Öğrenci, tez çalışmasına kayıt yaptırdığı dönem başından itibaren her yarıyıl tez çalışmasına ve danışmanınca açılan uzmanlık alan dersine kayıt yaptırmak zorundadır. Uzmanlık alan dersleri tez çalışması süresince devam eder. Tez çalışmasının iki danışman tarafından yönetildiği durumlarda uzmanlık alan dersleri ilk danışman tarafından açılır. Ölçme ve değerlendirme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 38,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Lisansüstü programların ölçme ve değerlendirilmesinin amacı; programlar için belirlenmiş olan hedeflerin gerçekleşme düzeylerini tespit ederek sisteme geri besleme yapmak, kalitenin yükseltilmesine katkıda bulunmaktır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Lisansüstü düzeyindeki dersler, ilke olarak öğretim üyeleri tarafından verilir. Program akademik kurulunda ilgili dersi verecek öğretim üyesinin bulunmaması durumunda, program yürütme kurulu ve enstitü anabilim/anasanat dalı başkanlığının gerekçeli önerisi ve enstitü yönetim kurulunun onayı ile doktora ve sanatta yeterlik unvanına sahip öğretim görevlilerine, Üniversite dışındaki kurum ve kuruluşlarda görev yapan doktor ünvanlı uzmanlara ve sanatçı öğretim elemanlarına da lisansüstü düzeyde dersler verdirilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Programların ölçme ve değerlendirmesi, her program için Senato tarafından belirlenen koşullar çerçevesinde yapılır. Kredi sistemi",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 39,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Kredi sistemi, ulusal kredi sistemi ve AKTS’ye göre düzenlenir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Bir lisansüstü dersin yarıyıl ulusal kredi değeri, bir yarıyıl devam eden bir dersin haftalık teorik ders saatinin tamamı ile haftalık uygulama veya laboratuvar saatinin yarısının toplamıdır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Lisansüstü bir dersin AKTS kredisi, Yükseköğretim Yeterlilikler Çerçevesinde yedinci ve sekizinci düzeyler için belirlenen ve program bazında öngörülen bilgi, beceri ve yetkinliklerin kazandırılmasına dayalı haftalık öğrenci iş yükünü temsil eder.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "AKTS kullanımı ile ilgili temel esaslar enstitü yönetim kurulu önerisiyle Senato tarafından belirlenir. İzin",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 40,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Lisansüstü eğitiminde verilebilecek izinler ile ilgili hususlar Senato tarafından belirlenir. Ders sınavları ve değerlendirme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 41,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Lisansüstü programlarla ilgili devam, ders sınavları, ders notları, derslerden başarılı sayılma koşulları, ders tekrarı, öğrencilerin alması gereken ders türleri ve diğer hususlar Senato tarafından belirlenir. Öğretim dili",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 42,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Lisansüstü öğretimi Türkçe, Türkçe-İngilizce veya İngilizce dillerinde yapılır. Türkçe-İngilizce yürütülen programlarda öğrenciler, mezuniyet için gerekli toplam kredilerinin en az %30'unu İngilizce verilen derslerden almak zorundadırlar. Değişim programları çerçevesinde, eşdeğerliği kabul edilen ancak farklı yabancı dilde alınan dersler İngilizce ders kapsamında değerlendirilir. Lisansüstü programların yürütülmesi",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 43,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Lisansüstü programları anabilim dalı başkanlıklarına bağlı olarak program yürütme kurullarınca yürütülür. Bu konu ile ilgili esaslar Senato tarafından belirlenir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 6,
+      "baslik": "ALTINCI BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 44,
+          "gecici": false,
+          "baslik": "Yönetmelikte hüküm bulunmayan haller",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri uygulanır. Yürürlükten kaldırılan yönetmelik",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 45,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "16/1/2014 tarihli ve 28884 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği yürürlükten kaldırılmıştır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 46,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 47,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür. __",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Bu değişiklik 2020-2021 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer. Yönetmeliğin Yayımlandığı Resmî Gazete’nin Tarihi Sayısı 25/2/2017 29990 Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin Tarihi Sayısı 1 30/6/2017 30110 2 2/11/2020 31292 3 22/7/2022 31900 4 12/5/2026 33251",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "14",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

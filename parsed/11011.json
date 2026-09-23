@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "mevzuatNo": "11011",
+    "rgTarihi": "14.01.2007",
+    "rgSayisi": "26403",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11011&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ PROFESÖR DOKTOR EMİN TURAN ONAT MALZEMELERİN DİNAMİK DAVRANIŞI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesine bağlı olarak kurulan, İstanbul Teknik Üniversitesi Profesör Doktor Emin Turan Onat Malzemelerin Dinamik Davranışı Uygulama ve Araştırma Merkezinin yönetim, çalışma usul ve esaslarını düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesine bağlı olarak kurulan, İstanbul Teknik Üniversitesi Profesör Doktor Emin Turan Onat Malzemelerin Dinamik Davranışı Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez: İstanbul Teknik Üniversitesi Profesör Doktor Emin Turan Onat Malzemelerin Dinamik Davranışı Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkez Müdürü: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkez Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Merkez Danışma Kurulu: Merkezin Danışma Kurulunu"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amacı ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amacı, faaliyet alanlarına giren konularda bilimsel ve teknolojik araştırma yapmaktır. Merkezin faaliyet alanları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Kamu kurum ve kuruluşlarının ihtiyacı olan konularda araştırma, inceleme, geliştirme çalışmaları yapmak veya yaptırmak ve bu çalışmalara katılmak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Ulusal ve uluslar arası kuruluşlarla işbirliği yapmak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Kurslar, seminerler, konferanslar, kongreler ve benzeri toplantılar düzenlemek,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Kamu ve özel sektörün sorunları ile ilgili araştırmalar, incelemeler, tasarım ve teknoloji araştırmaları, laboratuvar deneyleri, ekspertiz ve benzeri işleri yapmak, belgeler düzenlemek,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Tasarım, bilim ve teknik ile ilgili faaliyetlerin yürütülmesi için gerekli yazışmaları yapmak, bunlarla ilgili verileri açıklayan rapor, bülten, proje, kitap, dergi ve benzeri yayınlarda bulunmak,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Rektör, yetkili kurullar veya ilgili mevzuatla verilecek diğer çalışmaları yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Merkez müdürü ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez Müdürü,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Yönetim Kurulu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Müdürü; Rektör tarafından, Üniversitede Merkezin faaliyetleriyle ilgili alanlarda tam gün çalışan öğretim üyeleri arasından üç yıl süre ile görevlendirilir. Süresi biten Merkez Müdürü aynı usulle yeniden görevlendirilebilir veya görevden alınabilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Müdürünün önerisi ile Üniversitedeki öğretim üyeleri veya Merkez Yönetim Kurulu üyeleri arasından bir kişi Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdür yardımcısı, Merkezle ilgili konularda Merkez Müdürünün vereceği işleri yapar ve kurulların toplantılarına katılabilir. Merkez Müdürü kısa süreli ayrılışlarında vekaleti yardımcısına bırakır. Bu vekalet altı aydan fazla sürerse ya da Merkez Müdürü başka bir nedenle görev süresi dolmadan ayrılırsa, kalan süreyi doldurmak üzere Rektör tarafından yeni bir Merkez Müdürü görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Merkez Müdürünün görevleri şunlardır: Merkez yönetim kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil ve Merkez Yönetim Kuruluna başkanlık etmek, idari olarak Merkezin çalışmasını sağlamak, her yıl sonunda Merkezin çalışmaları ile ilgili olarak faaliyet raporunu ve sonraki yıla ait çalışma programını hazırlamak ve Merkez Yönetim Kuruluna sunmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Yönetim Kurulunun belirlediği ilkeler ve hedefler doğrultusunda Merkezi yönetmek, Merkezin akademik, idari, mali ve teknik yönden işleyişini planlamak, kamu ya da özel kuruluşlar arasında koordinasyonu sağlamak ve Merkez ile ilgili eğitim programlarını düzenlemek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Yönetim Kurulu; Merkez Müdürü, Merkezin faaliyetleri ile ilgili konularda uzmanlaşmış Üniversite öğretim elemanları arasından üçü Merkez Danışma Kurulunun önerisiyle olmak üzere Rektör tarafından üç yıl için görevlendirilen toplam yedi kişiden oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Yönetim Kurulunda görev süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan veya Üniversite dışında altı aydan fazla süreyle görevlendirilenlerin yerine, kalan süreyi doldurmak üzere yenileri görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Merkez Yönetim Kurulunun görevleri şunlardır: Merkez danışma kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez Müdürünün başkanlığında ayda en az bir defa toplanarak Merkezin faaliyetleri ve yönetimi ile ilgili konuları görüşmek ve idari kararlar almak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Müdürünün her faaliyet yılı sonunda hazırlayacağı faaliyet raporunu görüşmek ve bir sonraki yıla ait çalışma programını onaylamak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanlarıyla ilgili kamu ve özel sektör kurum ve kuruluşlarının temsilcilerinden oluşan Merkez Danışma Kurulu üyeleri, Üniversite Yönetim Kurulunun önerisi üzerine Rektör tarafından görevlendirilir. Bu Kurulun başkanı Rektördür.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Danışma Kurulu; Merkezin faaliyet alanlarıyla ilgili konularda görüş ve tavsiyelerde bulunan bir danışma organıdır.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Son Hükümler",
+      "maddeler": [
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "Yürürlük",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

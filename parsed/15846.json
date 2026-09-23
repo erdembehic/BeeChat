@@ -1,0 +1,954 @@
+{
+  "meta": {
+    "mevzuatNo": "15846",
+    "rgTarihi": "29.01.2012",
+    "rgSayisi": "28188",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15846&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ ÖNLİSANS EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesine bağlı Meslek Yüksekokulunda önlisans düzeyinde yürütülen eğitim ve öğretim ile kayıt ve sınavlarda uygulanacak usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesine bağlı Meslek Yüksekokulunda kayıtlı öğrencilerin eğitim-öğretim ve sınav esaslarına ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü, 43 üncü ve 44 üncü maddelerine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "44",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Akademik takvim: Eğitim-öğretim yılının başlama ve bitiş tarihleri ile kayıt ve sınav tarihleri gibi önemli tarihleri içeren takvimi,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Danışman: Öğrencilerin eğitim-öğretim ve üniversite yaşamıyla ilgili sorunlarıyla ilgilenmek üzere bölüm başkanının önerisi ve Meslek Yüksekokulu Yönetim Kurulu kararı ile görevlendirilen öğretim elemanını,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Meslek Yüksekokulu: İstanbul Teknik Üniversitesine bağlı Meslek Yüksekokulunu,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Meslek Yüksekokulu Kurulu: Meslek Yüksekokulu Kurulunu,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Meslek Yüksekokulu Yönetim Kurulu: Meslek Yüksekokulu Yönetim Kurulunu,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Öğrenci İşleri Daire Başkanlığı: İstanbul Teknik Üniversitesi Öğrenci İşleri Daire Başkanlığını,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Rektörlük: İstanbul Teknik Üniversitesi Rektörlüğünü,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Senato: İstanbul Teknik Üniversitesi Senatosunu,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "h",
+                  "metin": "Üniversite Yönetim Kurulu: İstanbul Teknik Üniversitesi Yönetim Kurulunu,"
+                },
+                {
+                  "harf": "ı",
+                  "metin": "Yarıyıl: Bir akademik takvimdeki güz veya bahar dönemlerini,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Öğrenci Katkı Payı, Kabul ve Kayıt, Öğrenci İşlemleri,",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Danışmanlık, Kimlik Kartı, Diploma ve Geçişler Öğrenci katkı payı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Meslek Yüksekokulu öğrencilerinin, her öğretim yılında, ilgili mevzuat hükümleriyle belirlenen miktarda öğrenci katkı payı ödemeleri gerekir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Bulundukları programda, her bir dönem için belirlenen ders planında yer alan dersleri alan ve başarılı olan öğrencilerin, başarı ortalamasına göre dönem sonu itibariyle yapılacak sıralamada ilk %10’a giren öğrenciler, bir sonraki dönemde ödeyecekleri öğrenci katkı payının yarısını öderler.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Bulundukları programda, her bir dönem için belirlenen asgari derslerden başarılı olan ve bu dersleri alan öğrencilerden, başarı ortalamasına göre dönem sonu itibariyle yapılacak sıralamada ilk %10’a giren ikinci öğretim öğrencilerinin, bir sonraki dönemde birinci öğretim öğrencilerinin ödeyecekleri öğrenci katkı payı kadar öğrenim ücreti ödemeleri gerekir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Bu maddenin ikinci ve üçüncü fıkraları azami öğrenim süresini doldurmamış olan öğrencilere uygulanır. Yaz öğretiminde alınan dersler hesaba katılmaz. Önceki dönemlerden başarısız dersi olanlar değerlendirmeye alınmaz.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Öğretim programındaki dersleri tamamlamış olan ve sadece stajı kalan öğrencilerin ödeyecekleri katkı payları, yaz öğretiminde kredi başına alınan öğretim ücretleri dikkate alınarak Senato tarafından belirlenir. Kabul esasları ve kesin kayıtlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Üniversitenin önlisans programlarına kayıt yaptırabilmek için, Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından yapılan sınavı kazanmış veya ÖSYM tarafından yerleştirilmiş olmak ve başka bir yükseköğretim kurumunda kayıtlı olmamak gerekir. Yükseköğretim kurumları arasında yatay geçişlerle ilgili hükümler saklıdır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Kesin kayıt tarihi, istenen belgeler ve uyulacak esaslar Üniversite Yönetim Kurulunca belirlenerek ilan edilir. İstenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Üniversiteye kayıt olmak isteyen yabancı uyruklu öğrenciler ile Üniversitenin yurt dışındaki bir üniversite ile ortak düzenleyeceği programlara ait öğrencilerin kayıt işlemleri; 15/4/1985 tarihli ve 85/9380 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Türkiye’de Öğrenim Gören Yabancı Uyruklu Öğrencilere İlişkin Yönetmelik, 28/12/2006 tarihli ve 26390 sayılı Resmî Gazete’de yayımlanan, Yükseköğretim Kurumlarının Yurtdışındaki Kapsama Dahil Yükseköğretim Kurumlarıyla Ortak Eğitim ve Öğretim Programları Tesisi Hakkında Yönetmelik hükümlerine ve Senato kararlarına göre yürütülür.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Kesin kayıt işlemlerini süresi içinde yaptırmayan öğrenci adayları, Üniversite öğrencisi olma hakkından vazgeçmiş sayılırlar ve herhangi bir hak iddia edemezler.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Senatoca belirlenen mazeretleri olan öğrenci adayları, bu madde hükümlerine uymak koşulu ile Öğrenci İşleri Daire Başkanlığına bir dilekçe vererek, belirledikleri vekilleri aracılığıyla kesin kayıt işlemlerini yaptırabilirler. Kayıt yenileme",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "sayili",
+              "ham": "9380 sayılı Bakanlar Kurulu Kararı",
+              "no": "9380",
+              "ad": "Bakanlar Kurulu Kararı",
+              "kaynakMadde": 6
+            }
+          ]
+        },
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Kayıt yenileme işlemi derse kayıt ve öğrenci katkı payının ödenmesini içerir. Üniversite öğrencileri her yarıyıl Üniversite Yönetim Kurulunca belirlenen tarihlerde kayıtlarını yenilemek zorundadırlar. İlan edilen tarihlerde kayıtlarını yenilemeyen öğrenciler, kayıt bitim tarihinden sonra bir hafta içerisinde gecikmeli kayıt yaptırırlar. Gecikmeli kayıt koşulları her yıl Üniversite Yönetim Kurulu tarafından belirlenir. Kayıt programı bir önceki yarıyılın son haftasında ilan edilir. Kayıt yenilenmeyen yarıyıl, öğretim süresinden sayılır. Öğrenci işlemleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrenci işlemlerine ilişkin kararlar Meslek Yüksekokulu Yönetim Kurulunca alınır. Öğrenciler bu kararlara karşı onbeş gün içinde Üniversite Yönetim Kuruluna itiraz edebilirler. Danışmanlık",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Her öğrenci için ilgili bölümce bir öğretim üyesi veya öğretim görevlisi danışman olarak atanır. Danışman, öğrenimi boyunca öğrenciyi izler ve öğrencinin devam etmekte olduğu önlisans öğretimi programı çerçevesinde öğrencinin alması gereken zorunlu ve seçmeli derslerle ilgili olarak öğrenciye tavsiyelerde bulunur. Yarıyıl kayıtlarının yapılması veya yenilenmesi sırasında öğrencinin derslerini kendinin seçmesi ve sonra danışmanın onayı ve otomasyon sistemi üzerine aktarılacak danışman görüşü ile kayıt işleminin tamamlanması gerekir. Danışman öğretim üyeleri kayıt süresine ilişkin haftalık programları ile odalarında bulunacakları saatleri ilan ederler. Geçerli bir mazereti nedeniyle Üniversitede bulunamayacak olan danışmanın bu durumu bir yazı ile ilgili bölüm başkanlığına bildirmesi gerekir. Bölüm başkanı, mazereti olan danışman yerine geçici olarak kayıt süresince bir öğretim üyesini görevlendirir ve bunu ilgili öğrencilere duyurur. Kimlik kartı",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerine göre kesin kayıtlarını yaptıran veya yenileyen öğrencilere Öğrenci İşleri Daire Başkanlığı tarafından Üniversite öğrencisi olduklarını belirten ve en çok bir yıl geçerli fotoğraflı bir kimlik kartı verilir. Diploma",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerine göre Meslek Yüksekokulunu başarı ile tamamlayanlara bölüm adı açıklanmak ve gerekli hallerde öğrenim görülen programın adı da belirtilmek suretiyle, Üniversitenin önlisans diploması verilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Diplomalara mezuniyet tarihi, diploma numarası yazılır. Yatay geçişler",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Üniversite içinden veya dışından Üniversitenin fakültelerine yapılacak her türlü yatay geçiş, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato tarafından belirlenen esaslara göre yürütülür.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yatay geçiş talepleri Meslek Yüksekokulu Yönetim Kurulu tarafından değerlendirilir ve ilgili mevzuat hükümleri çerçevesinde uygun görülen başvurular kabul edilir. Başvurusu onaylanan öğrenciye uygulanacak intibak işlemleri Meslek Yüksekokulu Yönetim Kurulu tarafından belirlenir. Söz konusu öğrencilerin Üniversiteye kayıtları bu Yönetmelik hükümleri çerçevesinde yürütülür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Eğitim-Öğretimle İlgili Esaslar",
+      "maddeler": [
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "Öğretim yılı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğretim yılı, güz ve bahar yarıyılları ile yaz öğretiminden oluşur. Güz ve bahar yarıyıllarının her birinin normal süresi ondört haftadır. Gerekli hallerde bu süre Senatoca değiştirilebilir. Akademik takvim, her akademik yılın başlamasından önce Senato tarafından belirlenir ve ilan edilir. Yaz öğretiminin uygulama esasları ayrı olarak Senato tarafından düzenlenir. Öğretimin yapılacağı gün ve saatler Senatoca belirlenir. Resmi tatil günleri öğretim ve sınav yapılmaz. Ancak gerektiğinde dersi veren birim tarafından önerilen ve Meslek Yüksekokulu Yönetim Kurulunca uygun görülen derslerin, ders ve sınavları Cumartesi ve Pazar günleri yapılabilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Bu Yönetmeliğin 14 üncü maddesinin birinci fıkrasında belirtilen azami süre içinde diploma alamayan öğrenciler bakımından, müfredat değişikliği veya isimleri değişmemekle birlikte ders içeriğinin değişmesi ya da ders içeriği değişmemekle birlikte aradan uzun bir sürenin geçmesi nedeniyle, daha önce başarılı olunan derslerden hangilerini yeniden almaları gerektiği; eğitim-öğretim süreçlerinin sürekli iyileştirilmesine yönelik iç ve dış kalite güvencesi uygulamaları ve eğitim-öğretimin devamına ilişkin diğer hususlar Senato tarafından belirlenir. Öğretim süresi ve şekli",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "ic_atif",
+              "ham": "Bu Yönetmeliğin 14 üncü madde",
+              "hedefMadde": "14",
+              "kaynakMadde": 13
+            }
+          ]
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Meslek Yüksekokulunda yapılacak önlisans öğretiminin azami süresi dört yıldır. Bu süre sonunda kayıtlı olduğu öğretim kurumundan mezun olamayanlar, bu Yönetmeliğin 25 inci maddesinde belirtilen koşullara göre ilgili döneme ait öğrenci katkı payını ödemek koşulu ile öğrenimlerine devam etmek için kayıt yaptırabilirler. Bu durumda, ders ve sınavlara katılma ile derse ait zorunlu yükümlülükler hariç olmak üzere, öğrencilere tanınan diğer haklardan yararlandırılmaksızın öğrencilik statüleri devam eder.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Öğretim; öğretim planında öngörülen dersler, uygulamalar, projeler, laboratuar ve atölye çalışmaları, pratik çalışmalar, stajlar, saha/alan üzerinde uygulamalar, seminerler ve benzeri çalışmalardan oluşabilir. Senatoda aksi kararlaştırılmadıkça, öğretim planlarındaki zorunlu ve seçmeli derslerin ve derslere bağlı olarak yapılan proje, laboratuar, saha/alan çalışması gibi akademik etkinliklerin süresi bir yarıyıldır. Öğretimin yapılacağı gün ve saatler Meslek Yüksekokulu Yönetim Kurulu tarafından tespit edilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Öğretim planındaki dersler, zorunlu ve seçmeli derslerden oluşur. Zorunlu dersler, öğrencinin almak zorunda bulunduğu, seçmeli dersler ise öğrencinin belirli ders grupları içinden seçerek almak zorunda olduğu derslerdir. Öğretim planları",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "ic_atif",
+              "ham": "bu Yönetmeliğin 25 inci madde",
+              "hedefMadde": "25",
+              "kaynakMadde": 14
+            }
+          ]
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Meslek Yüksekokulunda öğretim, Yükseköğretim Kurulunca belirlenen ve Senato tarafından kabul edilen ortak dersler göz önünde tutulmak ve bölümlerin görüşleri alınmak suretiyle, Meslek Yüksekokulu Kurulu tarafından kararlaştırılan ve Senato tarafından onaylanan öğretim planına göre yapılır. Öğretim, öğretim planına uygun olarak ve bu plandaki sıra izlenmek suretiyle yürütülür.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Öğrenci, herhangi bir nedenle bir yarıyıl normal olarak alması gereken yarıyılın derslerini almamış ise, izleyen yarıyıldaki ön koşulsuz dersleri alabilir. Öğrencinin bundan sonraki öğrenimine devam ederken bir üst sınıfın ön koşulsuz derslerini alması için, öncelikle alt yarıyılından başarısız olduğu ve daha önce almadığı dersleri alması ve bu derslerin diğer aldığı derslerle çakışmaması gerekir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Öğretim planına dahil olan staj çalışmaları, Meslek Yüksekokulu tarafından her bölüm için hazırlanan esaslara göre yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Üniversite binaları dışında yapılması gereken ders ve uygulamalar, yarıyıl süresince yapılabileceği gibi, ilgili birimler tarafından belirlenen sürelerde, bahar yarıyılının bitiminden sonra da yaptırılabilir. Derse yazılma",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrencilerin, devam edecekleri yarıyıla ait ders, uygulama, laboratuar, proje, seminer, bitirme çalışması, staj ve benzeri çalışmalara yazılmalarına ilişkin esaslar aşağıda belirtilmiştir:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Önceki yarıyıllardan ders veya ayrı ders niteliğinde laboratuar, proje ve benzeri çalışmaları tekrarlama veya ilk defa alma durumunda olan öğrenciler, öncelikle tekrarlayacakları dersleri alabilirler. Tekrarlanacak dersler farklı yarıyıllardan ise bu derslere de yazılabilirler. Ancak yazıldıkları yarıyıllardan alacakları derslerin saatlerinin tekrarlayacakları derslerin saatleri ile kısmen dahi olsa çakışmaması gerekir."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Öğrenciler tekrarlamak veya ilk defa almak zorunda oldukları derslerin çokluğu ve alınacak derslerin çakışması durumunda, kayıt olacakları yarıyılın öğretim planındaki derslerin bir kısmını veya tamamını almayabilirler. Bu nedenle derse kayıt olunamaması, 2547 sayılı Kanunun 44 üncü maddesinde öngörülen öğretim süresini durdurmaz."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Notlar, İşaretler, Sınavlar, Başarı Durumu ve Ek Sürelere İlişkin Esaslar",
+      "maddeler": [
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "Notlar ve işaretler",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Önlisans eğitim ve öğretiminde, öğrencinin bir dersteki başarısı bağıl değerlendirme yöntemi ile belirlenir. Bu değerlendirme, öğrencinin yarıyıl içi çalışmalarında gösterdiği başarı ve yarıyıl sonu sınavında aldığı not birlikte değerlendirilerek ve sınıfın genel başarı düzeyi göz önünde bulundurularak belirlenir. Bölümler tarafından belirlenen en az ham not üzerindeki bağıl değerlendirme, dersi veren öğretim üyesi tarafından, notların dağılımı ve sınıf ortalaması göz önünde bulundurularak yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Bir dersteki başarı durumu başarı notu ile belirlenir. Başarı notu harflerinin anlamları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Bir dersten AA, BA, BB, CB ve CC notlarından birisini alan öğrenci o dersi başarmış sayılır."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Bir dersten DC ve DD notlarından birisini alan öğrenci, bu dersi şartlı başarmış kabul edilir."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Bir dersten FF notunu alan öğrenci o dersten başarısız sayılır."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Bir dersten VF notunu alan öğrenci yıl sonu sınavına giremez ve başarısız kabul edilir."
+                }
+              ]
+            },
+            {
+              "no": 3,
+              "metin": "Başarı notu harfleri dışında kullanılan diğer harflerin anlamları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "BL: Kredisiz olarak alınan dersten başarılı."
+                },
+                {
+                  "harf": "b",
+                  "metin": "BZ: Kredisiz olarak alınan dersten başarısız."
+                },
+                {
+                  "harf": "c",
+                  "metin": "E: Proje ve benzeri çalışmalarda, çalışmasını belirlenen sürede bitiremeyen öğrenciye verilir. Çalışmanın ne zaman tamamlanacağı öğretim üyesi tarafından belirlenir. Belirlenen sürede çalışmasını tamamlayamayan öğrenciye FF notu verilir."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "M: Meslek Yüksekokuluna yatay ve dikey geçişle kaydolan öğrencilerin daha önceki yükseköğretim kurumlarında alıp başardıkları dersler için kullanılır. Bu dersler ağırlıklı genel not ortalamasına katılmaz."
+                }
+              ]
+            },
+            {
+              "no": 4,
+              "metin": "Başarı notlarının ifade ettikleri başarı dereceleri ve katsayıları aşağıdaki tabloda gösterilmiştir. Harf Notu Başarı Notu Mükemmel AA 4.00 Çok iyi BA 3.50 İyi BB 3.00 İyi-yeterli CB 2.50 Yeterli CC 2.00 Yeterli-geçer DC 1.50 Koşullu-geçer DD 1.00 Başarısız FF 0.00 Vizesiz başarısız VF 0.00 Ağırlıklı genel not ortalamasının yükseltilmesi",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 18,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrenciler, isterlerse ders tekrarı yaparak veya almadıkları dersleri alarak bu Yönetmeliğin 15 inci maddesinin ikinci fıkrasına uygun olarak, ortalamalarını yükseltmeye çalışırlar. Bu durum, üst yarıyıldan/sınıftan ders almalarına engel teşkil etmez. Ancak mezuniyet için tüm yükümlülüklerin yerine getirilmesi ve en az 2.00 ağırlıklı genel not ortalamasının tutturulması gerekir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Ağırlıklı genel not ortalamasını yükseltmek isteyen öğrenci, daha önce alıp başardığı dersleri tekrar alabilir. Bu dersler için son alınan notlar geçerlidir. Öğrencinin Meslek Yüksekokulunda aldığı derslerin bütün notları ve işaretleri öğrenim belgesinde gösterilir. Bir dersin üç veya daha fazla alınması durumunda öğrencilerin ödeyecekleri katkı paylarının hesaplanmasında bu Yönetmeliğin 25 inci maddesi hükümlerine göre işlem yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Öğrenciler AA notu ile geçtikleri dersleri tekrar edemezler. Başarı notu",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "ic_atif",
+              "ham": "bu Yönetmeliğin 15 inci madde",
+              "hedefMadde": "15",
+              "kaynakMadde": 18
+            },
+            {
+              "tip": "ic_atif",
+              "ham": "bu Yönetmeliğin 25 inci madde",
+              "hedefMadde": "25",
+              "kaynakMadde": 18
+            }
+          ]
+        },
+        {
+          "no": 19,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Derslere devam zorunlu olup, bir dersin başarı notu; o derse ait yarıyıl içi sınavları, kısa sınavlar, saha/alan çalışması, uygulama, ödev, proje, atölye, seminer, devam, laboratuar ve benzeri yarıyıl içi çalışmaları ve yarıyıl sonu sınavı ile belirlenir. Her yarıyılın başlangıcından bir hafta önce, o yarıyıl açılacak derslere ait yarıyıl içi çalışmalarının türleri, sayısı, yarıyıl içi çalışmalarının başarı notuna katkısı ve yarıyıl sonu sınavının başarı notuna katkılarının hangi oranlarda olacağına ilişkin başarı değerlendirme sistemi, dersi verecek öğretim üyesi tarafından başarı değerlendirme formu doldurularak önerilir. İlgili bölüm başkanlığının olumlu görüşü üzerine Meslek Yüksekokulu Kurulu kararı ile kesinleşir ve Meslek Yüksekokulu Müdürlüğü tarafından ilan edilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yarıyıl sonu sınavına girebilme koşulunu yerine getirmeyen öğrencilerin listesi, yarıyılın son haftası içerisinde sisteme girilerek ilan edilir. Bir dersin yarıyıl sonu sınavına girebilme koşulunu yerine getiremeyen öğrenciler bu dersten VF notu almış sayılırlar ve final sınavına giremezler.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yarıyıl sonu sınavının başarı notuna katkısı % 40’dan az, % 60’dan fazla olamaz. Meslek Yüksekokulu Yönetim Kurulu kararı ile bu oranlar değiştirilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Bir dersin başarı durumu, yarıyıl sonu sınavının yapıldığı tarihten itibaren en geç bir hafta içerisinde başarı notu olarak sisteme girilir ve dersin öğretim elemanı tarafından Meslek Yüksekokulu Müdürlüğüne paraflı bir örneği teslim edilir. Meslek Yüksekokulu Yönetim Kurulu, gerektiğinde bir dersin başarı durumunun dersin öğretim üyesince yeniden incelenmesine karar verebilir. Mazeretler",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 20,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yarıyıl içi sınavlarının mazeret sınavı yoktur. Yarıyıl içi sınavına girmeyen bir öğrenci bu sınavdan 0.00 (sıfır) almış sayılır. Senatoca belirlenen esaslara göre, yarıyıl içi sınavlarına geçerli mazeretleri nedeniyle giremeyen öğrenciler, mazeretlerinin Meslek Yüksekokulu Yönetim Kurulu tarafından kabul edilmesi halinde mazeret sınavına alınırlar. Mazeretleri kabul edilen ve mazeret sınavı hakkı tanınan öğrencilerin sınav haklarını Meslek Yüksekokulu Yönetim Kurulunca belirlenen gün, yer ve saatte kullanmaları gerekir. Bu durumda olan öğrencilerin mazeretli olduğu yarıyıl içi sınav notu mazeret sınavından aldığı nottur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Mazeretleri nedeniyle yarıyıl sonu sınavına giremeyen öğrenciler mazeretlerinin bitimini izleyen beş gün içinde Meslek Yüksekokulu Müdürlüğüne başvurmaları gerekir. Geçerli mazeretlerini, Senatoca belirlenen esaslara uygun olarak belgelendiren ve mazeretleri Meslek Yüksekokulu Yönetim Kurulunca kabul edilen öğrenciler, yarıyıl sonu sınavlarını izleyen hafta içerisinde yapılacak yarıyıl sonu mazeret sınavına girebilirler. Mazeretlerin kabulüne veya reddine Meslek Yüksekokulu Yönetim Kurulunca karar verilir. Yarıyıl sonu sınav dönemi",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 21,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Her yarıyıl derslerinin bitiminde bir sınav dönemi vardır. Derslerin özelliklerine göre Meslek Yüksekokulu Yönetim Kurulu tarafından değişiklikler öngörülebilir. Sınav dönemi içinde Meslek Yüksekokulu Yönetim Kurulunca kabul edilecek nedenlerle sınav yapılamayan günler kadar o sınav dönemine süre eklenir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Saha/alan üzerinde yapılması gereken derslerle, sınava girme hakkı bir saha/alan çalışmasının sonucuna bağlı olan derslerin sınavları saha/alan çalışmalarının bitiminde de yapılabilir. Sınav programları ve sınavların yeri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 22,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yarıyıl sonu sınav programları, Meslek Yüksekokulu Yönetim Kurulu kararıyla Öğrenci İşleri Daire Başkanlığına gönderilir, sınav dönemi başlamadan en az iki hafta önce ilan edilir. Sınavlar, programda gösterilen gün, yer ve saatte yapılır. Ancak, saha/alan üzerinde yapılan ders ve uygulamaların sınavları, saha/alan üzerinde ve Meslek Yüksekokulu binaları dışında da yapılabilir. Sınav şekli",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 23,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yarıyıl sonu sınavları yazılı olarak yapılır. Ancak bölümlerden gelecek istek üzerine sınavın sözlü veya sözlü-yazılı yapılmasına karar verilebilir. Bu yöndeki bir karar yarıyılın başında verilen başarı değerlendirme formunda ilan edilir. Sınavlar, o dersi vermekle görevli öğretim üyesi veya öğretim görevlisi tarafından düzenlenir ve yönetilir. Sorumlu öğretim üyesi veya öğretim görevlisinin sınav günü Meslek Yüksekokulunda bulunmaması halinde, sınavın kim tarafından yapılacağı ilgili bölüm başkanı tarafından belirlenir. Sınavların düzenli bir şekilde yürütülebilmesi için Meslek Yüksekokulundaki bütün öğretim elemanları görevlendirilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Sınav sonuçlarının en geç sınavı izleyen hafta içinde sisteme girilmesi zorunludur. Sisteme girilen listenin bir örneğinin aynı gün Meslek Yüksekokulu Müdürlüğüne teslim edilmesi gerekir. Sınav sonuçlarına itiraz",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 24,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrenci, bir dersteki başarı durumu sonucuna, dersin başarı durumu listesinin sistemde ilan edilmesinden itibaren bir hafta içerisinde, Meslek Yüksekokulu Müdürlüğüne yazılı olarak başvurup itiraz edebilir. Meslek Yüksekokulu Müdürlüğünce ilgili öğretim üyesine, öğrencinin başarı notuna katkısı bulunan bütün çalışmaları tekrar incelettirilir. Öğrencinin itirazı ile ilgili öğretim üyesinin yaptığı yeni değerlendirme iki hafta içinde Meslek Yüksekokulu Yönetim Kurulu tarafından karara bağlanır. Öğretim süresine ek süreler ve öğrenci katkı payı",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 25,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğretim süresine ek süreler ve öğrenci katkı payına ilişkin esaslar aşağıda belirtilmiştir:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Üniversite öğrenimi sırasında, azami süre içinde, bir derse üçüncü defa kayıt yaptırılması halinde, ilgili dönem için öngörülen katkı payı ya da öğrenim ücretinin yanı sıra bu fıkranın (c) bendine göre hesaplanan kredi başına ödenecek katkı payı veya öğrenim ücreti; dersin alınacağı dönem için belirlenen kredi başına katkı payı veya öğrenim ücretinin % 50 fazlası, dördüncü defa kayıt yaptırılması halinde % 100, beşinci veya daha fazla defa kayıt yaptırılması halinde ise % 300 fazlası ile hesaplanır."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Azami süre olan dört yıl içinde öğrenimin tamamlanamaması halinde, her bir ilave ders için kredi başına ödenecek öğrenci katkı payı veya öğrenim ücreti; dersin alınacağı dönem için bu fıkranın (c) bendine göre belirlenecek olan kredi başına katkı payı veya öğrenim ücretinin % 100, ikinci defa kayıt yaptırılması halinde % 200, üçüncü defa kayıt yaptırılması halinde % 300, dördüncü ve daha fazla defa kayıt yaptırılması halinde ise % 400 olarak hesaplanır."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Her bir ders için kredi başına ödenecek katkı payı tutarları, her bir dersin kredisinin ilgili dönemde alınması gereken toplam ders kredisine oranlanması sonucu bulunacak katsayının, ilgili dönem için belirlenen öğrenci katkı payı ile çarpılarak, Üniversite Yönetim Kurulunca dönem başlarında hesaplanır."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Öğrencinin bir dönemde ödeyeceği toplam öğrenci katkı payı öğrencinin ilgili dönemde almak istediği toplam kredi sayısı ile bir ders kredisi için ödenmesi gereken tutarın çarpımı ile belirlenir."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Kredi başına ödenecek öğrenci katkı payı hesaplanırken, öğrencinin bir derse kaçıncı defa kayıt olduğunun belirlenmesinde eşdeğer ders olarak alınan dersler, ders tekrar sayısında dikkate alınır."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Kredi başına ödenecek öğrenci katkı payı/öğrenim ücreti hesaplanırken, öğrencinin bir derse kaçıncı defa kayıt olduğunun belirlenmesinde seçmeli derslerde o seçmeli ders grubu bir bütün olarak değerlendirilir."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 5,
+      "baslik": "BEŞİNCİ BÖLÜM",
+      "altBaslik": "Değerlendirmeler",
+      "maddeler": [
+        {
+          "no": 26,
+          "gecici": false,
+          "baslik": "Birim kredi",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Ders, uygulama, laboratuar, proje, seminer, atölyenin öğretim bakımından değerlendirilmesi birim kredi üzerinden yapılır. Derslerin ve seminerlerin, bir yarıyıl süre ile haftada bir ders saati, bir kredidir. Uygulama, laboratuar, proje ve atölye çalışmalarının haftada bir saati, yarım kredi olarak kabul edilir. Senatonun kararı ile sertifika almaya yönelik dersler kredisiz olarak açılabilir. Ağırlıklı genel not ortalaması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 27,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Ağırlıklı genel not ortalaması; ders veya ayrı ders niteliğindeki laboratuar, proje, atölye, seminer ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuar, proje, atölye, seminer ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile bulunacak değerdir. Bölme sonucu, virgülden sonra iki hane yürütülüp yuvarlatılarak verilir. Öğretimi bitirme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 28,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Meslek Yüksekokulu öğretim planında gösterilen öğrenimi izleyerek derslerin tümünden başarılı olmuş, ağırlıklı genel not ortalamasını en az 2.00 düzeyine çıkarmış ve bu Yönetmelik hükümlerine göre bütün çalışmaları tamamlamış öğrenci, öğrenimini bitirmiş sayılır ve kendisine bu Yönetmeliğin 11 inci maddesinde belirtilen diploma verilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Meslek Yüksekokulunu bu şekilde bitirenlere ayrıca, öğrenimlerindeki mezuniyet derecesini, başarı katsayısını devam ettikleri bölüm, program ve benzeri ile aldıkları ders, proje, laboratuar ve benzeri çalışmaları, başarı notları ile birlikte gösteren bir öğrenim belgesi (transkript) verilir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "ic_atif",
+              "ham": "bu Yönetmeliğin 11 inci madde",
+              "hedefMadde": "11",
+              "kaynakMadde": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sira": 6,
+      "baslik": "ALTINCI BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 29,
+          "gecici": false,
+          "baslik": "İzin",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrenciler, ilgili akademik birimlerin onayı ile geçici bir süre için kayıtlı oldukları programa/programlara izinli olarak ara verebilirler. İzin başvurusu için başvuru tarihinde öğrencinin kayıtlı veya izinli statüde olması gerekir. İzinli öğrencilerin tüm hakları saklı tutulur. Hazırlanan belgelerde öğrencilerin izinli oldukları belirtilir. İlgili mevzuat hükümlerine göre Meslek Yüksekokulu Yönetim Kurulunca belirlenen haklı ve geçerli nedenler ile öğrenciye bir defada en çok iki yarıyıl süre ile izin verilebilir. İzinli sayılan öğrenci öğrenimine devam edemez ve izinli olduğu yarıyılı izleyen sınav dönemindeki yarıyıl sonu sınavlarına giremez.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Hastalık, doğal afetler, tutukluluk, mahkumiyet ve askerlik tecilinin kaldırılması gibi önceden öngörülemeyen ve bilinemeyen nedenlerle yarıyıl süresi içinde de izin verilebilir. Belirtilen nedenlerin sınav döneminde ortaya çıkması halinde, aynı usulle işlem yapılır. Yarıyıl içinde izin verilmesi halinde, öğrenci yarıyıl başından itibaren izinli sayılır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yukarıda belirtilen nedenlerle izin istenilmesi halinde öğrencinin, olayın meydana çıkmasından itibaren en geç otuz gün içinde, Meslek Yüksekokulu Müdürlüğüne başvurması ve mazeretini belgelerle kanıtlaması gerekir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Yarıyıl içinde izin verilmesi halinde, öğrenci yarıyıl başından itibaren izinli sayılır. Ekonomik nedenler ve Meslek Yüksekokulu Yönetim Kurulunca kabul edilebilecek diğer nedenlerle izin ancak yarıyıl başında verilebilir. Bu durumda izin başvurusunun, belgelerle birlikte kayıt işlemlerinin tamamlanmasından itibaren otuz gün içinde yapılması gerekir. Ani hastalık ve beklenmedik haller dışında bu süreler bittikten sonra yapılacak başvurular işleme konulmaz.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Öğrenci, izninin bitiminde, izne ayrıldığı öğretim durumundan başlayarak öğrenciliğe devam eder.",
+              "bentler": []
+            },
+            {
+              "no": 6,
+              "metin": "Bir öğrenciye öğretim süresince toplam olarak en çok dört yarıyıl izin verilebilir. Ancak, bu maddenin ikinci fıkrasında belirtilen nedenlerin devamı halinde, Meslek Yüksekokulu yönetim kurulunca iznin uzatılması yoluna gidilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 7,
+              "metin": "Yükseköğretim Kurulunca belirtilen haklı ve geçerli nedenler ile Üniversite Yönetim Kurulunca onaylanan diğer nedenlere dayalı izinler, kararda belirtilmek şartıyla öğretim süresinden sayılmaz.",
+              "bentler": []
+            },
+            {
+              "no": 8,
+              "metin": "Psikolojik rahatsızlık nedeni ile sağlık raporu almış olan ve tüm öğretim süresi içinde devamsızlığı iki yılı aşan öğrencilerden, öğrenimlerine devam edebilmeleri için, yeniden sağlık raporu almaları istenir. Bu öğrencilerin öğrenimlerine devam edip edemeyecekleri hakkında sağlık raporu üzerine Meslek Yüksekokulu Yönetim Kurulunca karar verilir. Üniversiteden ayrılma",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 30,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Kendi isteği ile Üniversiteden ayrılacak öğrencilerin, Meslek Yüksekokulu Müdürlüğüne yazılı olarak başvurmaları gerekir. Başvuru üzerine kaydı silinen öğrenciye Meslek Yüksekokulundaki öğrenim durumunu gösteren bir belge, kayıt sırasında Meslek Yüksekokuluna teslim ettiği diplomaları ve diğer belgeleri verilir. Yaz öğretimi",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 31,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yaz öğretiminde uyulacak esaslar Senato tarafından belirlenir. Tebligat",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 32,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Her türlü tebligat, öğrencinin Üniversiteye kayıt sırasında bildirdiği ya da daha sonra bilgi işlem sisteminde güncellediği posta adresine taahhütlü olarak yapılmak veya kullanıcı adına e-posta göndermek veya Meslek Yüksekokulunda ilan edilmek suretiyle tamamlanmış sayılır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Öğrencinin, kullanıcı adıyla tanımlı Üniversite e-posta adresini aktif durumda tutması, sürekli e-postalarını takip etmesi, Üniversiteye kayıt sırasında bildirdiği adresi değiştiği takdirde yeni adresini otomasyon sistemi üzerinden güncellemesi ve Öğrenci İşleri Daire Başkanlığına yazılı olarak bildirmesi gerekir. Öğrencinin takip etmemesi nedeniyle e-posta adresinin aktif olmaması durumunda e-postanın gönderildiği; yanlış veya eksik adres beyan edilmiş adrese yapılmış tebligatlar da öğrenciye tebliğ edilmiş sayılır. Disiplin",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 33,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrencilerin disiplin iş ve işlemleri, 13/1/1985 tarihli ve 18634 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği hükümlerine göre yapılır. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 34,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde; 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri ile Senato, Üniversite Yönetim Kurulu ve Meslek Yüksekokulu Yönetim Kurulu kararları uygulanır. Yürürlükten kaldırılan yönetmelik",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 35,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "30/10/1995 tarihli ve 22448 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Meslek Yüksekokulu Önlisans Öğretim Yönetmeliği yürürlükten kaldırılmıştır. Ek ve sınırsız sınav hakları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 1,
+          "gecici": true,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "25/2/2011 tarihinden önce ek sınav ve sınırsız sınav hakkı verilen öğrenciler, ek sınav/sınırsız sınav haklarını 2012-2013 eğitim-öğretim süresi sonuna kadar kullanmaya devam ederler. 2012-2013 eğitim-öğretim yılından sonra ek sınavlar/sınırsız sınavlar sonunda mezun olamayan öğrencilere yürürlükteki mevzuat hükümleri uygulanır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 36,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 37,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "44",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "9380 sayılı Bakanlar Kurulu Kararı",
+      "no": "9380",
+      "ad": "Bakanlar Kurulu Kararı",
+      "kaynakMadde": 6
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "Bu Yönetmeliğin 14 üncü madde",
+      "hedefMadde": "14",
+      "kaynakMadde": 13
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "bu Yönetmeliğin 25 inci madde",
+      "hedefMadde": "25",
+      "kaynakMadde": 14
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "bu Yönetmeliğin 15 inci madde",
+      "hedefMadde": "15",
+      "kaynakMadde": 18
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "bu Yönetmeliğin 25 inci madde",
+      "hedefMadde": "25",
+      "kaynakMadde": 18
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "bu Yönetmeliğin 11 inci madde",
+      "hedefMadde": "11",
+      "kaynakMadde": 28
+    }
+  ]
+}

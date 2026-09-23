@@ -1,0 +1,426 @@
+{
+  "meta": {
+    "mevzuatNo": "23852",
+    "rgTarihi": "15.08.2017",
+    "rgSayisi": "30155",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23852&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesine bağlı olarak kurulan, İstanbul Teknik Üniversitesi Havacılık ve Uzay Teknolojileri Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesine bağlı olarak kurulan, İstanbul Teknik Üniversitesi Havacılık ve Uzay Teknolojileri Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Dekan: Uçak ve Uzay Bilimleri Fakültesi Dekanını,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Fakülte: Uçak ve Uzay Bilimleri Fakültesini,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkez: İstanbul Teknik Üniversitesi Havacılık ve Uzay Teknolojileri Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Müdür: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amacı ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amacı; faaliyet alanlarına giren bilimsel, teknolojik araştırma, eğitim ve uzmanlığı ilgilendiren konularda danışmanlık yapmak ve ülke kalkınma planları çerçevesinde projeler geliştirmektir. Merkezin faaliyet alanları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Havacılık ve uydu teknolojileri için, hava ve uzay araçlarının dinamiği; yeni nesil aviyonik ve kokpit içi sistemleri; pilot/yer operatörü karar destek sistemleri; yeni nesil hava trafik yönetimi sistemleri; insansız hava aracı ve alt sistemleri; hava aracı güdüm, seyrüsefer ve kontrol sistemleri; hava aracı otopilot ve aviyonik sistemleri; uydu, uzay aracı ve alt sistemleri; havacılık bilgi teknolojileri; hava taşımacılığı operasyonları ve yönetimi; uçuş operasyonları emniyeti; havasahası modelleme, analiz ve yönetimi; havalimanı, havayolu ve havasahası işletmeciliği; havacılık malzemeleri için yeni nesil nanoteknoloji destekli kompozitlerin tasarımı, üretimi ve test edilmesi; çok fonksiyonel akıllı yapıların geliştirilmesi; uydu-itki sistemleri; yakıt enjektörleri; roket ve uçak motorları gibi havacılık ve uzay teknolojileri alanındaki kritik konularda eğitim ve araştırma yapmak, teknoloji geliştirmek ve uygulama yapmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Havacılık ve uzay teknolojileri alanındaki kritik konularda ülkenin bilimsel ve operasyonel ihtiyaçlarını karşılayacak yeterliliği sağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Havacılık ve uzay teknolojileri alanındaki kritik uygulamalarda, ulusal-uluslararası araştırma ve uygulama projeleri ile eğitim programlarını organize etmek ve yürütmek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Havacılık ve uzay teknolojileri alanındaki ilgili kamu personeline, yerel yönetimlerde çalışanlara, mimarlara, mühendislere, öğretmen ve öğrencilere havacılık ve uzay teknolojilerinde eğitim verilmesini sağlamak, bu amaçla düzenlenecek seminer ve kurslarla konu hakkında elde edilen yeni teknikleri ve bilgileri aktarmak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezin ilgi alanına giren konularda faaliyette bulunan ulusal ve uluslararası, resmî veya özel kurum ve kuruluşlar ile Merkezin amacı doğrultusunda işbirliğinde bulunmak, ortak çalışmalar düzenlemek, uygulama ve araştırma projeleri hazırlamak, bu projelere kaynak yaratmak, projeleri uygulamak ve uygulanmasının takibini yapmak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Konuyla ilgili çalışmaları daha ileri düzeye çıkarabilmek için ulusal ve uluslararası nitelikte kurs, seminer, konferans, kongre ve benzeri faaliyetlerde bulunmak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Uygulama ve araştırma çalışmaları sonunda elde edilen bilimsel ve teknik bulguları ve verileri açıklayan, sorunlara çözüm önerileri getiren rapor, bülten, proje, kitap, makale, dergi ve benzeri yayınlarda bulunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri, Alt Çalışma Birimleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Müdür",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Müdür."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulu."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdür; Rektör tarafından, Üniversitede Merkezin faaliyetleriyle ilgili alanlarda çalışan ve belirtilen alanlardan herhangi birisinde konusunda uzman öğretim üyeleri arasından üç yıl süre ile görevlendirilir. Süresi biten Müdür aynı usulle yeniden görevlendirilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Müdürünün önerisi ile biri belirtilen konularda uzman Üniversitedeki öğretim elemanları arasından iki kişi Rektör tarafından üç yıl süre ile Müdür yardımcısı olarak görevlendirilir. Müdür yardımcıları, Merkezle ilgili konularda Müdürün vereceği işleri yaparlar ve kurulların toplantılarına katılabilirler. Müdür kısa süreli ayrılışlarında vekâleti yardımcılarından birisine bırakır. Bu vekâlet altı aydan fazla sürerse ya da Müdür başka bir nedenle görev süresi dolmadan ayrılırsa, kalan süreyi doldurmak üzere Rektör tarafından yeni bir Müdür görevlendirilir. Müdürün görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdürün görevleri şunlardır: Yönetim Kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil ve Yönetim Kuruluna başkanlık etmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Her yıl sonunda Merkezin çalışmaları ile ilgili olarak etkinlik raporunu ve sonraki yıla ait çalışma programını hazırlamak ve Yönetim Kuruluna sunmak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Yönetim Kurulunun belirlediği ilkeler ve hedefler doğrultusunda Merkezi yönetmek, akademik, idari, mali ve teknik yönden işleyişini planlamak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkez ile kamu ya da özel kuruluşlar arasında koordinasyonu sağlamak ve Merkez ile ilgili eğitim programlarını düzenlemek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulu; Müdür ve yardımcıları ile Üniversite Yönetim Kurulunun önerisi ile Rektör tarafından görevlendirilen Üniversitede çalışan öğretim üyeleri veya görevlileri arasından olmak üzere toplam beş kişiden oluşur. Yönetim Kurulu üyeleri Rektör tarafından üç yıl için görevlendirilir. Görev süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan veya Üniversite dışında altı aydan fazla süreyle görevlendirilenlerin yerine, kalan süreyi doldurmak üzere yeni üyeler görevlendirilir. Yönetim Kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulunun görevleri şunlardır: Danışma Kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Müdürün başkanlığında ayda en az bir defa toplanarak, Merkezin etkinlikleri ve yönetimi ile ilgili konuları görüşmek ve idari kararlar almak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Müdürün her yıl hazırlayacağı etkinlik raporunu görüşmek ve bir sonraki yıla ait çalışma programını onaylamak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Danışma Kurulu, Müdür ve yardımcıları ile Üniversite Yönetim Kurulunun önerisi üzerine Rektör tarafından görevlendirilen Merkezin faaliyet alanlarıyla ilgili kamu ve özel sektör kurum ve kuruluşlarının temsilci üyelerinden olmak üzere en fazla dokuz üyeden oluşur. Bu kurulun başkanı Rektördür.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Danışma Kurulunun görevi, Merkezin faaliyet alanlarıyla ilgili konularda görüş ve tavsiyelerde bulunmaktır. Alt çalışma birimleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "6 ncı maddede belirtilen konularda Merkezin faaliyetlerini uygulamak ve belirlenecek programa göre gerçekleştirilmesine yardımcı olmak üzere, Merkez Yönetim Kurulu tarafından Merkeze bağlı alt çalışma birimleri kurulabilir. Çalışma programı tamamlanan alt birimlerin görevi sona erer.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Alt çalışma birimi için fakülte veya ilgili öğretim üyeleri de teklif yapabilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Belirli projelere belirli süre tahsis olunacak laboratuvar, atölye ve personel için fakülte veya diğer birimlerle işbirliği yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Müdür, alt çalışma birimlerinin faaliyetlerini yürütmek üzere müdür yardımcılarından birisini birim yürütücüsü olarak seçer. Birim yürütücüleri, planlanmış ve onaylanmış birim çalışmalarından dolayı Müdür ve Yönetim Kuruluna karşı sorumludur.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Fakülteler ve diğer birimlerle işbirliği kapsamında görevlendirmelerle ilgili olarak Dekan veya Rektörün onayı alınır.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "Personel ihtiyacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesi gereğince Rektör tarafından görevlendirilecek personel tarafından karşılanır. Ekipman ve demirbaşlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez tarafından desteklenen araştırmalar kapsamında alınan her tür alet, ekipman ve demirbaşlar Merkez hizmetlerinin kullanımına tahsis edilir. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

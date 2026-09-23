@@ -1,0 +1,46 @@
+{
+  "kaynak": {
+    "mevzuatNo": "24445",
+    "baslik": "VE ÖĞRETİM YÖNETMELİĞİ",
+    "rgTarihi": "07.03.2018"
+  },
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "43",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Kanuna tabi yükseköğretim kurumları ile bu Yönetmelik",
+      "no": "2547",
+      "ad": "Kanuna tabi yükseköğretim kurumları ile bu Yönetmelik",
+      "kaynakMadde": 4
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 7
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 24
+    }
+  ]
+}

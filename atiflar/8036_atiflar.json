@@ -1,0 +1,42 @@
+{
+  "kaynak": {
+    "mevzuatNo": "8036",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ TÜRK MUSİKİSİ DEVLET KONSERVATUARI ÇALGI BÖLÜMÜ HAZIRLAYICI BİRİM LİSE DEVRESİ YÖNETMELİĞİ(1)",
+    "rgTarihi": "27.03.2005"
+  },
+  "atiflar": [
+    {
+      "tip": "sayili",
+      "ham": "1739 sayılı Milli Eğitim Temel Kanunu",
+      "no": "1739",
+      "ad": "Milli Eğitim Temel Kanunu",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "bu Yönetmeliğin 40 ıncı madde",
+      "hedefMadde": "40",
+      "kaynakMadde": 38
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "Bu Yönetmeliğin 22 nci madde",
+      "hedefMadde": "22",
+      "kaynakMadde": 43
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 57
+    }
+  ]
+}

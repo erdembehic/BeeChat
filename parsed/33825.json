@@ -1,0 +1,483 @@
+{
+  "meta": {
+    "mevzuatNo": "33825",
+    "rgTarihi": "29.09.2019",
+    "rgSayisi": "30903",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=33825&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Tıbbi Cihazlar Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, İstanbul Teknik Üniversitesi Tıbbi Cihazlar Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez: İstanbul Teknik Üniversitesi Tıbbi Cihazlar Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Müdür: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amaçları ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amaçları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amaçları; tıbbi cihaz alanında yenilikçi araştırma-geliştirme ve bilgi kapasitesi oluşturmak, ileri seviyede yöntem ve teknolojiler geliştirmek, tıbbi cihazlar araştırma çalışmalarını ülke yararına yüksek teknoloji çıktılarına dönüştürmek, bu sayede ülkenin bilim ve teknolojide rekabetçi gücünü artırmak, güçlü bir üniversite-sanayi-kamu iş birliği ekosistemi yaratarak tıbbi cihaz teknolojilerini kamu, sanayi ve topluma ait problemlerin çözümlenmesine uyarlamak, bu bilgi birikimine dayalı yüksek teknolojili ürünler geliştirmek, yüksek teknolojide dışa bağımlılığı azaltmak, ülkede her sektörde yüksek seviyede ihtiyaç duyulan donanım ve yetkinlik sahibi insan ve iş gücünü, yeni nesil mühendisleri, bilim insanlarını eğitmek, endüstriyel, akademik ve kamu sektörlerine entegre etmek, bunlara yönelik eğitim, bilgi ve kaynak paylaşımı faaliyetlerini yürütmek, tıbbi cihazlar alanında yurt içi ve yurt dışı iş birliklerini oluşturmak, ortak projeler üreterek ülkeye yaygın fayda sağlayacak sürdürülebilir gelişimi mümkün kılacak ilgili araştırma, geliştirme, eğitim, organizasyon ve koordinasyon çalışmalarını yürütmektir. Merkezin faaliyet alanları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Tıbbi cihazlar ile ilgili konularda ulusal ve uluslararası düzeyde Ar-Ge faaliyetleri yapmak, temel bilim kuramlarını oluşturan biyomedikal mühendisliği alanında araştırmalar yürütmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Geliştirilen teknolojilerin laboratuvar ortamının dışına taşınabilmesi, CE sertifikasyonları ve kontrollü klinik çalışmaları gibi adımları tamamlayarak tıbbi cihaz kimliği kazanabilmek."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Teknolojinin sürdürülebilir bir biçimde geliştirilmesiyle kurulacak endüstri ilişkileri çerçevesinde ticarileştirilerek ülkemizin sağlık teknolojilerinde yerli ve milli katma değerli tıbbi cihazlar üretmesini sağlamak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Tıbbi cihazlar araştırmalarına dayalı teknoloji geliştirme suretiyle ülkemizin ihtiyaçlarına yönelik uluslararası seviyede rekabetçi ve dışa bağımlılığı azaltan verimlilik artırıcı yenilikçi yöntem ve ürünleri uygulamaya koymak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Tıbbi cihazlar alanında yeni nesil yetişmiş nitelikli insan gücü ihtiyacını karşılamak üzere gereken eğitimleri tasarlamak, lisans/lisansüstü seviyelerinde programlar ve dersler oluşturmak, akademik tez ve bilimsel yayın üretmek, firmalara ve kamuya yönelik özel kurslar düzenlemek, ilgili tüm kurumsal ve uygulamalı eğitim faaliyetlerini koordine etmek."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Ürettiği bilginin kullanımını yaygınlaştırmak ve tıbbi cihazlar alanında farkındalığı artırmak için toplumun her kesimine yönelik eğitimler ve tanıtım faaliyetleri düzenlemek, sivil toplum kuruluşları ile iş birliği yapmak ve yaygın katılımı sağlamak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Faaliyetlerine destek sağlamak üzere tıbbi cihazlar konularında ortaklıklar oluşturmak, proje üretmek, iş ve hizmet modelleri geliştirmek ve uygulamak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri, Uygulama Birimleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Müdür",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Müdür."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulu."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdür, Rektör tarafından Üniversitenin Elektrik ve Elektronik Fakültesi öğretim üyeleri arasından üç yıl için görevlendirilir. Müdür, görevi başında bulunmadığı zaman yardımcılarından birini vekil bırakır. Göreve vekalet kesintisiz altı aydan fazla sürerse yeni bir Müdür görevlendirilir. Süresi dolan Müdür aynı usulle yeniden görevlendirilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Süresi tamamlanmadan ayrılan veya görevden alınan Müdür yerine kalan süreyi tamamlamak üzere aynı usulle yeni Müdür görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Müdürün önerisi ile Üniversite öğretim üyeleri arasından en çok iki kişi müdür yardımcısı olarak Rektör tarafından üç yıl süre ile görevlendirilir. Müdürün görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdürün görevleri şunlardır: Yönetim Kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil etmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez personelinin düzenli ve verimli çalışmasını sağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Yönetim Kuruluna başkanlık yapmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Yönetim Kurulu kararlarının uygulanmasını sağlamak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Yönetim ve Danışma Kurullarının toplantı gündemlerini hazırlamak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Her yıl sonunda hazırlayacağı Merkez bütçe tasarısını, faaliyet raporunu ve bir sonraki yıla ait çalışma programını Yönetim Kurulunun onayına sunmak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Birim yöneticilerini belirleyerek Yönetim Kurulunun onayına sunmak."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Yönetim Kurulunca verilen diğer görevleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulu; Merkez Müdürü ve yardımcıları ile Müdürün önerisi üzerine Üniversite öğretim üyeleri arasından Rektör tarafından görevlendirilen iki üye olmak üzere toplam beş üyeden oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyelerin yerine yeni üye görevlendirilir ya da görev süresi biten üye yeniden görevlendirilebilir. Süresi bitmeden ayrılanların veya görev değişikliği olanların yerine kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yönetim Kurulu, Başkanın çağrısı ile ayda en az bir kere üye tamsayısının yarıdan fazlasıyla toplanır ve kararlar toplantıya katılanların salt çoğunluğuyla alınır. Başkan Merkez çalışmalarının düzenli olarak yürütülmesinden, geliştirilmesinden, sorunların çözülmesinden ve koordinasyonun sağlanmasından Yönetim Kuruluna karşı sorumludur. Yönetim Kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulunun görevleri şunlardır: Danışma Kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezin etkinlikleri ve yönetimiyle ilgili konuları görüşüp karara bağlamak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin bütçe tasarısını, faaliyet raporunu ve çalışma programını görüşerek onaylamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezin bireysel, kamusal ve kurumlar arası hizmet ve ilişkilerini belirlemek, diğer ilgili kurumlarla iş birliği halinde anlaşmaları şekillendirmek ve onay vermek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkeze yapılan proje tekliflerini değerlendirmek ve bütçelerini onaylamak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezin uzun vadeli stratejik plan ve programını hazırlamak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Akademik, teknik ve idari kadrolarda görev yapacak olanları onaylamak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Merkezin uygulama birimlerinin sayısı, yapısı ve niteliklerini düzenlemek."
+                },
+                {
+                  "harf": "g",
+                  "metin": "İlgili diğer iş ve işlemleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Danışma Kurulu; Yönetim Kurulunca önerilen ve Rektör tarafından görevlendirilen Merkezin amacı doğrultusunda çalışma yapan Üniversite öğretim üyeleri ve istekleri halinde konuyla ilgili diğer üniversite, kamu ve özel sektör kurum ve kuruluşları ile sivil toplum kuruluşları temsilcilerinden olmak üzere en fazla yedi üyeden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyelerin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Danışma Kurulunun görevi; Müdürün daveti üzerine yılda en az bir kez toplanarak, Merkezin çalışma alanına giren konularda görüşlerini açıklayıp, tartışılmasını sağlamak, yeni çalışma konuları üzerinde görüş bildirmek ve Merkezin ihtiyaç duyduğu alanlarda çalışmalar yapmaktır. Merkezin uygulama birimleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "İhtiyaçlar doğrultusunda, Yönetim Kurulunun kararı ile Merkezde uygulama birimleri kurulabilir ve bunların sayısında ve yapılarında değişiklik yapılabilir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "Personel ihtiyacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezde görevlendirilecek teknik, idari ve akademik personel ihtiyacı, Müdürün teklifi ve Yönetim Kurulunun kararı üzerine, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır. Anlaşmalar, kaynakların kullanımı ve iş birliği",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez tarafından, yeni projeler için kendi adına ve/veya ilgili kamu kurum ve kuruluşlarının iş birliği ile Avrupa Birliği fonları da dahil olmak üzere harici kaynakların kullanımı için başvuru ve anlaşmalar yapılabilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yönetim Kurulunun gerekli gördüğü faaliyetlerle ilgili hizmet alımı yapılabilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Merkez, ilgili mevzuat hükümleri çerçevesinde mali konulardaki iş ve işlemleri yürütür.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Merkez tarafından yürütülen araştırmalar kapsamında her türlü taşınır ve/veya alet, ekipman ve demirbaşlar Merkezin kullanımına tahsis edilir. Merkez hizmetleri için sahaya kurulan uzun süreli ya da kalıcı ekipmanların mülkiyet yönetim esasları ise Yönetim Kurulu kararları ve ilgili kuruluşlarla yapılacak mutabakatlara göre belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Merkezin faaliyetlerinde Yönetim Kurulunun kararı ve Rektörün onayı ile Üniversitenin bütün laboratuvar imkanları kullanılabilir.",
+              "bentler": []
+            },
+            {
+              "no": 6,
+              "metin": "Merkez, amaç ve görevlerini gerçekleştirebilmek için yurt içinde ve yurt dışında araştırma, hizmet, eğitim ve sanayi kuruluşları ile iş birliği yapabilir.",
+              "bentler": []
+            },
+            {
+              "no": 7,
+              "metin": "Merkezden elde edilen verilerin akademik kullanım hakkı proje yürütücüleri düzeyinde yapılacak sözleşmeler ile araştırmacıların telif hakkı, gizlilik ilkeleri ve isim yayın sıraları belirlenir ve ilgili akademik yayınlar buna göre düzenlenir. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

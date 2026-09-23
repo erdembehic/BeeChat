@@ -1,0 +1,444 @@
+{
+  "meta": {
+    "mevzuatNo": "16397",
+    "rgTarihi": "19.07.2012",
+    "rgSayisi": "28358",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16397&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ ULUSAL COĞRAFİ BİLGİ TEKNOLOJİLERİ İNOVASYON UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesine bağlı olarak kurulan, İstanbul Teknik Üniversitesi Ulusal Coğrafi Bilgi Teknolojileri İnovasyon Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesi Ulusal Coğrafi Bilgi Teknolojileri İnovasyon Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez: İstanbul Teknik Üniversitesi Ulusal Coğrafi Bilgi Teknolojileri İnovasyon Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez Müdürü: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkez Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amacı ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amacı; ulusal ve uluslararası düzeyde akademik araştırmalar ve endüstriyel araştırma-geliştirme-inovasyon faaliyetlerini destekleyen coğrafi bilgi teknolojileri hizmetlerini sunmak ve bu alanda Türkiye ve bölgesinde bir sinerji merkezi olmaktır. Merkezin faaliyet alanları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Coğrafi bilgi teknolojileri konularında, ülkenin bilimsel ve kullanım ihtiyaçlarını karşılayacak yeterliliği sağlamak, eğitim ve araştırma yapmak, yenilikçi sistem ve teknoloji tasarlamak, geliştirmek ve uygulamak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Coğrafi bilgi teknolojileri konularında, ulusal kullanıma yönelik yazılım-donanım sistemleri geliştirerek, test ve sertifikasyon modellerinin uygulanması için usul ve esasları belirleyici ölçütler için bilimsel ve teknolojik araştırmalar yapmak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Coğrafi nitelikli veri depolama, paylaşım ve sunum sistemleri tasarlamak, temin etmek ve işletmek, bu sistemleri ulusal ve uluslararası düzeyde araştırıcıların ve kurumların kullanımına sunmak,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Benzer ulusal ve uluslararası kuruluşlarla işbirliği yapmak, coğrafi bilgi teknolojilerinin ulusal ve uluslararası düzeyde etkin kullanımını kolaylaştıracak servis, destek, eğitim-araştırma ve geliştirme faaliyetleri yürütmek, bu amaçla gerekli altyapıları kurmak,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Coğrafi bilgi teknolojilerinin bilimsel araştırmalarda etkin kullanılabilmesi için gerekli servis altyapısını oluşturmak, yeni gelişmeleri izlemek, yayın yapmak, insan gücünü yetiştirmek ve bu teknolojileri kullanabilecek araştırmacı sayısını arttırmak amacı ile planlama yapmak, eğitimler, seminerler, çalıştaylar, konferanslar ve paneller düzenlemek ve kamuoyunu bilinçlendirmek,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Coğrafi bilgi teknolojileri konularında eğitim ve uzmanlığı ilgilendiren konularda danışmanlık yaparak, coğrafi bilgiye dayalı araştırma-geliştirmeye yönelik ulusal ve uluslararası düzeyde proje üretim çalışmaları ile ulusal coğrafi bilgi endüstrisinin rekabet gücünü artırmak,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Coğrafi bilgi teknolojileri konusu ile ilgili ulusal ve uluslararası bilimsel kuruluşlara üye olmak, Merkezin faaliyet sahasına giren konularda öğretim elemanlarının, yurt içinde ve yurt dışında araştırma ve incelemeler yapmasına katkı vermek,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Coğrafi/konumsal bilim, mühendislik, sosyal ve sağlık alanlarında akademik, kamu ve endüstriyel araştırma-geliştirme sektörünü ve kamuoyunu bilinçlendirmek ve bu alanda farkındalık yaratmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri, Alt Çalışma Birimleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Merkez müdürü ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez Müdürü,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Yönetim Kurulu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Müdürü; Rektör tarafından, Üniversitede Merkezin faaliyetleriyle ilgili alanlarda tam gün çalışan ve coğrafi bilgi sistemleri konusunda uzman öğretim üye ve görevlileri arasından üç yıl süre ile görevlendirilir. Süresi biten Merkez Müdürü aynı usulle yeniden görevlendirilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Müdürünün önerisi ile Merkez Müdürüne çalışmalarında yardımcı olmak üzere, Üniversitede tam gün çalışan coğrafi bilgi sistemleri konusunda uzman öğretim üyeleri arasından bir kişi Merkez Müdür Yardımcısı olarak Rektör tarafından üç yıl süreyle görevlendirilir. Merkez Müdürü görevden kısa süreli ayrılmalarında yardımcısını vekil olarak bırakır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Merkez Müdürünün görevleri şunlardır: Merkez yönetim kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil ve Merkez Yönetim Kuruluna başkanlık etmek, her yıl sonunda Merkezin çalışmaları ile ilgili olarak etkinlik raporunu ve sonraki yıla ait çalışma programını hazırlamak ve Merkez Yönetim Kuruluna sunmak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Yönetim Kurulunun belirlediği ilkeler ve hedefler doğrultusunda Merkezi yönetmek, akademik, idari, mali ve teknik yönden işleyişini planlamak, kamu ya da özel kuruluşlar arasında koordinasyon sağlamak ve Merkez ile ilgili eğitim programlarını düzenlemek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Yönetim Kurulu; Merkez Müdürü ve yardımcısı ile Merkez Müdürünün önerisi ile Rektör tarafından görevlendirilen Üniversitede tam gün çalışan üç öğretim üyesi ve görevlisi olmak üzere toplam beş kişiden oluşur. Merkez Yönetim Kurulu üyeleri üç yıl için görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Yönetim Kurulunda görev süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan veya Üniversite dışında altı aydan fazla süreyle görevlendirilenlerin yerine, kalan süreyi doldurmak üzere yenileri görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Merkez Yönetim Kurulunun görevleri şunlardır: Merkez danışma kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez Müdürünün başkanlığında ayda en az bir defa toplanarak, Merkezin etkinlikleri ve yönetimi ile ilgili konuları görüşmek ve idari kararlar almak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Müdürünün her yıl hazırlayacağı etkinlik raporunu görüşmek ve bir sonraki yıla ait çalışma programını onaylamak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "İlgili diğer mevzuat hükümleriyle verilen görevleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Danışma Kurulu; Merkez Yönetim Kurulu tarafından önerilen ve Rektör tarafından görevlendirilen Üniversite öğretim üyelerinden ve istekleri halinde konuyla ilgili diğer üniversite, kamu ve özel sektör kurum ve kuruluş temsilcilerinden oluşur. Merkez Danışma Kurulu en fazla on üyeden oluşur. Merkez Danışma Kurulu üyelerinin görev süreleri üç yıldır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Danışma Kurulunun görevi; yılda en az iki kez toplanarak, Merkezin çalışma alanına giren konularda görüşlerini açıklamak, bu görüşlerin tartışılmasını sağlamak ve yeni çalışma konuları üzerinde görüş bildirmektir. Alt çalışma birimleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezde, aşağıdaki esaslara göre alt çalışma birimleri kurulur:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Bu Yönetmeliğin 6 ncı maddesinde belirtilen konularda Merkezin faaliyetlerini uygulamak ve belirlenecek programa göre gerçekleştirilmesine yardımcı olmak üzere, Merkez Yönetim Kurulu tarafından Merkeze bağlı alt çalışma birimleri kurulabilir. Çalışma programı tamamlanan alt birimlerin görevi sona erer."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Alt çalışma birimi için ilgili öğretim üyeleri de teklif yapabilir."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Belirli projelere belirli süre tahsis olunacak laboratuvar, atölye ve personel için diğer birimlerle işbirliği yapılır."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkez Müdürü, alt çalışma birimlerinin faaliyetlerini yürütmek üzere bir birim yürütücüsü seçer. Birim yürütücüleri, planlanmış ve onaylanmış birim çalışmalarından dolayı Merkez Müdürü ve Merkez Yönetim Kuruluna karşı sorumludur."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Fakülteler ve diğer birimlerle işbirliği kapsamında görevlendirmelerle ilgili olarak Rektörün onayı alınır."
+                }
+              ]
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "ic_atif",
+              "ham": "Bu Yönetmeliğin 6 ncı madde",
+              "hedefMadde": "6",
+              "kaynakMadde": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "Personel",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesi gereğince Rektör tarafından görevlendirilecek personel tarafından karşılanır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkezin çalışmalarında öğrenciler görevlendirilebilir. Bu öğrenciler Merkez Yönetim Kurulu tarafından belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Merkezde çalışan elemanların görevleri Merkez Müdürünce belirlenir. Merkezdeki bütün elemanlar Merkez Müdürüne karşı sorumludurlar. Ekipman ve demirbaşlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez tarafından desteklenen araştırmalar kapsamında alınan her tür alet, ekipman ve demirbaşlar Merkez hizmetlerinin kullanımına tahsis edilir. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde, ilgili diğer mevzuat hükümleri uygulanır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "Bu Yönetmeliğin 6 ncı madde",
+      "hedefMadde": "6",
+      "kaynakMadde": 11
+    }
+  ]
+}

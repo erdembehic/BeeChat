@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "mevzuatNo": "17218",
+    "rgTarihi": "20.03.2013",
+    "rgSayisi": "28593",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=17218&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "LİSANS EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Denizcilik Fakültesinde yürütülen lisans eğitim öğretimine ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesi Denizcilik Fakültesi lisans programına öğrenci kabulü, yatay ve dikey geçişler, uygulamalı eğitim esasları ve disipline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü, 43 üncü ve 44 üncü maddelerine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "44",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Denizcilik Fakültesi: İstanbul Teknik Üniversitesi Denizcilik Fakültesini,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Senato: İstanbul Teknik Üniversitesi Senatosunu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Üniversite Yönetim Kurulu: İstanbul Teknik Üniversitesi Yönetim Kurulunu"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Kabul Esasları, Yatay ve Dikey Geçişler",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Kabul esasları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Denizcilik Fakültesine kabul edilmek için; lisans öğrenimiyle ilgili Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM)'nin yaptığı sınavı kazanmış olmak, ayrıca Denizcilik Fakültesinin belirlemiş olduğu Senatonun onayladığı ve ÖSYM tarafından ilan edilmiş olan giriş ek koşullarını sağlamış olmak ve başka bir yükseköğretim kurumunda kayıtlı olmamak gerekir. Yatay ve dikey geçişler",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Üniversite içinden veya dışından Denizcilik Fakültesine yapılacak yatay geçişler, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete'de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato tarafından belirlenen esaslara göre yürütülür. Yatay ve dikey geçiş yapmak isteyen öğrencilerin her yıl Denizcilik Fakültesinin belirlemiş olduğu Senatonun onayladığı ve ÖSYM tarafından ilan edilmiş olan giriş ek koşullarını sağlamaları gerekir. Ek giriş koşullarını sağlamayan öğrencilerin geçiş başvurusu kabul edilmez.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Uygulamalı Eğitim Esasları ve Disiplin",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Uygulamalı eğitim esasları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Uygulamalı eğitim (staj) çalışmaları öğretim planına dahildir. Uygulamalı eğitim (staj) çalışmaları, Denizcilik Fakültesi uygulamalı eğitim (staj) esaslarına göre yapılır. Disiplin",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrencilerin disiplin iş ve işlemleri; 18/8/2012 tarihli ve 28388 sayılı Resmî Gazete'de yayımlanan Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği ve ilgili diğer mevzuat hükümlerine göre yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "(Değişik:RG-16/9/2019-30890) Denizcilik Fakültesinde 28/2/2010 tarihli ve 27507 sayılı Resmî Gazete’de yayımlanan Denizcilere Mahsus Kıyafet Yönetmeliği hükümlerine göre eğitim ve öğretim üniformalı yapılır. Üniformaya ilişkin hususlar Üniversite tarafından belirlenir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "Hüküm bulunmayan haller",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde, 28/9/2011 tarihli ve 28068 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Lisans Eğitim ve Öğretim Yönetmeliği ve ilgili diğer mevzuat hükümleri ile Fakülte Yönetim Kurulu, Üniversite Yönetim Kurulu ve Senato kararları uygulanır. Yürürlükten kaldırılan yönetmelik",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "8/1/2005 tarihli ve 25694 sayılı Resmî Gazete'de yayımlanan İstanbul Teknik Üniversitesi Denizcilik Fakültesi Lisans Eğitim ve Öğretim Yönetmeliği yürürlükten kaldırılmıştır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür. Yönetmeliğin Yayımlandığı Resmî Gazete’nin Tarihi Sayısı 20/3/2013 28593 Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin Tarihi Sayısı 1. 16/9/2019 30890 2.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "44",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "meta": {
+    "mevzuatNo": "42634",
+    "rgTarihi": "05.10.2025",
+    "rgSayisi": "33038",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42634&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "HAZIRLIK PROGRAMI EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Başlangıç Hükümleri",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı, İstanbul Teknik Üniversitesi ön lisans/lisans İngilizce hazırlık programında yürütülen eğitim-öğretim esaslarını düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, İstanbul Teknik Üniversitesi ön lisans/lisans programlarına kabul edilen öğrencilerin devam etmeleri gereken İngilizce hazırlık programı ile ilgili hususları ve eğitim-öğretime ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "14",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Akademik takvim: Eğitim-öğretim yılının başlama ve bitiş tarihleri ile kayıt ve sınav tarihleri gibi önemli tarihleri içeren takvimi,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Düzey belirleme sınavı: Öğrencinin İngilizce hazırlık programı eğitimine hangi düzeyde devam edeceğini belirleyen sınavı,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Eğitim-öğretim yılı: Her biri en az on dört haftalık güz ve bahar yarıyıllarından oluşan akademik yılı,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Senato: İstanbul Teknik Üniversitesi Senatosunu,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Yarıyıl: Bir eğitim-öğretim yılındaki güz veya bahar dönemini,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Yeterlik sınavı: Öğrencinin kayıtlı olduğu program için istenen yabancı dil yeterliğine sahip olup olmadığını ölçen sınavı,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Yüksekokul: İstanbul Teknik Üniversitesi Yabancı Diller Yüksekokulunu,"
+                },
+                {
+                  "harf": "h",
+                  "metin": "Yüksekokul Kurulu: Yabancı Diller Yüksekokulu Kurulunu,"
+                },
+                {
+                  "harf": "ı",
+                  "metin": "Yüksekokul Yönetim Kurulu: Yabancı Diller Yüksekokulu Yönetim Kurulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Öğrenci Kabulü ve İngilizce Yeterlik",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Öğrenci kabulü",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Üniversiteye kabul edilen ön lisans/lisans öğrencilerinden, İngilizce dil bilgilerinin yeterli olduğunu Senato tarafından kabul edilen herhangi bir dil sınavı belgesi ile kanıtlayamayan ve eğitim-öğretim yılı başında yapılan İngilizce yeterlik sınavında başarılı olamayan öğrenciler zorunlu İngilizce hazırlık programına alınır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Üniversiteye kabul edilen ön lisans/lisans öğrencilerinden İngilizce dil düzeyi yeterli bulunanlar kabul edildikleri ön lisans/lisans programına başlar. İngilizce yeterlik",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Üniversiteye kabul edilen ön lisans/lisans öğrencilerinin İngilizce dil bilgilerinin yeterliği Senato tarafından kabul edilen yabancı dil sınavları ile belirlenir. Üniversiteye ilk defa kayıt yaptıran ön lisans/lisans öğrencileri ve beklemeli durumda olan öğrencilerin İngilizce yeterlik sınavından 100 tam puan üzerinden Senato tarafından belirlenen minimum geçer puanı almaları halinde İngilizce dil düzeyleri yeterli kabul edilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "İngilizce hazırlık programında başarı ve değerlendirmeye ilişkin esaslar her eğitim-öğretim yılı güz yarıyılı başında Yüksekokul Kurulu tarafından belirlenerek ilan edilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Herhangi bir nedenle İngilizce yeterlik sınavına girmeyenlere telafi sınavı verilmez.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Üniversitenin ön lisans/lisans öğrencisiyken yeniden ÖSYM'nin yaptığı sınava girip Üniversitenin bir ön lisans/lisans programına yerleştirilen öğrencilerde İngilizce yeterlik şartı aranmaz. Dış sınavlarda İngilizce yeterlik",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrenciler, İngilizce yeterliklerini Senato tarafından eşdeğerliği kabul edilen uluslararası dil sınavlarından biriyle de kanıtlayabilir. Bu sınav sonuçlarına göre İngilizce dil yeterliğini sağlayan öğrenciler, ilgili fakültede/yüksekokulda öğrenime başlar.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Üniversiteye kabul edildikleri eğitim-öğretim yılında, Senato tarafından eşdeğerliği kabul edilen uluslararası sınavlardan birinden başarılı olan lisans/ön lisans hazırlık öğrencileri, sınav sonuç belgelerini ibraz etmeleri durumunda o dönem içerisinde İngilizce hazırlık programına devam etmeyebilir ve takip eden yarıyılda fakültelerinde/yüksekokullarında öğrenime başlar.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "İbraz edilen sınav sonuçlarının geçerliliği kabul edilmeden önce Üniversite gerektiğinde söz konusu sonuçlar hakkında araştırma yapar.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Eğitim-Öğretime İlişkin Esaslar",
+      "maddeler": [
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "İngilizce hazırlık programı ve düzey belirleme",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Ön lisans/lisans hazırlık programı öğrencileri, dil beceri düzeylerinin saptanabilmesi için düzey belirleme sınavına alınarak düzeylerine göre; Program 4 (orta-üstü/upper-intermediate), Program 3 (orta/intermediate), Program 2 (orta-altı/pre-intermediate) ve Program 1 (başlangıç/elementary) olmak üzere dört gruba ayrılırlar.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Düzeylerin haftalık ders saatleri ve düzey değiştirme kuralları her eğitim-öğretim yılının başında Yüksekokul Kurulu tarafından belirlenerek duyurulur.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yükseköğretim Kurulunun izni ile şekli, süresi ve yürütülmesi Senato tarafından belirlenen esaslar çerçevesinde yaz öğretimi açılabilir. Eğitim-öğretim süresi ve devam zorunluluğu",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yüksekokul tarafından yürütülen ön lisans/lisans İngilizce hazırlık programının azami süresi iki yıldır. Zorunlu ders ve uygulamalar, öğrencilerin Üniversiteye kabulünü takip eden iki yarıyılda verilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Ön lisans/lisans İngilizce hazırlık programı öğrencileri, yürütülen ders ve uygulamaların en az %85'ine katılmakla yükümlüdür. Bu yükümlülüğü yerine getirmeyen öğrenciler devamsızlıkları nedeniyle başarısız sayılır ve derslere devam hakkını kaybederler. Bu öğrenciler, güz yarıyılı ve bahar yarıyılı sonunda verilen İngilizce yeterlik sınavına giremez; ancak bu öğrenciler aynı eğitim-öğretim yılının yaz öğretimi sonunda Yüksekokul tarafından düzenlenen İngilizce yeterlik sınavına ve bir sonraki eğitim-öğretim yılı içerisindeki tüm İngilizce yeterlik sınavlarına girebilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Derslere devam edemeyen veya sınavlara giremeyen öğrenciler bu yöndeki mazeretlerini belgelendirmek zorundadırlar. Öğrenci mazeretleri ilgili mevzuat hükümlerine göre değerlendirilir. Bu esaslara göre mazeretleri kabul edilen öğrencilerin mazeretli olarak geçirdikleri süre öğrencinin devamsızlık süresinden düşülür.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Ön lisans/lisans İngilizce hazırlık programı öğrencilerinin almış oldukları raporların toplam süresi, ikinci fıkrada belirtilen, bir yarıyılda katılmakla yükümlü oldukları ders ve uygulamaların toplam süresinin %10’unu geçemez. Değerlendirme ve başarı",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrencilerin ön lisans/lisans İngilizce hazırlık programındaki eğitim-öğretimleri süresince yerine getirecekleri yükümlülükler, her eğitim-öğretim yılının başında Yüksekokul Kurulu tarafından belirlenerek duyurulur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Bir düzeyin başarıyla tamamlanabilmesi için öğrencilerin o düzeye ilişkin devam yükümlülüklerini, sınav, kısa sınav, ödev, proje ve benzeri çalışmaları kapsayan düzey içi yükümlülüklerini yerine getirmiş ve her düzey için belirlenmiş olan başarı ölçütlerini sağlamış olmaları koşulu aranır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Ön lisans/lisans İngilizce hazırlık programındaki Program 4 (P4) düzeyi öğrencileri devam koşulunu yerine getirdikleri ve yıl içi sınavlarında 60 not ortalamasını sağladıkları takdirde güz yarıyılı sonunda verilen İngilizce yeterlik sınavına girme hakkını elde ederler. Bu sınavda başarılı olanlar fakültelerinde/yüksekokullarında derslere başlarlar. Bu sınavda başarısız olan öğrenciler ise bahar yarıyılında derslere devam ederler ve gerekli koşulları sağlamaları halinde yarıyıl sonunda verilen İngilizce yeterlik sınavına girerler.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Ön lisans/lisans İngilizce hazırlık programındaki Program 3 (P3) düzeyi öğrencileri devam koşulunu yerine getirdikleri ve yıl içi sınavlarında 60 not ortalaması sağladıkları takdirde güz yarıyılı sonunda verilen İngilizce yeterlik sınavına girme hakkını elde ederler. Bu sınavda başarılı olanlar fakültelerinde/yüksekokullarında derslere başlarlar. Güz yarıyılı sonunda yapılan İngilizce yeterlik sınavında başarısız olan öğrenciler, bahar yarıyılında derslere devam ederler ve gerekli koşulları sağlamaları halinde yarıyıl sonunda verilen İngilizce yeterlik sınavına girerler.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Ön lisans/lisans İngilizce hazırlık programındaki Program 2 (P2) düzeyi öğrencileri devam koşulunu yerine getirdikleri ve yıl içi sınavlarında 80 not ortalaması sağladıkları takdirde güz yarıyılı sonunda verilen İngilizce yeterlik sınavına girme hakkını elde ederler. Bu sınavda başarılı olanlar fakültelerinde/yüksekokullarında derslere başlarlar. Güz yarıyılı sonunda yapılan İngilizce yeterlik sınavında başarısız olan öğrenciler, bahar yarıyılında derslere devam ederler ve gerekli koşulları sağlamaları halinde yarıyıl sonunda verilen İngilizce yeterlik sınavına girerler.",
+              "bentler": []
+            },
+            {
+              "no": 6,
+              "metin": "Ön lisans/lisans İngilizce hazırlık programındaki Program 1 (P1) düzeyi öğrencileri güz yarıyılı sonunda yapılan İngilizce yeterlik sınavına giremezler. Bu öğrencilerden devam şartını yerine getiren ve 60 not ortalamasını sağlayanlar bahar yarıyılı sonunda verilen İngilizce yeterlik sınavına katılabilirler.",
+              "bentler": []
+            },
+            {
+              "no": 7,
+              "metin": "Tüm düzeylerde, tüm eğitim-öğretim yılı boyunca devam koşulunu yerine getiren ve yapılan yıl içi değerlendirmelerden 60 not ortalaması sağlayan öğrenciler bahar yarıyılı sonunda düzenlenen İngilizce yeterlik sınavına girme hakkını elde ederler.",
+              "bentler": []
+            },
+            {
+              "no": 8,
+              "metin": "Yaz öğretimi dâhil kayıt oldukları öğretim yılının sonunda fakülte ve bölümlerinde lisans; yüksekokullarında ön lisans öğrenimine başlamaya hak kazanamayan öğrenciler, bir sonraki öğretim yılının başında yapılan İngilizce yeterlik sınavına girebilirler. En geç güz yarıyılı başlangıcında yapılan İngilizce yeterlik sınavında başarılı olanlar güz yarıyılında fakültelerinde/yüksekokullarında öğrenimlerine başlayabilirler. Öğrencilerin ön lisans/lisans öğrencisi olduktan sonra birinci sınıfta hangi İngilizce derslerini alacakları Senato kararı ile belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 9,
+              "metin": "Yaz öğretimi dâhil kayıt oldukları öğretim yılının sonunda ve bir sonraki öğretim yılının başında yapılan İngilizce yeterlik sınavında başarılı olamayan öğrenciler, aynı eğitim ve öğretim yılında Yüksekokul tarafından düzenlenen tüm İngilizce yeterlik sınavlarına girebilirler.",
+              "bentler": []
+            },
+            {
+              "no": 10,
+              "metin": "Hazırlık programını iki yıl içinde başarı ile tamamlayamayan öğrenciler isterlerse 2547 sayılı Kanunun 44 üncü maddesi ve 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmeliğin 9 uncu maddesi uyarınca İngilizce öğretimin zorunlu olmadığı üniversitelere yatay geçiş için başvuru yapabilirler. Yatay geçiş için başvuruda bulunmayan adayların Üniversite ile ilişikleri kesilir. Kayıt yenileme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrenciler, her yarıyıl başında akademik takvimde belirtilen tarihlerde ilgili mevzuat hükümlerine göre yükümlülükleri bulunuyorsa o yarıyılın katkı payı/öğrenim ücretini ödemek suretiyle kayıt yenilemek zorundadır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Katkı payını/öğrenim ücretini yatırmayan öğrencilerin kayıt işlemleri tamamlanmış sayılmaz ve bu öğrencilere 11/7/2016 tarihli ve 29767 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Lisans Eğitim ve Öğretim Yönetmeliğine göre işlem yapılır.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "İzinli sayılma",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "İzinli sayılma işlemleri, İstanbul Teknik Üniversitesi Lisans Eğitim ve Öğretim Yönetmeliği hükümlerine göre yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yüksekokul hazırlık programına ilk defa kayıt yaptıran öğrencilere bir yarıyıl izin verilmez. Bu öğrenciler, İngilizce hazırlık eğitiminin sürekliliği açısından eğitim-öğretim yılının başlangıcından itibaren iki yarıyıl izin alabilirler.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "İngilizce hazırlık programına kabul aldığı yıl izin alan öğrenciler, güz yarıyılı ve bahar yarıyılı sonunda verilen İngilizce yeterlik sınavına giremezler. Disiplin",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrencilerin disiplin iş ve işlemleri, 2547 sayılı Kanunun 54 üncü maddesi hükümlerine göre yürütülür. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde, 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri ile Yükseköğretim Kurulu kararları uygulanır. Yürürlükten kaldırılan yönetmelik",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri ile Yükseköğretim Kurulu kararla",
+              "no": "2547",
+              "ad": "Kanun ve ilgili diğer mevzuat hükümleri ile Yükseköğretim Kurulu kararla",
+              "kaynakMadde": 14
+            }
+          ]
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "21/11/2022 tarihli ve 32020 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Lisans İngilizce Hazırlık Programı Eğitim ve Öğretim Yönetmeliği yürürlükten kaldırılmıştır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "14",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri ile Yükseköğretim Kurulu kararla",
+      "no": "2547",
+      "ad": "Kanun ve ilgili diğer mevzuat hükümleri ile Yükseköğretim Kurulu kararla",
+      "kaynakMadde": 14
+    }
+  ]
+}

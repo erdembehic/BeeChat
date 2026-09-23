@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "mevzuatNo": "15900",
+    "rgTarihi": "19.02.2012",
+    "rgSayisi": "28209",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15900&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "LİSANS EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuarında yürütülen lisans eğitim-öğretimine ilişkin esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuarına lisans bölümleri düzeyinde öğrenci kabulü, eğitim-öğretim, sınavlar, notlar, işaretler, değerlendirmeler, diploma ve benzeri faaliyetlerin düzenlenmesine ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "14",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-8/5/2020-31121)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Konservatuar: İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuarını,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Konservatuar Kurulu: İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuarı Kurulunu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Konservatuar Yönetim Kurulu: İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuarı Yönetim Kurulunu,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Müdür/Müdürlük: İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuarı Müdürünü/Müdürlüğünü,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Senato: İstanbul Teknik Üniversitesi Senatosunu,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Kabul Esasları ve Kesin Kayıtlar, Öğretim Şekli,",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Ön Koşul, Çalgı Değiştirme Kabul esasları ve kesin kayıtlar",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-8/5/2020-31121)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Konservatuarın tüm bölümleri için Başvuru, Giriş Sınavı Kriterleri, Kabul ve Kesin Kayıtlara İlişkin Esaslar Konservatuar Kurulunun önerisi, Senatonun onayı ile belirlenerek ilan edilir. Öğretim şekli",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Konservatuarda lisans öğretiminin normal süresi sekiz yarıyıldır. Öğretim; öğretim planında öngörülen dersler, uygulamalar, atölye çalışmaları, toplu çalışmalar, alan araştırmaları ve uygulamalar, seminerler, bitirme çalışması ve benzeri çalışmalardan oluşabilir. Konservatuar Kurulu ve Senato tarafından aksi kararlaştırılmadıkça, öğretim planlarındaki derslerin ve her türlü akademik etkinliklerin süresi bir yarıyıldır. Öğretim planındaki dersler, zorunlu ve seçmeli derslerden oluşur. Zorunlu dersler, öğrencinin almak zorunda bulunduğu, seçmeli dersler ise öğrencinin belirli ders grupları içinden seçerek almak zorunda olduğu derslerdir. Ön koşul",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bir programa ait derslerin ön koşulları, Konservatuar Kurulunun önerisi ve Senatonun onayı ile belirlenir ve ilan edilir. Bir dersin ön koşulu olarak belirlenen dersten/derslerden ön koşulun sağlanması için aranan ders notunun DD veya üzeri, sınavı jürili olarak yapılan derslerde ise CC veya üzeri olması gerekir. Ön koşul olarak belirlenen dersler kredisiz dersler ise ön koşulun sağlanabilmesi için bu derslerden başarılı olma (BL) şartı aranır. Ön koşullar ilan edildiği tarihi izleyen yarıyılda uygulanır. Çalgı değiştirme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrenciler, en geç öğrenim görülen bölümün eğitim planında öngörülen ilk yarıyılın sonunda bir defaya mahsus olmak üzere çalgı değiştirebilir. Ancak; öğrenciler eğitim süreci içinde hastalık, kaza ve benzer nedenler ile fiziksel olarak mevcut çalgısını çalamayacak şekilde bir engeli oluştuğunu, sağlık raporu ile belgelemeleri halinde çalgı değiştirme işlemi için tekrar başvurabilir. Çalgı değiştirme başvurusu yapan öğrenciler, Konservatuar Yönetim Kurulu tarafından oluşturulan bir komisyon tarafından yapılan değerlendirme sonrasında, komisyonun öngördüğü çalgıya ve yarıyıla Konservatuar Yönetim Kurulunun onayıyla, bu Yönetmelik hükümlerine göre intibak ettirilir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Notlar, İşaretler ve Sınavlara İlişkin Esaslar",
+      "maddeler": [
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "Notlar ve işaretler",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Değişik:RG-18/12/2023-32403)",
+              "bentler": []
+            },
+            {
+              "no": 1,
+              "metin": "Lisans eğitim ve öğretiminde, öğrencinin bir dersteki başarısı, bağıl değerlendirme yöntemi ile belirlenir. Bu değerlendirme, öğrencinin yarıyıl içi çalışmalarında gösterdiği başarı ve yarıyıl sonu sınavında aldığı not birlikte değerlendirilerek ve sınıfın genel başarı düzeyi göz önünde bulundurularak saptanır. İlgili bölümler tarafından belirlenen en az ham not üzerindeki bağıl değerlendirme, dersi veren öğretim üyesi tarafından, notların dağılımı ve sınıf ortalaması göz önünde bulundurularak yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Bir dersteki başarı durumu başarı notu ile belirlenir. Başarı notu harflerinin anlamları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Bir dersten (AA), (BA+), (BA), (BB+), (BB), (CB+), (CB), (CC+) ve (CC) notlarından birisini alan öğrenci o dersi başarmış sayılır."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Bir dersten (DC+), (DC), (DD+) ve (DD) notlarından birisini alan öğrenci, o dersi şartlı başarmış kabul edilir."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Bir dersten (FF) notunu alan öğrenci o dersten başarısız sayılır."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Bir dersten (VF) notunu alan öğrenci yıl sonu sınavına giremez ve başarısız kabul edilir."
+                }
+              ]
+            },
+            {
+              "no": 3,
+              "metin": "Başarı notu harfleri dışında kullanılan diğer harflerin anlamları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "BL: Kredisiz olarak alınan dersten başarılı."
+                },
+                {
+                  "harf": "b",
+                  "metin": "BZ: Kredisiz olarak alınan dersten başarısız."
+                },
+                {
+                  "harf": "c",
+                  "metin": "T: Kayıt yaptırdığı dersten çekilen öğrenciye verilir."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "E: Proje, tasarım projesi ve benzeri çalışmalarda, çalışmasını belirlenen sürede bitiremeyen öğrenciye verilir. Çalışmanın ne zaman tamamlanacağı öğretim üyesi tarafından belirlenir. Belirlenen sürede çalışmasını tamamlayamayan öğrenciye FF notu verilir."
+                },
+                {
+                  "harf": "d",
+                  "metin": "M: Üniversite tarafından muaf tutulan dersler için kullanılan notu ifade eder. Bu dersler ağırlıklı genel not ortalamasına katılmaz."
+                }
+              ]
+            },
+            {
+              "no": 4,
+              "metin": "Başarı notlarının ifade ettikleri başarı dereceleri ve katsayıları aşağıdaki tabloda gösterilmiştir: Harf Notu Başarı Notu Mükemmel AA 4,00 Çok iyi üzeri BA+ 3,75 Çok iyi BA 3,50 İyi üzeri BB+ 3,25 İyi BB 3,00 Orta üzeri CB+ 2,75 Orta CB 2,50 Yeterli üzeri CC+ 2,25 Yeterli CC 2,00 Koşullu-geçer DC+ 1,75 Koşullu-geçer DC 1,50 Koşullu-geçer DD+ 1,25 Koşullu-geçer DD 1,00 Başarısız FF 0,00 Vizesiz başarısız VF 0,00",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Jürili yapılan sınavlarda bağıl değerlendirme yapılmaz. Final notu, öğrencinin yıl içi çalışmaları ve jürinin ortak notu üzerinden Konservatuar Kurulunun belirlediği oranlar dahilinde her dönemin başında ilan edilerek belirlenir. CC notunun altındaki değerlendirmeler başarısız olarak, FF notu kabul edilir. Jürili yapılan sınavlar öğretim elemanlarına açıktır, ancak öğrenciye yalnız jüri üyeleri soru sorabilir. Sınav şekli",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yarıyıl sonu sınavları genelde yazılı olarak yapılır. Ancak bölümlerden gelecek istek üzerine Konservatuar Kurulu sınavların sözlü veya sözlü-yazılı, uygulamalı, jürili yapılmasına karar verebilir. Yarıyıl sonu sınavları jürili yapılan dersler hariç, bu yöndeki bir kararın yarıyıl başında verilen başarı değerlendirme formunda ilan edilmesi gerekir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yarıyıl sonu sınavlarını, jürili yapılan dersler hariç, o dersi vermekle sorumlu öğretim elemanı düzenler ve yönetir. Sorumlu öğretim elemanının sınav günü Konservatuarda bulunmaması halinde, sınavı kimin yapacağı bölüm başkanı tarafından belirlenir. Sınavların düzenli bir biçimde yürütülmesi için Konservatuarın bütün öğretim üyeleri, öğretim görevlileri ve öğretim yardımcıları görevlendirilebilir. Jürili yapılan sınavların jüri ve yedek jüri üyeleri, Konservatuardaki öğretim elemanlarından veya diğer üniversitelerdeki öğretim elemanlarından, Konservatuar Yönetim Kurulunca oluşturularak ilan edilir. Sınav sonuçlarına itiraz",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrenci, jürili yapılan sınavlar hariç, bir dersteki başarı durumu sonucuna, dersin başarı durumu listesinin ilan edilmesinden itibaren bir hafta içerisinde, Müdürlüğe yazılı olarak itiraz edebilir. Müdürlük, ilgili öğretim üyesine veya jüri üyelerine, öğrencinin başarı notuna katkısı bulunan bütün çalışmaları tekrar inceletir. Öğrencinin itirazı ve öğretim üyesinin/jüri üyelerinin yeniden değerlendirmesi iki hafta içinde Konservatuar Yönetim Kurulunda karara bağlanır.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Öğrenci İşleri ve Diploma",
+      "maddeler": [
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "Öğrenci işleri",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrencilerin her yarıyıl Konservatuara ve bölümlere kayıt olmaları, yatay ve dikey geçişleri, öğretim ve sınavlara ait işlemleri, Konservatuar veya bölümle ilişiklerinin kesilmeleri hakkında Konservatuar Yönetim Kurulu karar verir. Öğrenciler, bu kararlara karşı onbeş gün içinde Üniversite Yönetim Kuruluna itiraz edebilir. Diploma",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerine göre Konservatuar öğrenimlerini başarı ile tamamlayanlara, bölüm adı açıklanarak, gerekiyorsa öğrenim görülen program da belirtilmek suretiyle, Konservatuarın Müzik Teknolojileri, Kompozisyon, Müzikoloji, Ses Eğitimi, Müzik Teorisi, Türk Halk Oyunları, Çalgı bölümleri lisans diploması verilir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 5,
+      "baslik": "BEŞİNCİ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "Hüküm bulunmayan haller",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde, İstanbul Teknik Üniversitesi Lisans Eğitim ve Öğretim Yönetmeliği ve ilgili diğer mevzuat hükümleri ile Konservatuar Yönetim Kurulu, Üniversite Yönetim Kurulu ve Senato kararları uygulanır. Yürürlükten kaldırılan yönetmelik",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "6/12/2009 tarihli ve 27424 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuarı Lisans Eğitim ve Öğretim Yönetmeliği yürürlükten kaldırılmıştır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür. Yönetmeliğin Yayımlandığı Resmî Gazete’nin Tarihi Sayısı 19/2/2012 28209 Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin Tarihi Sayısı 1. 8/5/2020 31121 2. 18/12/2023 32403",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "14",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

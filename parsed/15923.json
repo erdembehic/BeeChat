@@ -1,0 +1,387 @@
+{
+  "meta": {
+    "mevzuatNo": "15923",
+    "rgTarihi": "29.02.2012",
+    "rgSayisi": "28219",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15923&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ MARDİN UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Mardin Uygulama ve Araştırma Merkezinin amacı, faaliyet alanları, yönetim organları ve bu organların görevleriyle ilgili usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesine bağlı olarak kurulan İstanbul Teknik Üniversitesi Mardin Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına ve bu organların görevlerine ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez: İstanbul Teknik Üniversitesi Mardin Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez Müdürü: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkez Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amacı ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amacı; Mardin’in kültürel ve sanatsal varlıklarının korunması ve yaşatılması, sosyal, ekonomik, teknik sorunlarının çözülmesi için gereken disiplinlerarası çalışmaların planlanma, programlanma, tasarım ve uygulamasına katkı sağlanması, Mardin üzerine çeşitli zamanlarda yapılan araştırmaların derlenmesi, arşivlenmesi ve bir kentsel bellek oluşturulmasına katkıda bulunmak ve Mardin ilinde bulunan konuyla ilgili kurum ve kuruluşlar ile işbirliği yapmaktır. Merkezin faaliyet alanları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Ulusal ve uluslararası bilimsel, kültürel ve sanatsal etkinlikleri planlamak, düzenlemek ve yürütmek,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Bilimsel, kültürel ve sanatsal çalışmalar için akademik çalışma ortamı oluşturmak ve bu ortamı yaşatmak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Ulusal ve uluslararası akademik ve bilimsel kurumlarla işbirliği olanaklarını araştırmak ve işbirliğini geliştirmek,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Benzer ulusal ve uluslararası kuruluşlarla iletişimde bulunarak konferans, bilimsel geziler, kamplar ve benzeri organizasyonlar düzenlemek,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezi ilgilendiren konularda ulusal ve uluslararası sivil toplum örgütleriyle işbirliği yapmak,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Mardin’in kültürel ve sanatsal varlıklarının korunması ve yaşatılması için gereken disiplinlerarası çalışmaları planlamak ve programlamak,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Mardin üzerine çeşitli zamanlarda yapılan araştırmaları derlemek, arşivlemek ve bir kentsel bellek oluşturulmasına katkıda bulunmak,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Mardin’de ya da Mardin dışında yaşayan Mardinli sanatçı ve bilim insanlarını bir araya getirmek ve bu birliktelikten bir sinerji oluşturup yeni etkinliklerin ve üretimlerin gerçekleştirilmesini sağlamak,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Mardin’in sorunlarının çözümünde ve sürdürülebilir bir kalkınmanın gerçekleştirilmesinde yöneticilere ve halka rehberlik ve danışmanlık yapmak,"
+                },
+                {
+                  "harf": "h",
+                  "metin": "Mardin halkı için çeşitli alanlarda sürekli eğitim katkısı sağlamak,"
+                },
+                {
+                  "harf": "ı",
+                  "metin": "Gerçekleştirilecek etkinliklerle Mardin’in ulusal ve uluslararası alanda tanınırlığını artırmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Merkez müdürü",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez Müdürü,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Yönetim Kurulu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Müdürü; Rektör tarafından Üniversitede tam gün çalışan öğretim üyeleri arasından, üç yıl için görevlendirilir. Süresi biten Merkez Müdürü aynı yöntemle yeniden görevlendirilebilir. Görevden alınmasında aynı yöntem uygulanır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Müdürü Üniversite öğretim üyeleri arasından bir öğretim üyesini müdür yardımcısı olarak seçebilir. Merkez Müdür Yardımcısı, Merkez Müdürünün vereceği görevleri yerine getirir. Merkez Müdürünün bulunmadığı durumlarda Merkez Müdürüne vekalet eder. Merkez Müdür Yardımcısının görev süresi üç yıldır veya Merkez Müdürünün göreviyle birlikte sona erer. Merkez müdürünün görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Müdürünün görevleri şunlardır: Merkez yönetim kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil etmek, Merkezin ve Merkeze bağlı birimlerin ve personelin düzenli çalışmasını sağlamak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Yönetim Kurulu kararlarını uygulamak ve bu Kurulun tutanaklarını Merkez Yönetim Kurulu üyelerinin incelemesine açık tutmak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezin içerik ve işlev olarak gelişmesi ile ilgili ilkeleri ve stratejileri oluşturmak,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Her akademik yıl sonunda Merkezin çalışmalarını kapsayan bir faaliyet raporunu ve bir sonraki yıla ait çalışma programını hazırlayıp Merkez Yönetim Kuruluna sunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Yönetim Kurulu; Merkez Müdürü, Merkez Müdür Yardımcısı ve Üniversitede görevli tam zamanlı öğretim üyeleri arasından Üniversite Yönetim Kurulu tarafından belirlenen ve Rektör tarafından görevlendirilen beş üyeden oluşur. Merkez Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üye tekrar görevlendirilebilir. Süresi dolmadan ayrılan veya altı aydan fazla yurt dışında görevlendirilen üyelerin yerine, kalan süreyi doldurmak üzere aynı yöntemlerle Rektör tarafından yenileri görevlendirilir. Merkez Yönetim Kurulu, üyelerin salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır. Merkez yönetim kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Yönetim Kurulu, Merkez Müdürünün başkanlığında ayda en az bir defa toplanarak Merkezin etkinlikleri ve yönetimiyle ilgili konuları görüşüp karara bağlar. Merkez Yönetim Kurulu; Merkez Müdürünün her faaliyet dönemi sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit eder, Merkezin teknik ve idari kadrolarının tespiti ve tayini ile ilgili konularda Merkez Müdürünün hazırlamış olduğu önerileri inceler ve görevlendirme yetkilisine öneride bulunur. Merkez danışma kurulu ve görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Danışma Kurulu; Merkez Müdürü başkanlığında, Üniversite içinden ve istekleri halinde dışından Mardin ilinde bulunan konuyla ilgili kamu kurumları ve sivil toplum kuruluşlarının temsilcileri arasından Merkez Yönetim Kurulu tarafından önerilen ve Rektör tarafından uygun görülen onbeş üyeden oluşur. Merkez Danışma Kurulu; yılda en az bir kez Merkez Müdürünün daveti ile toplanarak, Merkezin çalışmalarına giren konularda görüşlerini açıklayıp, tartışılmasını sağlar ve yeni çalışma konuları üzerinde görüş bildirir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "Personel ihtiyacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde, ilgili diğer mevzuat hükümleri uygulanır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

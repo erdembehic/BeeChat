@@ -1,0 +1,424 @@
+{
+  "meta": {
+    "mevzuatNo": "14347",
+    "rgTarihi": "06.10.2010",
+    "rgSayisi": "27721",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=14347&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ DEPREM MÜHENDİSLİĞİ VE AFET YÖNETİMİ ENSTİTÜSÜ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesine bağlı olarak kurulan, İstanbul Teknik Üniversitesi Deprem Mühendisliği ve Afet Yönetimi Enstitüsünün amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesi Deprem Mühendisliği ve Afet Yönetimi Enstitüsünün amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 19 uncu maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "19",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Enstitü: İstanbul Teknik Üniversitesi Deprem Mühendisliği ve Afet Yönetimi Enstitüsünü,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Enstitü Kurulu: Enstitünün Kurulunu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Enstitü Müdürü: Enstitünün Müdürünü,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Enstitü Yönetim Kurulu: Enstitünün Yönetim Kurulunu,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Enstitünün Amacı ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Enstitünün amacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitünün amacı; Türkiye’nin ihtiyaçlarını gözönüne alarak, deprem mühendisliği ve afet yönetimi gibi çok disiplinli alanlarda bilimsel ve uygulamalı araştırma, yüksek lisans ve doktora seviyesinde eğitim ve öğretim yapmaktır. Enstitünün faaliyet alanları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitünün faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Ulusal ve uluslararası düzeylerde bilimsel araştırma projeleri hazırlamak, bu projeleri gerçekleştirmek üzere çalışma grupları oluşturmak, uluslararası bilimsel kuruluşlar ve araştırma merkezleri, ulusal ve uluslararası üniversiteler ile eğitim, öğretim, araştırma, geliştirme, uygulama ve danışmanlık gibi konularda işbirliği yapmak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Deprem mühendisliği ve afet yönetimi konularında öğretim üyesi yetiştirmek ve Türkiye’ye beyin göçünü sağlamak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Araştırma ve geliştirme etkinliklerini düzenlemek için gerekli laboratuvarları kurmak ve işletmek,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Üniversite bünyesinde deprem mühendisliği ve afet yönetimi ile ilgili konularda kurulmuş olan merkezler ile Enstitü bünyesinde kurulacak laboratuvarlar arasında koordinasyonu sağlamak,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Üniversite ile ulusal ve uluslararası özel ve kamu kuruluşları arasında deprem risklerinin azaltılmaları konularında danışma, eğitim, araştırma, geliştirme ve yapılandırma ilişkileri kurmak, bu kuruluşlar ile işbirliği yapmak ve depremler öncesi, sırası ve sonrasında ortaya çıkabilecek sorunlara çözüm getirici girişimlerde bulunmak,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Kamu kurum ve kuruluşları ile özel kuruluşlara danışmanlık yapmak ve bu kurumlarla uygulamalı çalışmalar yapmak,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Deprem mühendisliği ve afet yönetimi ile ilgili araştırma ve geliştirme çalışmalarının yapılmasını sağlamak ve bu doğrultuda yazılı ve dijital ortamda süreli ve süresiz yayınlar çıkarmak,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Enstitünün amaçlarını gerçekleştirmek için ulusal ve uluslararası kurs, seminer, konferans, sempozyum, panel, kongre gibi bilimsel toplantılar düzenlemek,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Eğitim grupları oluşturarak deprem mühendisliği ve afet yönetimi ile ilgili konularda ücretli ulusal veya uluslararası eğitim programları düzenlemek ve uygulamaya koymak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Enstitünün Yönetim Organları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Enstitünün yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitünün yönetim organları şunlardır: Enstitü müdürü ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Enstitü Müdürü,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Enstitü Kurulu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Enstitü Yönetim Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitü Müdürü; Üniversitenin öğretim üyeleri arasından üç yıl için Rektör tarafından atanır. Süresi biten Enstitü Müdürü tekrar atanabilir. Enstitü Müdürü kendisine çalışmalarında yardımcı olmak üzere Enstitüde görevli öğretim üyeleri arasından üç yıl için en çok iki yardımcı atayabilir. Enstitü Müdürü görevi başında olmadığı zaman yardımcılarından biri vekalet eder. Görevi başında altı aydan fazla bulunamayacağı durumlarda yeni bir Enstitü Müdürü atanır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Enstitü Müdürü; Enstitünün ve bağlı birimlerinin öğretim kapasitesinin rasyonel bir şekilde kullanılmasında ve geliştirilmesinde, gerektiği zaman güvenlik önlemlerinin alınmasında, öğrencilere gerekli sosyal hizmetlerin sağlanmasında, eğitim-öğretim, bilimsel araştırma ve yayın faaliyetlerinin düzenli bir şekilde yürütülmesinde, bütün faaliyetlerin gözetim ve denetiminin yapılmasında, takip ve kontrol edilmesinde ve sonuçlarının alınmasında Rektöre karşı birinci derecede sorumludur.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Enstitü Müdürünün görevleri şunlardır: Enstitü kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Enstitü Kuruluna ve Enstitü Yönetim Kuruluna başkanlık etmek, bu kurullar tarafından alınan kararları uygulamak ve Enstitü birimleri arasında düzenli çalışmayı sağlamak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Her öğretim yılı sonunda ve istendiğinde, Enstitünün genel durumu ve işleyişi hakkında Rektöre rapor vermek,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Enstitünün ödenek ve kadro ihtiyaçlarını gerekçesi ile birlikte Enstitü Yönetim Kurulunun da görüşünü aldıktan sonra Rektörlüğe sunmak,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Enstitü birimleri ve her düzeydeki personeli üzerinde genel gözetim ve denetim görevini yapmak,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "2547 sayılı Kanunla kendisine verilen diğer görevleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitü Kurulu; Enstitü Müdürünün başkanlığında, müdür yardımcıları ve Deprem Mühendisliği Anabilim Dalı Başkanı ile Afet ve Acil Durum Yönetimi Anabilim Dalı Başkanından oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Enstitü Kurulu normal olarak her yarıyıl başında ve sonunda toplanır. Enstitü Müdürü gerekli gördüğü hallerde de Enstitü Kurulunu olağanüstü toplantıya çağırabilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Enstitü Kurulu akademik bir organ olup aşağıdaki görevleri yapar: Enstitü yönetim kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Enstitünün eğitim-öğretim, bilimsel araştırma ve yayın faaliyetleri ve bu faaliyetlerle ilgili esasları, plan-program ve eğitim-öğretim takvimini kararlaştırmak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Enstitü Yönetim Kuruluna üye seçmek,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "2547 sayılı Kanunla Enstitü Kuruluna verilen diğer görevleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitü Yönetim Kurulu; Enstitü Müdürünün başkanlığında, müdür yardımcıları, Enstitü Müdürünce gösterilecek altı aday arasından Enstitü Kurulu tarafından üç yıl için seçilecek üç öğretim üyesinden oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Enstitü Yönetim Kurulu, Enstitü Müdürünün çağrısı üzerine toplanır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Enstitü Yönetim Kurulu, idari faaliyetlerde Enstitü Müdürüne yardımcı bir organ olup, aşağıdaki görevleri yapar:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Enstitü Kurulunun kararları ile tespit ettiği esasların uygulanmasında Enstitü Müdürüne yardım etmek,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Enstitünün eğitim-öğretim, plan ve programları ile akademik takviminin uygulanmasını sağlamak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Enstitünün yatırım, program ve bütçe tasarısını hazırlamak,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Enstitü Müdürünün Enstitü yönetimiyle ilgili getireceği bütün işlerde karar almak,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Enstitüye öğrencilerin kabulü, ders intibakları ve çıkarılmaları ile eğitim-öğretim ve sınavlara ait işlemler hakkında karar vermek,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Gerekli hallerde geçici çalışma grupları kurmak, eğitim-öğretim ve araştırmada koordinasyonu sağlayacak kişileri belirlemek ve bunların görevlerini düzenlemek,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "2547 sayılı Kanunla kendisine verilen diğer görevleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "Harcama yetkilisi",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "(Mülga:RG-17/10/2010-27732) Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde, ilgili diğer mevzuat hükümleri ile Senato, Enstitü Kurulu ve Enstitü Yönetim Kurulu kararları uygulanır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür. Yönetmeliğin Yayımlandığı Resmî Gazete’nin Tarihi Sayısı 6/10/2010 27721 Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazete’nin Tarihi Sayısı 1. 17/10/2010 27732 2.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "19",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

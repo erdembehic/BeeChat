@@ -1,0 +1,474 @@
+{
+  "meta": {
+    "mevzuatNo": "34036",
+    "rgTarihi": "16.12.2019",
+    "rgSayisi": "30980",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34036&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "ENSTİTÜSÜ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Havacılık Enstitüsünün amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesi Havacılık Enstitüsünün amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 19 uncu maddelerine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "19",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Enstitü: İstanbul Teknik Üniversitesi Havacılık Enstitüsünü,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Enstitü Kurulu: Enstitünün Kurulunu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Müdür: Enstitünün Müdürünü,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Müdür yardımcıları: Enstitünün müdür yardımcılarını,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Yönetim Kurulu: Enstitünün Yönetim Kurulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Enstitünün Amacı ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Enstitünün amacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitünün amacı; Türkiye’nin milli menfaatleri ve ihtiyaçları doğrultusunda havacılık, uzay, savunma ve hava taşımacılığı gibi çok disiplinli alanlarda bilimsel ve uygulamalı araştırma yapmak, havacılık, uzay, savunma ve hava taşımacılığı teknolojilerinin geliştirilmesi ve kullanımının yaygınlaştırılması için çalışmalarda bulunmak, havacılık, uzay, savunma ve hava taşımacılığı teknolojileri alanında bilimsel ve teknolojik altyapıların ve insan kaynaklarının geliştirilmesine yönelik lisansüstü seviyesinde eğitim ve öğretim yapmaktır. Enstitünün faaliyet alanları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitünün faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Havacılık, uzay, savunma ve hava taşımacılığı bilim ve teknolojilerinde dışa bağımlılığı azaltmak, uluslararası alanda rekabet gücünü artırmak, bilimsel ve teknolojik altyapı ve insan kaynaklarını geliştirmek amaçlarıyla ulusal ve uluslararası düzeylerde bilimsel araştırma projeleri hazırlamak, bu projeleri gerçekleştirmek üzere çalışma grupları oluşturmak, uluslararası bilimsel kuruluşlar, araştırma merkezleri, ulusal ve uluslararası üniversiteler ve sanayi ile eğitim, öğretim, araştırma, geliştirme, uygulama ve danışmanlık gibi konularda iş birliği yapmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Havacılık, uzay, savunma ve hava taşımacılığı konularında uzman ve öğretim üyesi yetiştirmek ve bu alanda temayüz etmiş uzman ve araştırmacıların Türkiye'ye beyin göçünü sağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Havacılık, uzay, savunma ve hava taşımacılığı teknolojileri alanlarında sektörde uzman, çalışmalarıyla temayüz etmiş doktoralı insan kaynağının Enstitü ile ilgili çalışmalar yapmalarını ve mevcut eğitim programlarında ders açmalarını teşvik etmek ve sağlamak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Milli menfaatler ve Türkiye’nin ihtiyaçları doğrultusunda havacılık, uzay, savunma ve hava taşımacılığı teknolojileri alanlarında araştırma ve geliştirme etkinliklerini düzenlemek için gerekli laboratuvarlar, uygulama ve araştırma merkezleri kurmak ve işletmek."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Üniversite bünyesinde ilgili alanlarda kurulu olan merkezler ve laboratuvarlar ile Enstitü bünyesinde bulunan merkezler ve laboratuvarlar arasında koordinasyonu sağlamak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Milli menfaatler ve Türkiye’nin ihtiyaçları doğrultusunda Üniversite ile ulusal ve uluslararası özel ve kamu kuruluşları arasında havacılık, uzay, savunma ve hava taşımacılığı gibi alanlarda danışma, eğitim, araştırma, geliştirme ve alt yapı kurma ilişkileri oluşturmak, bu kuruluşlar ile iş birliği yapmak ve mevcut sorunlara çözüm getirici girişimlerde bulunmak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Ulusal ve uluslararası özel ve kamu kuruluşlarına danışmanlık yapmak ve bu kurumlarla uygulamalı çalışmalar gerçekleştirmek."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Havacılık, uzay, savunma ve hava taşımacılığı ile ilgili alanlarda faaliyet gösteren ulusal ve uluslararası bilimsel çalışma gruplarına üye olmak, bu çalışma grupları içerisinde faaliyet göstermek."
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Havacılık, uzay, savunma ve hava taşımacılığı ile ilgili araştırma ve geliştirme çalışmalarının yapılmasını teşvik etmek ve bu doğrultuda yazılı ve dijital ortamda süreli ve süresiz yayınlar çıkarmak."
+                },
+                {
+                  "harf": "h",
+                  "metin": "Enstitünün amaçlarını gerçekleştirmek için faaliyet alanlarında ulusal ve uluslararası kurs, seminer, konferans, sempozyum, panel, kongre gibi bilimsel toplantılar düzenlemek."
+                },
+                {
+                  "harf": "ı",
+                  "metin": "Dışa bağımlı olmayan rekabetçi bir havacılık, uzay, savunma ve hava taşımacılığı sanayinin geliştirilmesi ve/veya milli menfaatler doğrultusunda havacılık, uzay, savunma ve hava taşımacılığı konularında ücretli ya da ücretsiz ulusal veya uluslararası eğitim programları düzenlemek ve uygulamaya koymak, yüksek lisans ve doktora programları açmak."
+                },
+                {
+                  "harf": "i",
+                  "metin": "Enstitü içerisinde oluşan havacılık, uzay, savunma teknolojileri ve hava taşımacılığı alanındaki uzmanlık ve bilgi birikiminden milli sanayinin diğer sektörlerinin de yararlanabilmesi için gerekli çalışmaları yapmak ve yaptırmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Enstitünün Yönetim Organları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Enstitünün yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitünün yönetim organları şunlardır: Müdür ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Müdür."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Enstitü Kurulu."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Yönetim Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdür; Üniversitenin öğretim üyeleri arasından Rektör tarafından üç yıl için atanır. Süresi biten Müdür aynı usulle yeniden atanabilir. Müdür, kendisine çalışmalarında yardımcı olmak üzere Enstitüde görevli aylıklı öğretim elemanları arasından üç yıl için en çok iki kişiyi müdür yardımcısı olarak atar. Gerekli hallerde aynı usulle müdür yardımcılarının görevine son verilebilir. Müdür, görevinin başında olmadığı zaman müdür yardımcılarından birini vekil bırakır. Vekâlet süresi altı aydan fazla sürerse yeni bir Müdür atanır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Müdür; Enstitünün ve bağlı birimlerinin öğretim kapasitesinin rasyonel bir şekilde kullanılmasından ve geliştirilmesinden, öğrencilere gerekli sosyal hizmetlerin sağlanmasından, eğitim-öğretim, bilimsel araştırma ve yayın faaliyetlerinin düzenli bir şekilde yürütülmesinden, bütün faaliyetlerin gözetim ve denetiminin yapılmasından, takip ve kontrol edilmesinden ve sonuçlarının alınmasından Rektöre karşı birinci derecede sorumludur.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Müdürün görevleri şunlardır: Enstitü Kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Enstitü Kuruluna ve Yönetim Kuruluna başkanlık etmek, söz konusu kurullar tarafından alınan kararları uygulamak ve Enstitü birimleri arasında düzenli çalışmayı sağlamak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Her öğretim yılı sonunda Enstitünün genel durumu ve işleyişi hakkında Rektöre rapor vermek."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Enstitünün ödenek, altyapı ve kadro ihtiyaçlarını gerekçesi ile birlikte Yönetim Kurulunun da görüşünü aldıktan sonra Rektöre sunmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Enstitü birimleri ve her düzeydeki personeli üzerinde genel gözetim ve denetim görevini yapmak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "İlgili mevzuat hükümleriyle kendisine verilen diğer görevleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitü Kurulu; Müdürün başkanlığında, müdür yardımcıları ve Enstitüyü oluşturan anabilim dalı başkanlarından oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Enstitü Kurulu düzenli olarak her yarıyıl başında ve sonunda toplanır. Müdür gerekli gördüğü hallerde Enstitü Kurulunu olağanüstü toplantıya çağırabilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Enstitü Kurulunun görevleri şunlardır: Yönetim Kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Enstitünün eğitim-öğretim, bilimsel araştırma ve yayın faaliyetleri ve bu faaliyetlerle ilgili esasları, plan-program ve eğitim-öğretim takvimini kararlaştırmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kuruluna üye seçmek."
+                },
+                {
+                  "harf": "c",
+                  "metin": "İlgili mevzuat hükümleriyle verilen diğer görevleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulu; Müdürün başkanlığında, müdür yardımcıları ile Müdür tarafından gösterilecek altı aday arasından Enstitü Kurulu tarafından üç yıl için seçilecek üç öğretim üyesinden oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi sona erenler tekrar seçilebilir. Müdür gerekli gördüğü hallerde Yönetim Kurulu üyelerinin üyeliklerini, gerekçelerini Enstitü Kuruluna sunmak suretiyle sonlandırabilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yönetim Kurulu, Müdürün çağrısı üzerine toplanır.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Yönetim Kurulunun görevleri şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Enstitü temel politika ve stratejisinin hazırlanmasını sağlamak ve Rektör onayına sunmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Enstitünün eğitim-öğretim, plan ve programları ile akademik takviminin uygulanmasını sağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Enstitü Kurulunun kararları ile tespit ettiği esasların uygulanmasında Müdüre yardım etmek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Enstitünün yatırım, insan kaynağı ihtiyacı, altyapı ihtiyaçları ve program ve bütçe tasarısını hazırlamak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Enstitüye öğrencilerin kabulü, ders intibakları ve çıkarılmaları ile eğitim-öğretim ve sınavlara ait işlemler hakkında karar vermek."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Enstitünün insan kaynakları politikasını belirlemek, uygulamasını izlemek, personelin nitelikleri, işe alınmaları, görevlendirmeleri, performans değerlendirme kriterleri, disiplin işlemlerine karar vermek."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Enstitünün faaliyetlerini yönlendirmek, denetlemek ve koordinasyonu sağlamak."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Enstitünün faaliyet sonuçlarını, belirlenen politika, strateji ve hedefler doğrultusunda izlemek, değerlendirmek ve beklenen performansın sağlanmadığı alanlar için gerekli tedbirleri almak."
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Enstitünün faaliyet alanı ile ilgili ulusal ve uluslararası kurum ve kuruluşlara üye olması veya üyelikten ayrılması için karar vermek."
+                },
+                {
+                  "harf": "h",
+                  "metin": "Gerekli hallerde geçici çalışma grupları kurmak, eğitim-öğretim ve araştırmalarda koordinasyonu sağlayacak kişileri belirlemek ve bunların görevlerini düzenlemek."
+                },
+                {
+                  "harf": "ı",
+                  "metin": "İlgili mevzuat hükümleriyle kendisine verilen diğer görevleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "Diğer birimlerin kurulması",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitü, görevleriyle ilgili alanlarda; araştırma merkezleri, laboratuvarlar, gözlem, yönetim ve kontrol merkezleri, bilim park ve merkezleri, mükemmeliyet merkezi, hava ve uzay aracı fırlatma, işletme merkezleri, teknoloji transfer ofisleri ve benzeri birimlerin kurulması için Rektöre öneride bulunur. Harcama yetkilisi",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitünün harcama yetkilisi Rektördür. Rektör bu yetkisini kısmen veya tamamen Müdüre devredebilir. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde, ilgili diğer mevzuat hükümleri ile Senato, Enstitü Kurulu ve Yönetim Kurulu kararları uygulanır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "19",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

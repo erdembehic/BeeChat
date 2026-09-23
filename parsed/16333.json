@@ -1,0 +1,528 @@
+{
+  "meta": {
+    "mevzuatNo": "16333",
+    "rgTarihi": "05.07.2012",
+    "rgSayisi": "28344",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16333&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ ELEKTRONİK TASARIM VE METROLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Rektörlüğüne bağlı olarak kurulan İstanbul Teknik Üniversitesi Elektronik Tasarım ve Metroloji Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesi Elektronik Tasarım ve Metroloji Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına ve bu organların görevlerine ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez: İstanbul Teknik Üniversitesi Elektronik Tasarım ve Metroloji Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Müdür: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Fakülte Yönetim Kurulu: İstanbul Teknik Üniversitesi Elektrik Elektronik Fakültesi Yönetim Kurulunu,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite (İTÜ): İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Yönetim Kurulu: Merkezin Yönetim Kurulunu"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amacı ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amacı; kamu ve özel sektörün maddi desteğini Üniversitenin yetkin insan kaynağı ile birleştirerek, Türkiye’nin yüksek başarımlı tümleşik devre ve elektronik sistem alanında gelişmesine ortam sağlamak ve öncülük etmektir. Faaliyet alanları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez, bu Yönetmeliğin 5 inci maddesinde belirtilen amaçları gerçekleştirmek için aşağıdaki faaliyetlerde bulunur:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Yurt içi ve yurt dışındaki ilgili kamu kurum ve kuruluşlarıyla, İTÜ Bilimsel Araştırma Projeleri Birimine ve benzeri kurumlara araştırma projeleri oluşturmak ve konuyla ilgili kaynak elde edilmesini sağlayan çalışmalar yapmak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yurt içinde ve yurt dışındaki özel sektör ile ortak çalışmalar yapmak, danışmanlık, tasarım ve ölçüm hizmeti vermek, konuyla ilgili kaynaklar elde edilmesini sağlayan çalışmalar yapmak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Elektronik devre mimarilerinde, en önemli başarım parametrelerinin neler olduğunu saptamak, state-of-the-art diye tabir edilen yüksek başarımın dünyada hangi seviyede olduğunu takip etmek ve bu bağlamda Merkezin hedeflerini belirlemek,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Analog ve sayısal devreleri beraber içeren, hızı ve hassasiyeti dünya çapında olan tümleşik devrelerin mimarilerini araştırmak ve daha yüksek başarımlı mimariler geliştirmek,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Analog ve sayısal devreleri beraber içeren, hızı ve hassasiyeti dünya çapında olan tümleşik devrelerin ölçüm tekniklerini araştırmak ve daha yüksek başarımlı ölçüm teknikleri ve aletleri geliştirmek,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Baskı devre üzerinde kurulan, hızı ve hassasiyeti dünya çapında olan elektronik sistemlerin mimarilerini araştırmak ve daha yüksek başarımlı sistemler geliştirmek,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Baskı devre üzerinde kurulan, hızı ve hassasiyeti dünya çapında olan elektronik sistemlerin ölçüm tekniklerini araştırmak ve daha yüksek başarımlı ölçüm teknikleri ve aletleri geliştirmek,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Hızı ve hassasiyeti dünya çapında olan tümleşik ve ayrık devrelerin tasarım ve ölçümü ile ilgili patent başvuruları yapmak ve bilimsel yayınlar yapmak,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Geliştirilen yüksek başarımlı tümleşik devre ve sistemleri silikon ve baskılı devre kartı (PCB) üzerinde gerçeklemek, laboratuvar ortamında başarım parametrelerini ölçmek, kalite kontrolünü yapmak, yüksek başarımlı ve üstün kaliteli prototip geliştirmek,"
+                },
+                {
+                  "harf": "h",
+                  "metin": "Prototipleri kaliteli endüstriyel ürün haline getirebilmek için yol haritası çizmek,"
+                },
+                {
+                  "harf": "ı",
+                  "metin": "Yurt dışında ve yurt içinde, uzman kişiler, şirketler, üniversiteler, uygulama ve araştırma merkezleri ile ortak çalışma imkanları yaratmak,"
+                },
+                {
+                  "harf": "i",
+                  "metin": "Elektronik, haberleşme, mikrodalga, biyomedikal, audio, video, akustik, kalite kontrol, ölçüm, yazılım ve benzeri pek çok disiplinin yüksek başarımlı sistem çerçevesi içerisinde beraber çalışmasına ortam sağlamak,"
+                },
+                {
+                  "harf": "j",
+                  "metin": "Laboratuvar destek, staj projesi, bitirme projesi, yüksek lisans tezi, doktora tezi ve doktora üstü çalışmalar kapsamında yetkin elemanlar yetiştirmek, bu elemanlara maddi destek sağlamak,"
+                },
+                {
+                  "harf": "k",
+                  "metin": "Türkiye’de çok yüksek başarımlı devre tasarımlarını ürünleştirecek ve pazarlayacak şirketler oluşmasına destek olmak,"
+                },
+                {
+                  "harf": "l",
+                  "metin": "Elektronik tasarım ve metroloji alanında girişimciliğe destek vermek."
+                }
+              ]
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "ic_atif",
+              "ham": "bu Yönetmeliğin 5 inci madde",
+              "hedefMadde": "5",
+              "kaynakMadde": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları, Proje Grupları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Müdür ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Müdür,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdür; Yönetim Kurulunun önerisi üzerine, Üniversitede görev yapan öğretim üyeleri arasından Rektör tarafından üç yıl süre için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesi ve geliştirilmesinden Rektöre karşı sorumludur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Müdürün önerisi üzerine, Üniversitede alanında uzman öğretim elemanlarından bir kişi müdür yardımcısı olarak Rektör tarafından üç yıl süre ile görevlendirilir. Müdür Yardımcısı, Müdürün kendisine vereceği görevleri yapar. Müdür, görevi başında bulunmadığı zaman yardımcısını vekil bırakır. Göreve vekalet altı aydan fazla sürerse yeni bir Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcının da görevi sona erer.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Müdürün görevleri şunlardır: Yönetim kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil etmek,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin çalışmalarının Yönetim Kurulu tarafından hazırlanan planlar doğrultusunda düzenli ve etkin olarak yürütülmesini ve geliştirilmesini sağlamak, bu hususta her türlü tedbiri almak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezin ilgili yurt içi veya yurt dışı kişi, kurum ve kuruluşlarla işbirliği yapmasını ve/veya eşgüdümünü sağlamak,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Yönetim Kurulu tarafından karar verilen konularda gerekli protokol ve anlaşmaları yapmak,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Yönetim Kurulunu toplantıya çağırmak, bu toplantıların gündemini hazırlamak ve toplantılara başkanlık etmek, Yönetim Kurulu kararlarını uygulamak,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Danışma Kurulunu olağan ve olağanüstü toplantıya çağırmak, bu toplantıların gündemini hazırlamak ve toplantılara başkanlık etmek,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Yönetim Kurulu tarafından belirlenen Merkezin personel ihtiyacı ile ilgili kararları Rektöre sunmak,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Hazırlanan planları Danışma Kuruluna ve Rektörlüğe sunmak,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Merkezin yıllık faaliyet raporunu ve bir sonraki yıla ait yıllık çalışma programını onaylanmış şekli ile Rektörlüğe sunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulu; Müdür ile Üniversitede görev yapan öğretim üyeleri arasından Fakülte Yönetim Kurulunun önereceği iki ve Rektörlüğün önereceği iki üye olmak üzere toplam beş üyeden oluşur. Yönetim Kurulu üyeleri Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan veya altı aydan fazla Üniversite dışında görevlendirilen üyelerin yerine yenileri görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yönetim Kurulu en az iki ayda bir toplanır. Yönetim Kurulu tutanakları Danışma Kurulu üyelerinin incelemesine açık tutulur, ayrıca bu tutanakların birer nüshası Rektörlüğe ve ilgili akademik birimlere yönlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yönetim Kurulu, salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır. Oyların eşitliği halinde Müdürün oyu yönünde çoğunluk sağlanmış sayılır.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Yönetim kurulunun görevleri şunlardır: Danışma kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezin çalışma ve yönetimi ile ilgili konularda kararlar almak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin personel ihtiyacı konusunda karar almak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezin yıllık faaliyet raporunu ve yıllık çalışma programını görüşerek karara bağlamak,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkezin bünyesinde kurulacak olan bilimsel çalışma gruplarını ve komisyonları belirlemek,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Araştırma, yayın, öğretim ve diğer çalışma alanlarına ilişkin konularda karar almak,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Merkezin uzun vadeli bilimsel çalışma plan ve programını hazırlamak,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Merkezin büyüme planını hazırlamak,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Merkezin bütçe planını hazırlamak,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Merkezin çalışma alanına giren diğer konularda kararlar almak,"
+                },
+                {
+                  "harf": "h",
+                  "metin": "Merkezin hazırlanmış planlara uygun olarak yönetilmesini sağlamak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Danışma Kurulu; Merkezin faaliyet alanları doğrultusunda çalışmalar yürüten veya çalışma alanlarının Merkeze katkısı olacağı düşünülen Üniversite temsilcileri ile istekleri halinde yurtiçi veya yurtdışındaki diğer kurum ve kuruluşların temsilcileri ve kişiler arasından Rektör tarafından üç yıllığına görevlendirilen en fazla on üyeden oluşur. Süresi biten üyeler yeniden görevlendirilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Danışma Kurulu yılda iki kez olağan olarak toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü toplantıya çağırabilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Danışma Kurulunun görevleri şunlardır: Proje grupları ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezin faaliyetlerinin belirlenmiş ilkelere uygun olarak yürütülmesini sağlamak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulu tarafından hazırlanan planları değerlendirmek ve buna ilişkin olarak Yönetim Kuruluna önerilerde bulunmak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezin elektronik endüstrisi ile eşgüdümü sağlamak amacıyla endüstri temsilcileriyle periyodik toplantılar yapmak,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkeze çalışmalarında bilimsel ve idari açıdan bilgi, deneyim ve önerilerini aktarmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Araştırma, geliştirme ve eğitim çalışmalarını iş bölümü çerçevesinde yürütmek üzere Müdürün önerisi ve Yönetim Kurulunun kararıyla Merkezin çalışma alanlarında proje grupları kurulabilir. Proje gruplarının kuruluş ve çalışmaları Yönetim Kurulunca belirlenen esaslar çerçevesinde yürütülür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "Personel ihtiyacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin akademik, teknik ve idari personel ihtiyacı, Müdürün önerisi üzerine 2547 sayılı Kanunun 13 üncü maddesi uyarınca, Rektör tarafından görevlendirilecek personel tarafından karşılanır. Ekipman ve demirbaşlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez tarafından alınan her türlü alet, ekipman ve demirbaşlar Merkez hizmetlerinin kullanımına tahsis edilir. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde; ilgili diğer mevzuat hükümleri ile Üniversite Senatosunun kararları uygulanır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "bu Yönetmeliğin 5 inci madde",
+      "hedefMadde": "5",
+      "kaynakMadde": 6
+    }
+  ]
+}

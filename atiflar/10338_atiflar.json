@@ -1,0 +1,30 @@
+{
+  "kaynak": {
+    "mevzuatNo": "10338",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ AVRASYA YERBİLİMLERİ ENSTİTÜSÜ YÖNETMELİĞİ",
+    "rgTarihi": "01.02.1997"
+  },
+  "atiflar": [
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 5
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 9
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 10
+    }
+  ]
+}

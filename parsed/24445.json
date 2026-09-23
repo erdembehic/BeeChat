@@ -1,0 +1,662 @@
+{
+  "meta": {
+    "mevzuatNo": "24445",
+    "rgTarihi": "07.03.2018",
+    "rgSayisi": "30353",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24445&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "VE ÖĞRETİM YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesinin yurt dışında faaliyet gösteren yükseköğretim kurumlarıyla birlikte yürüttüğü çift diplomaya yönelik uluslararası ortak lisans programlarının uygulama usul ve esaslarını belirlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, yurt dışında faaliyet gösteren yükseköğretim kurumlarıyla birlikte yürütülen ortak diplomaya yönelik uluslararası ortak lisans programlarındaki eğitim ve öğretime ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 43 üncü maddesi hükümlerine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "43",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "İlgili yönetim kurulu: İstanbul Teknik Üniversitesi Fakülte/Konservatuar Yönetim Kurulunu,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Kredi: Yükseköğretim Kurulunca ilgili programın yer aldığı diploma düzeyi ve alan için yükseköğretim yeterlilikler çerçevesine göre belirlenen; öğrencinin kazanacağı bilgi, beceri ve yetkinliklere o dersin katkısını ifade eden öğrenim kazanımları ile açıkça belirlenmiş teorik veya uygulamalı ders saatleri ve öğrenciler için öngörülen diğer faaliyetler için gerekli çalışma saatlerini,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Ortak Yükseköğretim Kurumu: Ortak diplomaya yönelik uluslararası ortak lisans programının yürütüldüğü yurt dışında faaliyet gösteren yükseköğretim kurumunu,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Öğrenci: Türkiye’deki yükseköğretim kurumlarının yurt dışındaki yükseköğretim kurumlarıyla işbirliği çerçevesinde yürütülen programlara kayıt yaptıran kişiyi,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Protokol: Her iki üniversite arasında ortak programın yürütülmesine dair usül ve esasları belirleyen, her iki üniversitenin kendi akademik onay süreçlerinden geçmiş olan protokolü,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Senato: İstanbul Teknik Üniversitesi Senatosunu,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Uluslararası Ortak Lisans Programı (UOLP): Ortak diplomaya yönelik uluslararası ortak lisans programını,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Üniversite (İTÜ): İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "h",
+                  "metin": "Yabancı öğrenci: Yükseköğretim kurumlarında her derece ve dalda öğrenim gören Türkiye Cumhuriyeti vatandaşı olmayan öğrenciyi,"
+                },
+                {
+                  "harf": "ı",
+                  "metin": "YÖK: Yükseköğretim Kurulunu,"
+                },
+                {
+                  "harf": "i",
+                  "metin": "Yükseköğretim kurumları: Yurt içinde 2547 sayılı Kanuna tabi yükseköğretim kurumları ile bu Yönetmelik çerçevesinde ortak program yürütülecek yurt dışındaki yükseköğretim kurumlarını,"
+                }
+              ]
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Kanuna tabi yükseköğretim kurumları ile bu Yönetmelik",
+              "no": "2547",
+              "ad": "Kanuna tabi yükseköğretim kurumları ile bu Yönetmelik",
+              "kaynakMadde": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Öğrenci Kabulü, Kesin Kayıtlar ve Eğitim Öğretime İlişkin Esaslar",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Öğrenci kabulü ve kesin kayıtlar",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Türk vatandaşı öğrencilerin ortak lisans programlarına kabulü için; ÖSYM sınavlarına girmek, tercihleri arasında yer vererek ortak programa yerleşecek kadar ilgili puan türünde başarılı olmak ve usulüne göre yerleştirilmiş olmak şartları aranır. Ayrıca öğrencinin yurt dışı yükseköğretim kurumunun kabul şartlarını da sağlaması gerekir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yabancı öğrencilerin ortak programa kabulünde aranacak şartlar ortak program için imzalanan protokolde belirtilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Ortak lisans programlarında Türkiye’deki yükseköğretim kurumlarına yabancı öğrenci kabulünde uygulanan uluslararası sınav puanı, ortaöğretim mezuniyet derecesi ve benzeri kriterler ortak programlara yabancı öğrenci kabulünde de uygulanır. Bu kriterlerin asgarî düzeyleri hususunda YÖK’ün onayı alınır.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Kesin kayıt tarihi, istenilen belgeler ve uyulacak esaslar İTÜ Öğrenci İşleri Daire Başkanlığı tarafından ilan edilir. İTÜ’ye kayıt işlemlerini tamamlayan öğrenci, 8 inci maddede belirtilen yabancı dil koşulunu sağlamışsa İTÜ’de ders almaya, sağlamamış ise İTÜ Yabancı Diller Yüksekokulu hazırlık sınıfındaki derslere başlar.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Öğrenci ortak yükseköğretim kurumu tarafından istenen bütün belgeleri yine ortak üniversitenin belirlediği tarihe kadar hazırlamak ve göndermekle yükümlüdür. Öğrenci, kabul belgesi her iki kurum tarafından onaylandıktan sonra uluslararası programın öğrencisi olur. Eğitim öğretim ücreti ve ödeme usulü",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Ortak programlarda eğitim ücrete tabidir. Üniversitenin öğrenim ücreti iki eşit taksitte ödenir. İlk taksit eğitim öğretim yılı başında veya kayıt yenileme sırasında, ikinci taksit ise ikinci dönemin başında kayıt yenileme sırasında ödenir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Öğrencinin ortak yükseköğretim kurumuna ödeyeceği öğretim ücretleri ise ortak yükseköğretim kurumu tarafından belirlenir. Belirlenen ücretler öğrenci tarafından ortak yükseköğretim kurumuna yatırılır. Eğitim süreleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Ortak programların süre ve toplam kredisi 2547 sayılı Yükseköğretim Kanunu ve 11/7/2016 tarihli ve 29767 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Lisans Eğitim ve Öğretim Yönetmeliğinde belirlenen süre ve toplam krediden az olamaz.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Ortak program kapsamında yürütülecek lisans programlarının en az yarısı İTÜ’de tamamlatılır. Dersler ile uygulamaların hangi yükseköğretim kurumunda tamamlatılacağı protokolde belirtilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Ortak program kapsamında öğrencinin İTÜ ve ortak yükseköğretim kurumunda geçireceği asgarî ve toplam süreler protokolde belirtilir. Öğretim dili",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 7
+            }
+          ]
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Uluslararası programların öğretim dili ortak program için imzalanan protokolde belirtilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Öğrencilerin ortak programda öğrenimlerine başlayabilmeleri için ortak programın verildiği dil veya dilleri yeterli düzeyde bildiklerini belgelemeleri gerekir. Eğitimin verileceği dilin yeterli düzeyde bilindiğini belirleyecek sınavlar ve bu sınavlardan alınması gereken asgari puanlar protokolde belirtilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Ortak lisans programına kabul edilen öğrencilerden dil düzeylerinin yeterliliğini belgeleyenler kabul edildikleri programda lisans öğrenimlerine başlarlar.Yabancı dil bilgisi yetersiz olan öğrenciler, yabancı dil hazırlık porgramına kabul edilirler. Yabancı dil hazırlık eğitimi azami iki yıldır.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Azami sürenin sonunda yabancı dil şartını sağlayamayan ortak lisans programındaki öğrenciler talep etmeleri üzerine, yükseköğretim kurumuna kayıt yaptırdığı yıl itibarıyla taban puan koşulunu sağlamak kaydıyla öğretim dili Türkçe olan herhangi bir programa bir defaya mahsus olmak üzere ÖSYM tarafından yerleştirilebilir. Vize",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Ortak programlara kabul edilen öğrenciler yabancı ülkede eğitim görmek için o ülkenin vize uygulamaları çerçevesinde vize almakla yükümlüdür. Akademik başarısızlık",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Üniversiteden akademik başarısızlık nedeniyle ilişiği kesilen ortak program öğrencisinin, ortak programla ilişiği kesilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Ortak üniversitede öğrenim görürken akademik başarısızlık nedeniyle bu kurumdan ilişiği kesilen öğrenci, yurt içinde öğrenim gördüğü yükseköğrenimdeki başarı notu esas alınarak 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre başka bir yükseköğretim kurumundaki eşdeğer bir programa yatay geçiş yapar.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yukarıdaki fıkralarda belirtilen haller dışında kalan herhangi bir nedenle ortak diplomaya yönelik uluslararası ortak lisans programı kapsamında eğitim gördüğü yükseköğretim kurumundan ilişiği kesilen öğrencinin diğer yükseköğretim kurumundan da ilişiği kesilir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Öğretim Planı, Program Koordinatörü, Notlar, Ağırlıklı Genel Not Ortalaması,",
+      "maddeler": [
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "Ağırlıklı Genel Not Ortalamasının Yükseltilmesi, Gözetim ve Başarısız Olunan Derslerin Tekrarı Öğretim planı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Uluslararası programın öğretim planı İTÜ ve ortak yükseköğretim kurumu tarafından birlikte hazırlanır, ilgili fakülte kurulu ve Senato tarafından onaylanarak yürürlüğe girer. Ortak yükseköğretim kurumu planında bulunan derslerin ortak yükseköğretim kurumunda, İTÜ planında bulunan derslerin İTÜ’de alınması zorunludur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Uluslararası programın İTÜ’de yürütülen her yarıyılında öğrenci en fazla 23 kredilik ders alabilir. Gerekli hallerde yarıyıl kredi yüküne ilişkin bu sınır ilgili fakülte yönetim kurulu kararı ile değiştirilebilir. Program koordinatörü",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Programda kayıtlı öğrencilerin akademik danışmanlığının yanı sıra, gerekli durumlarda program ortağı üniversite ile Öğrenci İşleri Daire Başkanlığı, Fakülte Dekanlığı ve Rektörlük arasında akademik ve idari konularda koordinasyon sağlamak üzere ilgili UOLP koordinatörlüğüne program koordinatörü, Rektör tarafından atanır. Program koordinatörlükleri arasında koordinasyon, İTÜ UOLP genel koordinatörlüğü tarafından sağlanır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Gerekli görülen durumlarda ilgili UOLP koordinatörlüğüne atama usulüne uygun olarak birden fazla eş koordinatör atanabilir. Notlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Uluslararası programda öğrencinin bir dersteki başarısının belirlenmesine yönelik not sistemi uygulanması ve başarı derecesinin hesaplanması, o dersin tamamlandığı İTÜ veya ortak yükseköğretim kurumunda geçerli olan ilgili mevzuat hükümlerine göre yapılır. Taraf kurumlardan birinde başarısız olunabilecek derslerin ve diğer etkinliklerin nasıl ve taraflardan hangisinde telafi edileceğinin ve ortak programda genel not ortalamasının ne şekilde hesaplanacağının esas ve usulleri de protokolde belirtilir. Bir öğrencinin mezun olabilmesi için İTÜ ve ortak yükseköğretim kurumunun asgari akademik koşullarını sağlaması ve ayrıca programın tümüne ait akademik gerekleri de yerine getirmesi esastır. Ağırlıklı genel not ortalaması",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Uluslararası programın öğretim planına göre öğrencinin İTÜ’de ve ortak üniversitede yükseköğretim kurumunda yürütülen dönemlerdeki başarı derecesi ayrı ayrı hesaplanır, İTÜ ve ortak yükseköğretim kurumu tarafından ayrı not belgesinde (transkript) belirtilir. Ağırlıklı genel not ortalamasının yükseltilmesi",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Ağırlıklı genel not ortalamasını yükseltmek isteyen öğrenci, İTÜ’de bu programlarda daha önce alıp başardığı veya şartlı başarılı olduğu dersleri Senato tarafından belirlenen esaslar çerçevesinde İTÜ’de tekrar alabilir. Bu dersler için son alınan notlar geçerlidir. Öğrencinin aldığı bütün notlar, ifadeler ve tanımlar not belgesinde gösterilir. Gözetim",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "İTÜ’den aldıkları ders yükü itibari ile ağırlıklı genel not ortalamaları herhangi bir yarıyılın sonunda 1,90’ın altında kalan öğrenciler gözetim listesine alınırlar. Gözetim listesinde olan bir öğrenci İTÜ’deki bir sonraki dönemde 18 krediden fazla kredi yükü alamaz.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Akademik başarısızlık nedeniyle öğrencinin programla ilişiğinin kesilmesi İTÜ ve ortak yükseköğretim kurumunun ilgili mevzuat hükümlerine uygun olacak şekilde kararlaştırılır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "İTÜ’de tamamlanan bir öğretim yılı sonunda gözetim listesinde olan öğrencinin, not ortalamasını gözetim düzeyinin üzerine çıkartmadan ortak yükseköğretim kurumunda yürütülecek bir sonraki döneme devamına izin verilmez. İTÜ’de gözetim listesinden çıkan bir öğrencinin ortak yükseköğretim kurumunda öğretime devam edebilmesi, ortak yükseköğretim kurumunda gözetimle ilgili geçerli koşulların sağlanmış olmasına bağlıdır. Ortak yükseköğretim kurumu gözetim ile ilgili kendi koşullarını belirler. Öğrenci, ortak yükseköğretim kurumunun geçerli koşullarını öğrenmek ve bunlara uymakla yükümlüdür. Başarısız olunan derslerin tekrarı",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "İTÜ’de ya da ortak yükseköğretim kurumunda alınıp başarısız olunan dersler aşağıdaki şekillerde tekrar alınabilir. Öğrenciler, bu notların İTÜ’nün ve ortak yükseköğretim kurumunun not belgesine nasıl yansıdığını ve buna bağlı olarak ağırlıklı not ortalamasının nasıl değiştiğini bilmekle yükümlüdürler.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Normal eğitim süresinin uzaması durumunda öğrenciler, başarısız oldukları derslerden; İTÜ’de alınıp başarısız olunan eşdeğerliği program koordinatörü ve fakülte yönetim kurulu tarafından onaylanmış en fazla iki dersi; alabilir.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Ortak lisans programları tarafından açılmamış ise İTÜ’nün diğer lisans programlarından,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "İTÜ’de açılmamış ise akredite olmuş bir devlet ya da vakıf üniversitesinin yaz okulunda,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Ortak yükseköğretim kurumunda bulunması ve açılması durumunda, ortak yükseköğretim kurumunun da izniyle, ortak yükseköğretim kurumundan"
+                }
+              ]
+            },
+            {
+              "no": 3,
+              "metin": "Son sınıf öğrencileri; gözetim listesinde olmamak koşuluyla ilgili yönetim kurulu kararıyla, en fazla iki adet ders daha alabilir. Ayrıca; ortak yükseköğretim kurumunda alınıp başarısız olduğu ve eşdeğerliği ortak yükseköğretim kurumu, İTÜ program koordinatörü ve fakülte yönetim kurulu tarafından onaylanmış en fazla iki dersi; İTÜ’deki uluslararası ortak lisans programında açılmış ise uluslararası ortak lisans programında, açılmamış ise İTÜ’de diğer lisans programlarından da alabilir. Alınamayan dersler",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 18,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Tüm program süresince bir öğrenci öngörülemeyen özel durumlar nedeni ile ortak üniversitede alamadığı en fazla iki dersi, dersin eşdeğerliğinin koordinatörler tarafından onaylanması şartı ve ilgili fakülte yönetim kurulunun da kararı ile 17 nci maddenin ikinci fıkrasında belirtilen esaslar dâhilinde İTÜ’den alabilir. Benzer uygulama, ortak yükseköğretim kurumunun onaylaması durumunda, öğrencinin İTÜ’de alamadığı dersler için de geçerlidir. Öğretimi bitirme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 19,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bağlı bulunduğu programın öğretim planında yer alan zorunlu derslerle, yine programda öngörülen toplam krediyi sağlayacak şekilde seçmeli dersleri alan ve başaran, ağırlıklı genel not ortalamasını her iki üniversitenin öngördüğü koşulları sağlamış, İTÜ için en az 2,00 ve her iki üniversite tarafından belirlenen, varsa stajlar dahil bütün çalışmaları başarmış öğrenciler, öğrenimlerini bitirmiş sayılır ve kendilerine 23 üncü maddede belirtilen diplomalar verilir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 20,
+          "gecici": false,
+          "baslik": "İzinler",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "İstanbul Teknik Üniversitesi Lisans Eğitim ve Öğretim Yönetmeliğinin 32 nci maddesinde belirtilen nedenlerle ve belgelemek koşulu ile öğrenciye, her iki tarafın mutabakatı ile izin verilebilir. İzinde geçen süre azami öğretim süresinden sayılmaz. Mücbir sebepler hariç, öğrenim süresi boyunca kullanılabilecek toplam izin süresi, normal öğretim süresinin yarısından fazla olamaz.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Hazırlık programında yurt dışında ve yurt içinde İTÜ dışında İngilizce öğrenmek amacı ile süreli izin talebinde bulunulmaz.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "İzin ile ilgili diğer hususlarda İstanbul Teknik Üniversitesi Lisans Eğitim ve Öğretim Yönetmeliğinin ilgili madde hükümleri uygulanır.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Ortak yükseköğretim kurumunda dönemini tamamlayıp İTÜ’ye dönen öğrenciler almış oldukları dersleri gösteren not belgelerini (transkript) program koordinatörüne teslim etmekle yükümlüdür. Koordinatörler not belgelerinin doğruluğunu ortak yükseköğretim kurumundan teyit ettikten sonra öğrenci dosyalarına konulmak üzere fakülte aracılığı ile İTÜ Öğrenci İşleri Daire Başkanlığına gönderir.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "UOLP öğrencilerinin ortak yükseköğretim kurumunda geçirecekleri her dönem, süreli izin olarak sayılır. Öğrenciler yurt dışında geçirecekleri her dönem için bağlı bulundukları fakültelerden izin almakla yükümlüdür. Fakülteler de her dönem başında izin verdikleri UOLP öğrencilerinin bir listesini İTÜ Öğrenci İşleri Daire Başkanlığına bildirir. Yatay geçiş, çift anadal, yan dal",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 21,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrencinin öğrenim görmekte olduğu ortak lisans programından Üniversitedeki veya başka bir üniversite bünyesinde aynı alanda yürütülen diğer bir ortak lisans programına yatay geçiş Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine uygun olarak yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Ortak lisans programından yurt içindeki diğer bir lisans programına veya yurt içindeki bir lisans programından ortak lisans programına yatay geçiş Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine uygun olarak yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Ortak lisans programına kayıtlı bir öğrenci çift anadal ve yan dal eğitimi yapamaz. Disiplin",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 22,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrencilerin disiplin iş ve işlemlerinde, eğitim için bulundukları üniversite veya ortak yükseköğretim kurumunun ilgili mevzuat hükümleri uygulanır. Diploma",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 23,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Uluslararası programı, bu programın yürütüldüğü İTÜ ve ortak yükseköğretim kurumunun tüm gereklerini yerine getirerek başarıyla tamamlamış olan öğrenciler İTÜ ve ortak yükseköğretim kurumundan birer diploma veya İTÜ ve ortak yükseköğretim kurumunun hazırladığı tek bir diploma almaya hak kazanırlar.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Uluslararası programı başarıyla tamamlayanlara İTÜ’de program adı ve varsa fakülte adı da açıklanmak suretiyle, İTÜ lisans diploması verilir. Öğrenimlerini başarı ile tamamlayan öğrenciler, aynı zamanda ortak yükseköğretim kurumunun ilgili programının diplomasını da alırlar.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yükseköğretim kurumunu ve programını tanıma hususunda; diplomayı veren yükseköğretim kurumunun ve programının, faaliyet gösterdiği ülkenin yetkili makamları veya bu makamlarca yetkilendirilmiş kalite güvencesi ve akreditasyon kuruluşlarının olması ve YÖK tarafından akademik derece vermeye yetkili bir kurum ve program olarak kabul edilmesi gerekir. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 24,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde; 2547 sayılı Yükseköğretim Kanunu, 6/10/2016 tarihli ve 29849 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarının Yurt Dışı Yükseköğretim Kurumlarıyla Ortak Eğitim Öğretim Programlarına Dair Yönetmelik ve uluslararası ortak programı yürüten yükseköğretim kurumlarının kendi mevzuatları ile ilgili diğer mevzuat hükümleri uygulanır. Yürürlükten kaldırılan yönetmelik",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 24
+            }
+          ]
+        },
+        {
+          "no": 25,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "15/11/2010 tarihli ve 27760 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Çift Diplomaya Yönelik Uluslararası Ortak Lisans Programları Eğitim ve Öğretim Yönetmeliği yürürlükten kaldırılmıştır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 26,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik 2017-2018 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 27,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "43",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Kanuna tabi yükseköğretim kurumları ile bu Yönetmelik",
+      "no": "2547",
+      "ad": "Kanuna tabi yükseköğretim kurumları ile bu Yönetmelik",
+      "kaynakMadde": 4
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 7
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 24
+    }
+  ]
+}

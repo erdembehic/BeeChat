@@ -1,0 +1,471 @@
+{
+  "meta": {
+    "mevzuatNo": "41257",
+    "rgTarihi": "19.01.2025",
+    "rgSayisi": "32787",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41257&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Başlangıç Hükümleri",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi BTS Dijital İkiz Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesi BTS Dijital İkiz Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez (BTS-DİAM): İstanbul Teknik Üniversitesi BTS Dijital İkiz Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Müdür: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amaçları ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amaçları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amaçları şunlardır: Merkezin faaliyet alanları",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Dijital ikiz teknolojileri konusunda Türkiye'nin bilgi birikimini artırmak, bu alandaki araştırmaları teşvik etmek, bu sayede verimliliği artırmak, maliyetleri azaltmak ve operasyonel performansı optimize etmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Dijital ikiz teknolojileri üzerine teorik ve uygulamalı araştırmalar yürütmek için gereken dijital ikiz araştırma laboratuvarlarını kurmak, kurulmuş olanları desteklemek ve araştırmacıların kullanımına sunmak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Yürütülecek araştırmalar ile yeni algoritmalar geliştirmek, veri entegrasyon teknikleri üzerinde çalışmak ve farklı endüstri kollarına uygulanabilir çözümler üretmek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Diğer ulusal veya uluslararası uygulama ve araştırma merkezleri ve laboratuvarlarla işbirliği içinde uygulama, eğitim ve araştırmalar yapmak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Araştırma ve geliştirme (Ar-Ge) projelerinde geliştirilen dijital ikiz konusundaki bilgi birikimini prototip ve ürün geliştirme süreçlerine dönüştürmek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Dijital ikiz, yapay zeka ve sanal evren teknolojileri ile ilgili teorik araştırmalar yapmak, bu araştırmalar ile ilgili teknolojilerin temel prensiplerini anlamak ve yeni kullanım alanları keşfederek Merkezin amacına yönelik teknolojiyi uygulamaya zemin hazırlamak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "5G/6G, OpenRAN, sürdürülebilir akıllı şehirler, su kalitesi yönetimi, kentsel ulaşım, akıllı binalar, net-sıfır enerji, havacılık, denizcilik, tarım gibi temalar üzerinde çalışmalar yapmak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Akıllı şehirler teması kapsamında, İstanbul başta olmak üzere büyük şehirlerde, dijital ikizler kullanılarak trafik yönetimi, enerji dağıtımı ve su yönetimi gibi kritik altyapıların gerçek zamanlı olarak izlenmesi ve optimize edilmesini sağlamak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Ulusal ve uluslararası işbirlikleri geliştirmek."
+                },
+                {
+                  "harf": "d",
+                  "metin": "İşbirliği kurulan ulusal ve uluslararası üniversiteler ile birlikte seminerler, atölye çalışmaları ve ilgili mevzuat hükümleri çerçevesinde sertifika programları düzenlemek."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite ve diğer üniversiteler arasında öğrenci ve öğretim üyesi değişim programlarını teşvik etmek."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Üniversite-sanayi işbirliği çerçevesinde dijital ikiz teknolojisi kapsamında bilgi ve teknoloji transferini sağlamak."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Ulusal ve uluslararası düzeyde Merkezin amacına yönelik dijital ikiz prototipi, standartlaştırma çalışmaları ve ürün geliştirme süreçlerine öncülük etmek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Müdür",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Müdür."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulu."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdür, Merkezin faaliyet alanlarında çalışmaları bulunan Üniversitenin Bilgisayar ve Bilişim Fakültesinde kadrolu ve tam zamanlı çalışan öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür aynı usulle tekrar görevlendirilebilir. Süresi tamamlanmadan ayrılan veya görevden alınan Müdürün yerine kalan süreyi tamamlamak üzere aynı usulle yeni Müdür görevlendirilir. Aynı öğretim üyesi arka arkaya iki dönemden fazla Müdür olarak görevlendirilemez. Müdürün altı aydan fazla görevinin başında bulunamaması halinde görevi kendiliğinden sona erer. Müdür, Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden ve geliştirilmesinden Rektöre karşı sorumludur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkezde görevli öğretim üyeleri veya öğretim görevlileri arasından iki kişi Müdürün önerisi üzerine Rektör tarafından üç yıl süre ile müdür yardımcısı olarak görevlendirilir. Müdür yardımcıları, Müdürün kendilerine vereceği görevleri yapar. Müdürün görevi başında bulunmaması durumunda kendisine müdür yardımcılarından biri vekâlet eder. Müdürün görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdürün görevleri şunlardır: Yönetim Kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil etmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin çalışmalarının düzenli yürütülmesini ve geliştirilmesini sağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Yönetim Kurulunu ve Danışma Kurulunu olağan ve olağanüstü toplantıya çağırmak, bu toplantıların gündemlerini hazırlamak ve toplantılara başkanlık etmek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Yönetim Kurulu kararlarının uygulanmasını sağlamak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezin yıllık faaliyet raporunu ve bir sonraki yıla ait yıllık çalışma programını hazırlamak ve Yönetim Kurulunun onayı ile Rektöre sunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulu; Müdür ve müdür yardımcıları ile Merkezin faaliyet alanlarında çalışmaları bulunan Üniversitenin, tam zamanlı çalışan öğretim üyeleri veya öğretim görevlileri arasından Rektör tarafından görevlendirilen üç üye olmak üzere toplam altı üyeden oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yönetim Kurulu, Müdürün çağrısı üzerine en az üç ayda bir kere üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların oy çokluğuyla alınır. Oylamalarda eşitlik olması durumunda Müdürün oyu iki oy olarak sayılır. Müdür, gerekli durumlarda Yönetim Kurulunu olağanüstü toplantıya çağırabilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Yönetim Kurulu toplantı tutanakları, Danışma Kurulu üyelerinin incelemesine açık tutulur, ayrıca bu tutanakların birer nüshası Rektöre iletilir. Yönetim Kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulunun görevleri şunlardır: Danışma Kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezin amaçları doğrultusunda çalışması ve yönetimi ile ilgili konularda karar almak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Danışma Kurulu üyelerinin tavsiyelerini görüşüp karara bağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezin yıllık faaliyet raporunu ve bir sonraki yıla ait yıllık çalışma programını onaylamak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Proje, araştırma, yayım ve diğer çalışma alanlarına ilişkin konularda karar almak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkez faaliyetleri ile ilgili çalışma grupları ve komisyonları oluşturmak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Merkezin uzun vadeli bilimsel ve idari plan ve programını hazırlamak ve değerlendirmek üzere Rektöre sunmak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Bilimsel ve idari plan önerileri geliştirmek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Danışma Kurulu; Müdür ile Merkezin faaliyet alanları doğrultusunda çalışan, bu konularda Merkeze katkıda bulunabilecek Üniversite öğretim üyeleri veya öğretim görevlileri ile istekleri halinde konuyla ilgili diğer üniversite öğretim üyeleri, kamu kurumları veya özel sektör kuruluşları temsilcileri ve bağımsız araştırmacılar arasından Yönetim Kurulunca önerilen ve Rektör tarafından görevlendirilen en fazla on üyeden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyelerin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Danışma Kurulu yılda bir kez olağan olarak toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü toplantıya çağırabilir. Danışma Kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Danışma Kurulunun görevleri şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Uzun vadeli bilimsel araştırma projelerini ve idari faaliyet planlarını değerlendirerek Yönetim Kuruluna önerilerde bulunmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez çalışmalarına bilimsel ve idari açıdan önerilerde bulunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "Personel ihtiyacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca, Rektör tarafından görevlendirilen personel ile karşılanır. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde, 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+[
+  {
+    "mevzuatNo": "10075",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ AYDINLATMA TÜRK MİLLİ KOMİTESİ YÖNETMELİĞİ",
+    "rgTarihi": "31.10.1995",
+    "bolumSayisi": 1,
+    "maddeSayisi": 12,
+    "atifSayisi": 1,
+    "parsedDosya": "parsed/10075.json"
+  },
+  {
+    "mevzuatNo": "10335",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ BİLİŞİM ENSTİTÜSÜ YÖNETMELİĞİ",
+    "rgTarihi": "13.07.1999",
+    "bolumSayisi": 2,
+    "maddeSayisi": 14,
+    "atifSayisi": 0,
+    "parsedDosya": "parsed/10335.json"
+  },
+  {
+    "mevzuatNo": "10336",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ DENİZCİLİK FAKÜLTESİ LİSANS İNGİLİZCE GELİŞTİRME EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+    "rgTarihi": "07.11.1997",
+    "bolumSayisi": 2,
+    "maddeSayisi": 10,
+    "atifSayisi": 0,
+    "parsedDosya": "parsed/10336.json"
+  },
+  {
+    "mevzuatNo": "10338",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ AVRASYA YERBİLİMLERİ ENSTİTÜSÜ YÖNETMELİĞİ",
+    "rgTarihi": "01.02.1997",
+    "bolumSayisi": 2,
+    "maddeSayisi": 14,
+    "atifSayisi": 3,
+    "parsedDosya": "parsed/10338.json"
+  },
+  {
+    "mevzuatNo": "10339",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ SÜREKLİ EĞİTİM MERKEZİ (SEM) YÖNETMELİĞİ",
+    "rgTarihi": "04.02.1996",
+    "bolumSayisi": 1,
+    "maddeSayisi": 13,
+    "atifSayisi": 1,
+    "parsedDosya": "parsed/10339.json"
+  },
+  {
+    "mevzuatNo": "11011",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ PROFESÖR DOKTOR EMİN TURAN ONAT MALZEMELERİN DİNAMİK DAVRANIŞI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "14.01.2007",
+    "bolumSayisi": 4,
+    "maddeSayisi": 12,
+    "atifSayisi": 1,
+    "parsedDosya": "parsed/11011.json"
+  },
+  {
+    "mevzuatNo": "12496",
+    "baslik": "YÖNETMELİĞİ",
+    "rgTarihi": "03.10.2008",
+    "bolumSayisi": 4,
+    "maddeSayisi": 12,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/12496.json"
+  },
+  {
+    "mevzuatNo": "13621",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ BİLİM, MÜHENDİSLİK VE TEKNOLOJİDE KADIN ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "17.12.2009",
+    "bolumSayisi": 4,
+    "maddeSayisi": 15,
+    "atifSayisi": 3,
+    "parsedDosya": "parsed/13621.json"
+  },
+  {
+    "mevzuatNo": "13688",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ BİLİM-TOPLUM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "03.01.2010",
+    "bolumSayisi": 4,
+    "maddeSayisi": 15,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/13688.json"
+  },
+  {
+    "mevzuatNo": "13921",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ UYDU HABERLEŞME VE UZAKTAN ALGILAMA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "12.04.2010",
+    "bolumSayisi": 4,
+    "maddeSayisi": 15,
+    "atifSayisi": 3,
+    "parsedDosya": "parsed/13921.json"
+  },
+  {
+    "mevzuatNo": "14347",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ DEPREM MÜHENDİSLİĞİ VE AFET YÖNETİMİ ENSTİTÜSÜ YÖNETMELİĞİ",
+    "rgTarihi": "06.10.2010",
+    "bolumSayisi": 4,
+    "maddeSayisi": 14,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/14347.json"
+  },
+  {
+    "mevzuatNo": "14546",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ ULUSAL YÜKSEK BAŞARIMLI HESAPLAMA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "27.12.2010",
+    "bolumSayisi": 4,
+    "maddeSayisi": 16,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/14546.json"
+  },
+  {
+    "mevzuatNo": "14675",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ KONUT ARAŞTIRMA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "17.01.2011",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/14675.json"
+  },
+  {
+    "mevzuatNo": "14866",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ TARIM VE ÇEVRE BİLİŞİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "01.04.2011",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/14866.json"
+  },
+  {
+    "mevzuatNo": "15846",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ ÖNLİSANS EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+    "rgTarihi": "29.01.2012",
+    "bolumSayisi": 6,
+    "maddeSayisi": 38,
+    "atifSayisi": 8,
+    "parsedDosya": "parsed/15846.json"
+  },
+  {
+    "mevzuatNo": "15900",
+    "baslik": "LİSANS EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+    "rgTarihi": "19.02.2012",
+    "bolumSayisi": 5,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/15900.json"
+  },
+  {
+    "mevzuatNo": "15923",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ MARDİN UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "29.02.2012",
+    "bolumSayisi": 4,
+    "maddeSayisi": 16,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/15923.json"
+  },
+  {
+    "mevzuatNo": "16333",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ ELEKTRONİK TASARIM VE METROLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "05.07.2012",
+    "bolumSayisi": 4,
+    "maddeSayisi": 16,
+    "atifSayisi": 3,
+    "parsedDosya": "parsed/16333.json"
+  },
+  {
+    "mevzuatNo": "16397",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ ULUSAL COĞRAFİ BİLGİ TEKNOLOJİLERİ İNOVASYON UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "19.07.2012",
+    "bolumSayisi": 4,
+    "maddeSayisi": 16,
+    "atifSayisi": 3,
+    "parsedDosya": "parsed/16397.json"
+  },
+  {
+    "mevzuatNo": "17218",
+    "baslik": "LİSANS EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+    "rgTarihi": "20.03.2013",
+    "bolumSayisi": 4,
+    "maddeSayisi": 12,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/17218.json"
+  },
+  {
+    "mevzuatNo": "19141",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ GİRİŞİMCİLİK,İNOVASYON VE YÖNETİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "19.12.2013",
+    "bolumSayisi": 4,
+    "maddeSayisi": 16,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/19141.json"
+  },
+  {
+    "mevzuatNo": "19711",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ PROF. DR. DİNCER TOPACIK ULUSAL MEMBRAN TEKNOLOJİLERİ (MEMTEK) UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "26.05.2014",
+    "bolumSayisi": 4,
+    "maddeSayisi": 16,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/19711.json"
+  },
+  {
+    "mevzuatNo": "20458",
+    "baslik": "VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "17.01.2015",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 3,
+    "parsedDosya": "parsed/20458.json"
+  },
+  {
+    "mevzuatNo": "22644",
+    "baslik": "EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+    "rgTarihi": "11.07.2016",
+    "bolumSayisi": 6,
+    "maddeSayisi": 42,
+    "atifSayisi": 7,
+    "parsedDosya": "parsed/22644.json"
+  },
+  {
+    "mevzuatNo": "23368",
+    "baslik": "ÖĞRETİM YÖNETMELİĞİ",
+    "rgTarihi": "25.02.2017",
+    "bolumSayisi": 6,
+    "maddeSayisi": 47,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/23368.json"
+  },
+  {
+    "mevzuatNo": "23852",
+    "baslik": "UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "15.08.2017",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/23852.json"
+  },
+  {
+    "mevzuatNo": "24445",
+    "baslik": "VE ÖĞRETİM YÖNETMELİĞİ",
+    "rgTarihi": "07.03.2018",
+    "bolumSayisi": 4,
+    "maddeSayisi": 27,
+    "atifSayisi": 5,
+    "parsedDosya": "parsed/24445.json"
+  },
+  {
+    "mevzuatNo": "24531",
+    "baslik": "UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "24.04.2018",
+    "bolumSayisi": 4,
+    "maddeSayisi": 16,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/24531.json"
+  },
+  {
+    "mevzuatNo": "28941",
+    "baslik": "MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "06.11.2018",
+    "bolumSayisi": 4,
+    "maddeSayisi": 18,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/28941.json"
+  },
+  {
+    "mevzuatNo": "29023",
+    "baslik": "UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "02.12.2018",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/29023.json"
+  },
+  {
+    "mevzuatNo": "31281",
+    "baslik": "UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "25.02.2019",
+    "bolumSayisi": 4,
+    "maddeSayisi": 18,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/31281.json"
+  },
+  {
+    "mevzuatNo": "31444",
+    "baslik": "UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "21.04.2019",
+    "bolumSayisi": 4,
+    "maddeSayisi": 20,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/31444.json"
+  },
+  {
+    "mevzuatNo": "31520",
+    "baslik": "ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "17.05.2019",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/31520.json"
+  },
+  {
+    "mevzuatNo": "31538",
+    "baslik": "ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "22.05.2019",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/31538.json"
+  },
+  {
+    "mevzuatNo": "33825",
+    "baslik": "VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "29.09.2019",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/33825.json"
+  },
+  {
+    "mevzuatNo": "33855",
+    "baslik": "MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "08.10.2019",
+    "bolumSayisi": 4,
+    "maddeSayisi": 18,
+    "atifSayisi": 3,
+    "parsedDosya": "parsed/33855.json"
+  },
+  {
+    "mevzuatNo": "34036",
+    "baslik": "ENSTİTÜSÜ YÖNETMELİĞİ",
+    "rgTarihi": "16.12.2019",
+    "bolumSayisi": 4,
+    "maddeSayisi": 15,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/34036.json"
+  },
+  {
+    "mevzuatNo": "34310",
+    "baslik": "(DETAM) YÖNETMELİĞİ",
+    "rgTarihi": "26.02.2020",
+    "bolumSayisi": 4,
+    "maddeSayisi": 19,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/34310.json"
+  },
+  {
+    "mevzuatNo": "34882",
+    "baslik": "ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "26.09.2020",
+    "bolumSayisi": 4,
+    "maddeSayisi": 18,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/34882.json"
+  },
+  {
+    "mevzuatNo": "38426",
+    "baslik": "GÜVENLİĞİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "22.03.2021",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/38426.json"
+  },
+  {
+    "mevzuatNo": "38771",
+    "baslik": "UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "04.07.2021",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/38771.json"
+  },
+  {
+    "mevzuatNo": "38936",
+    "baslik": "SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+    "rgTarihi": "17.09.2021",
+    "bolumSayisi": 3,
+    "maddeSayisi": 11,
+    "atifSayisi": 4,
+    "parsedDosya": "parsed/38936.json"
+  },
+  {
+    "mevzuatNo": "39026",
+    "baslik": "UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "29.10.2021",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/39026.json"
+  },
+  {
+    "mevzuatNo": "39066",
+    "baslik": "VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "26.11.2021",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/39066.json"
+  },
+  {
+    "mevzuatNo": "39371",
+    "baslik": "VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "12.02.2022",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 3,
+    "parsedDosya": "parsed/39371.json"
+  },
+  {
+    "mevzuatNo": "39797",
+    "baslik": "MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "30.10.2022",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/39797.json"
+  },
+  {
+    "mevzuatNo": "40469",
+    "baslik": "ÖĞRETİM YÖNETMELİĞİ",
+    "rgTarihi": "04.12.2023",
+    "bolumSayisi": 6,
+    "maddeSayisi": 39,
+    "atifSayisi": 3,
+    "parsedDosya": "parsed/40469.json"
+  },
+  {
+    "mevzuatNo": "40646",
+    "baslik": "MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "21.01.2024",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/40646.json"
+  },
+  {
+    "mevzuatNo": "41257",
+    "baslik": "ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "19.01.2025",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/41257.json"
+  },
+  {
+    "mevzuatNo": "42444",
+    "baslik": "YAZ ÖĞRETİMİ YÖNETMELİĞİ",
+    "rgTarihi": "14.06.2025",
+    "bolumSayisi": 3,
+    "maddeSayisi": 15,
+    "atifSayisi": 3,
+    "parsedDosya": "parsed/42444.json"
+  },
+  {
+    "mevzuatNo": "42512",
+    "baslik": "UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "29.07.2025",
+    "bolumSayisi": 4,
+    "maddeSayisi": 18,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/42512.json"
+  },
+  {
+    "mevzuatNo": "42633",
+    "baslik": "PROGRAMI EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+    "rgTarihi": "05.10.2025",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/42633.json"
+  },
+  {
+    "mevzuatNo": "42634",
+    "baslik": "HAZIRLIK PROGRAMI EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+    "rgTarihi": "05.10.2025",
+    "bolumSayisi": 4,
+    "maddeSayisi": 17,
+    "atifSayisi": 3,
+    "parsedDosya": "parsed/42634.json"
+  },
+  {
+    "mevzuatNo": "45139",
+    "baslik": "UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "12.05.2026",
+    "bolumSayisi": 4,
+    "maddeSayisi": 19,
+    "atifSayisi": 2,
+    "parsedDosya": "parsed/45139.json"
+  },
+  {
+    "mevzuatNo": "7162",
+    "baslik": "İSTANBUL ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+    "rgTarihi": "29.07.1992",
+    "bolumSayisi": 1,
+    "maddeSayisi": 15,
+    "atifSayisi": 0,
+    "parsedDosya": "parsed/7162.json"
+  },
+  {
+    "mevzuatNo": "7164",
+    "baslik": "DİĞER BELGELERİN DÜZENLENMESİNE İLİŞKİN YÖNETMELİK",
+    "rgTarihi": "03.09.1993",
+    "bolumSayisi": 1,
+    "maddeSayisi": 7,
+    "atifSayisi": 1,
+    "parsedDosya": "parsed/7164.json"
+  },
+  {
+    "mevzuatNo": "8036",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ TÜRK MUSİKİSİ DEVLET KONSERVATUARI ÇALGI BÖLÜMÜ HAZIRLAYICI BİRİM LİSE DEVRESİ YÖNETMELİĞİ(1)",
+    "rgTarihi": "27.03.2005",
+    "bolumSayisi": 10,
+    "maddeSayisi": 63,
+    "atifSayisi": 5,
+    "parsedDosya": "parsed/8036.json"
+  }
+]

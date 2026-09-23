@@ -1,0 +1,32 @@
+{
+  "kaynak": {
+    "mevzuatNo": "40469",
+    "baslik": "ÖĞRETİM YÖNETMELİĞİ",
+    "rgTarihi": "04.12.2023"
+  },
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "46",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Kanunun 54 üncü maddesine göre yükseköğretim kurumundan çıkarma cezası almış olmaları halinde ilgili birim yönetim kurulu kararı",
+      "no": "2547",
+      "ad": "Kanunun 54 üncü maddesine göre yükseköğretim kurumundan çıkarma cezası almış olmaları halinde ilgili birim yönetim kurulu kararı",
+      "kaynakMadde": 32
+    }
+  ]
+}

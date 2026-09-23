@@ -1,0 +1,40 @@
+{
+  "kaynak": {
+    "mevzuatNo": "38936",
+    "baslik": "SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+    "rgTarihi": "17.09.2021"
+  },
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "58",
+      "kaynakMadde": 2
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 2
+    },
+    {
+      "tip": "tarihli_sayili",
+      "ham": "10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "tarih": "10/12/2003",
+      "no": "5018",
+      "ad": "Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "kaynakMadde": 8
+    },
+    {
+      "tip": "sayili",
+      "ham": "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "no": "5018",
+      "ad": "Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "kaynakMadde": 8
+    }
+  ]
+}

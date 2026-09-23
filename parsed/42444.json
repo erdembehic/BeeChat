@@ -1,0 +1,403 @@
+{
+  "meta": {
+    "mevzuatNo": "42444",
+    "rgTarihi": "14.06.2025",
+    "rgSayisi": "32926",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42444&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "YAZ ÖĞRETİMİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Başlangıç Hükümleri",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesine bağlı bölümler, yüksekokul, meslek yüksekokulu, fakülte, konservatuar, enstitüde yürütülen yaz öğretimine ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesine bağlı bölümler, yüksekokul, meslek yüksekokulu, fakülte, konservatuar, enstitüde yürütülen yaz öğretimine ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "14",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Enstitü: İstanbul Teknik Üniversitesine bağlı lisansüstü eğitim-öğretim yapan enstitüyü,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Fakülte: İstanbul Teknik Üniversitesine bağlı fakülteleri,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "İlgili yönetim kurulu: İlgili yüksekokul, meslek yüksekokulu, fakülte, konservatuar, enstitü yönetim kurulunu,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Konservatuar: İstanbul Teknik Üniversitesine bağlı Türk Musikisi Devlet Konservatuarını,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Meslek Yüksekokulu: İstanbul Teknik Üniversitesi Siber Güvenlik Meslek Yüksekokulunu,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Öğrenci İşleri Daire Başkanlığı: İstanbul Teknik Üniversitesi Öğrenci İşleri Daire Başkanlığını,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Senato: İstanbul Teknik Üniversitesi Senatosunu,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "h",
+                  "metin": "Yüksekokul: Yabancı Diller Yüksekokulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Yaz Öğretimine İlişkin Esaslar",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Yaz öğretimi ile ilgili esaslar",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Üniversitenin ön lisans, lisans ve lisansüstü programlarında yer alan tüm derslerin, verilmeleri gereken güz ve bahar yarıyıllarında açılması zorunludur. Bu derslerin açılması yaz öğretimi programına ertelenemez. Ders açılması ve süre",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yaz öğretiminin öğrenim süresi, kayıt, öğretim ve sınav tarihleri Senato tarafından belirlenir. Yaz öğretiminde açılan her ders için, güz veya bahar yarıyılında yapılan toplam ders saati kadar ders yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yaz öğretimi, her yıl Senato tarafından seçilen ve üç öğretim üyesinden oluşan Yaz Öğretimi Koordinasyon Kurulu tarafından organize edilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yaz öğretiminde dersler, fakültelerde/konservatuarda/meslek yüksekokulunda bölümlerin, enstitüde ana bilim dallarının olumlu görüşü üzerine ilgili yönetim kurulunun onayı ile açılır ve Öğrenci İşleri Daire Başkanlığı tarafından ilan edilir. Öğrenciler yaz öğretimi kayıt haftası içerisinde bu derslere kaydolurlar.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Ders kayıt tarihleri sonunda kapatılan dersler Yaz Öğretimi Koordinasyon Kurulunun gerekçeli raporu ile belirlenir ve kapatılan dersler Öğrenci İşleri Daire Başkanlığı tarafından ilan edilir.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Yüksekokulda yapılan ingilizce hazırlık eğitiminin yaz öğretimine ilişkin koşulları ilgili yönetim kurulu tarafından belirlenir ve yüksekokul tarafından ilan edilir. Ders kaydı",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yaz öğretiminde öğrenci ön koşulsuz ve ön koşulunu sağladığı dersleri alabilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yaz öğretiminde bitirme çalışması, tasarım projesi dersleri, lisansüstü tez çalışmaları ve yeterlik aşaması dersleri alınamaz.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Bir yaz öğretimi döneminde öğrenci, Üniversite içinden ve dışından en fazla 12 kredilik ders alabilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Bir öğrenci öğrenimi boyunca en fazla 9 kredilik dersi başka üniversiteden alabilir.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Başka üniversitelerden, Üniversite yaz öğretimine kayıt yaptıran öğrencilere, yaz öğretiminde alıp başardıkları derslerin adını, kredisini ve başarı notunu gösteren bir belge verilir. Bu belge Öğrenci İşleri Daire Başkanlığı tarafından düzenlenir ve öğrencinin kayıtlı olduğu yükseköğretim kurumuna iletilir. Başka üniversiteden ders alma",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Üniversite öğrencileri, Üniversite dışındaki bir üniversitede açılan yaz öğretimi dersini, dili aynı veya farklı, kredisi eşit veya daha fazla, içeriği eşdeğer olmak kaydı ile bölüm kurulunun olumlu görüşü ve ilgili yönetim kurulu kararı ile alabilirler. Üniversitede İngilizce olan bir ders farklı bir dilde alınamaz.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Üniversite dışındaki bir üniversiteden ders alınabilmesi için; öğrencinin Üniversiteye yerleştiği yıl itibarıyla, ilgili üniversitenin programının Yükseköğretim Kurumları Sınavı yerleştirme taban puanının, Üniversitedeki programın taban puanına eşit veya daha yüksek olması gerekir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Dördüncü sınıf öğrencileri, almak istedikleri dersin ilgili yaz öğretiminde Üniversitede açılmaması durumunda, Yükseköğretim Kurulu tarafından belirlenen Araştırma Üniversitelerinden de ders alabilirler.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Yurt dışındaki yükseköğretim kurumlarından Üniversite ile anlaşması olanlar ile QS Dünya Üniversite Sıralamalarında Üniversiteye eşit veya yüksek olan kurumlardan ders alınabilir.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Diğer üniversitelerden alınan derslerden Üniversitedeki karşılığı CC’nin altında olan notlar Üniversitede kabul edilmez. Değerlendirme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yaz öğretiminde açılan derslerin değerlendirilmesi ve notlandırılması Üniversite tarafından kabul edilen ilgili usul ve esaslara göre yapılır. Diğer hükümler",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Özel öğrenci olarak ders alma ile ilgili hususlarda Üniversite tarafından kabul edilen ilgili usul ve esaslar uygulanır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yaz öğretiminde geçen süre eğitim-öğretim süresinden sayılmaz.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yaz öğretiminin verildiği eğitim-öğretim yılının bahar yarıyılı sonu itibarıyla azamî süresi dolan öğrenciler de yaz öğretiminden yararlanabilirler.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Yaz öğretimi sınav döneminde; ek sınav I, ek sınav II hakları kullanılamaz. Sınırsız sınav hakkı kullanma durumunda olan öğrenciler, ilgili dersin yaz öğretiminde açık olması durumunda kayıt yaptırmak koşulu ile yaz öğretimi sonu sınavına girebilirler.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Yaz öğretimi sonunda mezuniyet durumuna gelen öğrencilere diplomaları verilir. Bu öğrencilerin sınıf sıralaması, yaz öğretimi dönemi belirtilmek suretiyle yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 6,
+              "metin": "Yaz öğretiminde ders veren öğretim elemanlarına, 2914 sayılı Yükseköğretim Personel Kanununun 11 inci maddesi hükümleri uygulanır. Yaz öğretimi ücreti",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "sayili",
+              "ham": "2914 sayılı Yükseköğretim Personel Kanunu",
+              "no": "2914",
+              "ad": "Yükseköğretim Personel Kanunu",
+              "kaynakMadde": 10
+            }
+          ]
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yaz öğretimi ücreti, ilgili mevzuat hükümleri ve Yükseköğretim Kurulu kararları doğrultusunda Yaz Öğretimi Koordinasyon Kurulunun önerisi üzerine ve Senato tarafından belirlenir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "Hüküm bulunmayan haller",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır. Yürürlükten kaldırılan yönetmelik",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "7/10/2000 tarihli ve 24193 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Yaz Öğretimi Yönetmeliği yürürlükten kaldırılmıştır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "14",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2914 sayılı Yükseköğretim Personel Kanunu",
+      "no": "2914",
+      "ad": "Yükseköğretim Personel Kanunu",
+      "kaynakMadde": 10
+    }
+  ]
+}

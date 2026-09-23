@@ -1,0 +1,62 @@
+{
+  "kaynak": {
+    "mevzuatNo": "15846",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ ÖNLİSANS EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+    "rgTarihi": "29.01.2012"
+  },
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "44",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "9380 sayılı Bakanlar Kurulu Kararı",
+      "no": "9380",
+      "ad": "Bakanlar Kurulu Kararı",
+      "kaynakMadde": 6
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "Bu Yönetmeliğin 14 üncü madde",
+      "hedefMadde": "14",
+      "kaynakMadde": 13
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "bu Yönetmeliğin 25 inci madde",
+      "hedefMadde": "25",
+      "kaynakMadde": 14
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "bu Yönetmeliğin 15 inci madde",
+      "hedefMadde": "15",
+      "kaynakMadde": 18
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "bu Yönetmeliğin 25 inci madde",
+      "hedefMadde": "25",
+      "kaynakMadde": 18
+    },
+    {
+      "tip": "ic_atif",
+      "ham": "bu Yönetmeliğin 11 inci madde",
+      "hedefMadde": "11",
+      "kaynakMadde": 28
+    }
+  ]
+}

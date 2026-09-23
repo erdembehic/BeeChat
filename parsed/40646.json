@@ -1,0 +1,551 @@
+{
+  "meta": {
+    "mevzuatNo": "40646",
+    "rgTarihi": "21.01.2024",
+    "rgSayisi": "32436",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40646&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Başlangıç Hükümleri",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Türkiye İş Bankası Marmara Aktif Fay Tehlike ve Risk Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesi Türkiye İş Bankası Marmara Aktif Fay Tehlike ve Risk Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez: İstanbul Teknik Üniversitesi Türkiye İş Bankası Marmara Aktif Fay Tehlike ve Risk Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Müdür: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amaçları ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amaçları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amaçları şunlardır: Merkezin faaliyet alanları",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Başta Marmara Bölgesi olmak üzere aktif fayların oluşturduğu tehlike ve riski yüksek başarımlı olarak açığa çıkarmak için dinamik, sayısal, interaktif tehlike ve risk haritalama teknikleri geliştirmek ve aktif faylarda son kullanıcılar için yüksek hassasiyette tehlike ve risk verisi üretmek için ileri araştırmalar yapıp yeni yöntemler ve projeler geliştirmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Marmara Bölgesinde bulunan aktif faylarının yüksek çözünürlüklü ve üç boyutlu fay haritalarını hazırlamak için sayısal arazi modelleri ve çok ışınlı batimetri verilerini toplamak, mevcut veri tabanlarını değerlendirmek ve eksik alanlarda yeni sismik araştırmalar yapmak ve bunları bir araya getirerek sismik verileri değerlendirerek yapılan üç boyutlu haritalarda santimetre hassasiyetinde kara deniz rölyefleri ile üretilen ve yersel olarak 30 cm hassasiyete sahip yeni aktif fay haritasında jeodezi, paleosismoloji çalışmaları ile tekrarlanma periyodlarını hesaplamak, son depremden günümüze geçen süreleri belirlemek, söz konusu aktif fay segmentlerinde oluşacak depremlerin büyüklüklerini belirlemek."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Karada ve denizde toplanacak örnek ve karotları yaşlandırmak için jeokronoloji laboratuvarı oluşturmak ve buradan elde edilen verileri özel bir arşiv veri bankası halinde tutmak ve ülkedeki tüm paleosismoloji çalışmalarına ortak çalışmalarla destek olmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Oluşturulan aktif fay haritaların ve hesaplanan deprem büyüklüklerini farklı azalım ilişkileri için yüksek hassasiyette (bina bazında) en büyük yer ivmesi (PGA), en büyük yer hızı (PGV), spektral ivme (Sa) ve spektral yerdeğiştirme (Sd) haritalarının üretilmesini sağlamak, bu haritalar ile afete yönelik deprem senaryoları üretmek, bu senaryolar ile kentsel dönüşüm, sanayi planlama ve afete hazırlık alt yapısı için kamuya ve son kullanıcılara veri üretmek."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Marmara Bölgesinde spektral ivme haritalarını mükemmelleştirmek için deniz ve karada özel ağlar geliştirmek, bölgesel olarak aktif fayları sürekli izleyen birbiri ile konuşan bir veri toplama merkezi oluşturmak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Güçlü bir Üniversite-Kamu-ARGE merkezleri iş birliği ekosistemi oluşturarak yüksek teknolojili ölçme sistemlerinin (kuvvetli yer hareketi ölçme cihazları, deniz tabanı sismik ölçüm sistemleri, kişisel cep telefonları ile ivme verilerini toplamak amaçlı uygulamalar) gelişmesine katkıda bulunmak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Aktif fay araştırmaları alanında farklı disiplinlerden gelen yüksek seviyede ihtiyaç duyulan donanım ve yetkinlik sahibi insan ve iş gücünü, araştırmacıları, mühendisleri eğiterek, öncelikle Marmara Bölgesi ve Türkiye’de öncelikli sismik boşlukların incelenmesinde kentlere ve sanayiye oluşturduğu deprem riskini azaltmak için gereken çalışmaları yapabilecek kapasiteye yükseltmek, bu amaca yönelik eğitim, bilgi ve kaynak paylaşımı faaliyetlerini yürütmek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Marmara Bölgesi üzerinde kara ve deniz alanlarında arazide fay araştırmaları yapmak, bu çalışmalar için farklı özellikte fotogrametri ve uzaktan algılama (örn. InSAR) verilerini toplamak ve değerlendirmek, bu alanda çalışan kuruluşlarla iş birliği yapmak, toplanmış jeodezik (GPS-GNSS) verileri kullanmak, risk belirlemeye yönelik ölçme kampanyaları yapmak ve değerlendirmek, kara ve denizde sismik yansıma verisi toplama ve yorumlamak, İnsansız Hava Aracı (İHA) ile orto-foto toplamak, lazer tarama teknolojisi (Hava LIDAR), Sayısal Arazi Modeli (SAM) ve Sayısal Yükseklik Modeli (SYM) oluşturmak, Coğrafi Bilgi Sistemi (CBS) ortamında sayısal verileri yorumlamak ve temel haritalar hazırlamak, birbiri ile konuşan veri tabanları üretmek, bunları kullanıcılara sunmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Aktif faylarda paleosismoloji çalışmaları yapmak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Aktif faylarda etkin kullanılan Optik Uyarımlı Işıldama (OSL) tarihleme laboratuvarı kurmak ve sadece Merkez çalışmalarında değil aynı zamanda aktif fay çalışmaları yapan diğer araştırıcıların yaş tayini ölçüm gereksinimlerini ülkemizde sağlamak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Deniz ve karada aktif fayları gözleyen bir fiber optik dağıtılmış akustik algılama (DAS) ağı oluşturmak, yoğun bir gerinim sensörleri dizisi ile bu özel ağ üzerinden toplanan sismik verileri işlemek."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Aktif fay alanlarında depremler arası (inter-sismik) dönem yeraltı suları, gaz çıkışlarını izlemeye yönelik gözlem ağı kurmak ve çalıştırmak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Marmara Bölgesinde ihtiyaç duyulan en büyük yer ivmesi, en büyük yer hızı, spektral ivme ve spektral yer değiştirme haritaları üretiminde veri kontrolü için kullanılmak üzere, yerleşim birimlerinin dağılımına göre konumlandırılmış özel kuvvetli yer hareketi ölçme sistemleri kurmak ve işletmek, akıllı telefonlar için ivme verisi toplama yazılımları geliştirmek, toplanan veriler ile büyük veri analizi imkânı veren makine öğrenmesi ile işleyen sistemleri geliştirmek."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Deprem üretme potansiyeli saptanmış aktif fayların üreteceği maksimum deprem büyüklüklerini hesaplamak için kodlar geliştirmek ve bu kodları deprem ivme senaryolarında kullanmak, azalım ilişkilerini, makine öğrenmesi kullanarak bölge depremlerinin oluşturduğu mevcut ölçülmüş ve eksik kesimlerde kurulacak bir ağla ölçülecek ivmeleri, bölgenin jeolojisine ve Vs30-Vs100 hızları ile fayların özelliklerine uygun olarak yeniden tasarlamak."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Deprem sonrasında kesintisiz fonksiyonellik göstermesi gereken hastane, itfaiye, afet koordinasyon merkezleri, yönetim binaları, altyapı sistemlerine ait kontrol merkezleri türü idari binalar ile özelde yüksek binalar statüsüne sahip yapılar için senaryo depremine bağlı geliştirilen spektral ivmeler ile uyumlu kuvvetli yer hareketi bankası oluşturmak."
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Aktif fay araştırmalarında çeşitli disiplinlerin kullanıcılarının ihtiyaç duyduğu yeni dinamik haritaları CBS ortamında geliştirmek, bu amaçla sismik boşluklarda fay araştırma kampanyalarını organize ederek gerçekleştirmek ve üretilen yeni verileri belgelendirmek."
+                },
+                {
+                  "harf": "h",
+                  "metin": "Deprem riski belirlenmiş ve kent ve sanayi alanlarındaki dinamik yerleşime uygunluk haritaları için altlık bilgi üretmek, ilgili bakanlıklara ve yerel yönetimlere, üçüncü tüzel kişiliklerin kullanımına uygun halde sunmak."
+                },
+                {
+                  "harf": "ı",
+                  "metin": "Afet yönetimi için altlık sağlayacak haritalar ile karar destek çalışmaları sunmak ve bu sunulan harita ve karar destek analizlerini uygun yer seçimi, kaynak tahsisi, amaçları için ilgili ve yetkili kurumlarla paylaşmak."
+                },
+                {
+                  "harf": "i",
+                  "metin": "Deprem tehlikesi ve riski yüksek, ülke ekonomisine etkisi büyük olacak stratejik öneme sahip kamu yapıları, özel mega yapılar, sanayi kuruluşları ve özel sektör için acil risk araştırma projeleri yapmak ve önlem geliştirmelerine katkıda bulunmak."
+                },
+                {
+                  "harf": "j",
+                  "metin": "Bina stoklarının yapısal ve yapısal olmayan risklerinin tespiti için hızlı değerlendirme yöntemleri geliştirmek."
+                },
+                {
+                  "harf": "k",
+                  "metin": "Mevcut binaların malzeme dayanımlarının tespitinde alternatif olacak tahribatsız yöntemler geliştirmek."
+                },
+                {
+                  "harf": "l",
+                  "metin": "Deprem zararlarının asgari düzeye indirilmesi amacıyla mevcut yapı stokunun can güvenliği performans seviyesini sağlayacak düzeyde güçlendirilmelerine yönelik metotlar ve öneriler geliştirmek."
+                },
+                {
+                  "harf": "m",
+                  "metin": "Merkezde yürütülecek aktif fay çalışmaları ile ilgili araştırma ve modelleme çalışmalarında Üniversitenin ve ilgili kamu kurumlarının veri tabanları ve altyapısının birlikte kullanılması için ara yüz görevi üstlenmek."
+                },
+                {
+                  "harf": "n",
+                  "metin": "Aktif faylar üzerinde tehlike ve risk konusunda yürütülen lisansüstü ve lisans tez çalışmaları için gerekli altyapı, donanım ve laboratuvar olanaklarını Merkezin imkanları dâhilinde sunmak."
+                },
+                {
+                  "harf": "o",
+                  "metin": "Merkezin, aktif faylar ve tehlike belirleme kapsamında yürüteceği çok disiplinli araştırma konularında Üniversite içinde, çalışma konularına yakın araştırma merkezleri ile iş birliği yapmak."
+                },
+                {
+                  "harf": "ö",
+                  "metin": "Yurt içi ve yurt dışından aktif faylar üzerinde tehlike ve risk ile ilgili konularda uzman, yetkin araştırmacı ve akademisyenlerin uzun veya kısa süreli istihdamı ile ilgili gerekli girişimlerde bulunmak ve bu girişimlerin finansmanı için Üniversite, özel sektör ve kamu kaynaklarının kullanılması ile ilgili çalışmalar yapmak."
+                },
+                {
+                  "harf": "p",
+                  "metin": "Aktif fay tehlike ve risk çalışmalarında bulunan yurt içi ve yurt dışı uzman araştırmacı ve akademisyenlerin Merkezde kısa süreli kurs ve seminer vermesini sağlamak, bunun için gerekli girişim ve organizasyonu yapmak."
+                },
+                {
+                  "harf": "r",
+                  "metin": "Merkezin faaliyet alanlarında uluslararası ve ulusal konferans, kongre ve çalıştaylar düzenleyerek bilgi ve tecrübe paylaşımını sağlamak, Merkezde Üniversite öğrencileri için kısa veya uzun süreli staj imkânı oluşturmak."
+                },
+                {
+                  "harf": "s",
+                  "metin": "Merkez, toplumun her yaş ve eğitim grubunun katılımına açık, bilinçlendirme ve farkındalığa yönelik bir dizi okul dışı eğitim programı yürütmek, çocuklara, gençlere ve yetişkinlere yönelik bu eğitimlerin ana amacı, yer bilimlerini tanıtmak, Merkezde yapılan araştırmalar hakkında bilgi vermek, Türkiye’nin aktif fayları, bunların nasıl çalıştıkları, depremlerin nasıl oluştuğu ve depremselliği yüksek bir ülkede bireysel ve kurumsal ölçekte ne gibi temel tedbirlerin alınması gerektiğini saptamak ve yönlendirmek, ilgili mevzuat kapsamında ilk ve ortaöğretim okullarıyla beraber yapılacak okul dışı ortak eğitim programları ile çocuklar ve gençlerin, deprem gerçeğine karşı bilimsel bakış açısıyla farkındalık kazandırmayı amaçlamak, yetişkinler ve medya mensupları için düzenlenecek çevrimiçi ve çevrimdışı etkinlikler ile araştırmaları ve çalışmaları bilim iletişimi kapsamında sunmak."
+                },
+                {
+                  "harf": "ş",
+                  "metin": "Merkezde yürütülecek araştırma, geliştirme ve uygulama çalışmalarında eğitim ve çeşitli etkinliklerde Üniversite ve kamuda çalışan yerbilimci, araştırmacı ve mühendislerin birlikte çalışacakları bir ortam sağlamak."
+                },
+                {
+                  "harf": "t",
+                  "metin": "Merkezde yapılan çalışmalar hakkında gizlilik kurallarını ihlal etmeden, makale, bildiri, rapor, el kitabı, kitap ve benzeri yayımlar çıkarmak, patente konu olabilecek araştırma çıktıları için gerekli çalışma ve başvuruları yapmak."
+                },
+                {
+                  "harf": "u",
+                  "metin": "Döner sermaye çerçevesinde üçüncü taraf gerçek ve tüzel kişilere, kamu kurum ve kuruluşlarına genel veya parsel bazında özel deprem risk senaryoları hazırlamak, mevcut yapılarında ve belirleyecekleri alanlarda deprem riski çalışmaları yapmak ve bu konularda ortak projeler geliştirmek."
+                },
+                {
+                  "harf": "ü",
+                  "metin": "Merkez tarafından yapılan projeler çerçevesinde üretilen verilerden üçüncü taraf gerçek ve tüzel kişilere, kamu kurum ve kuruluşlarına ücretli veya teknik olanak ve veri paylaşımı karşılığında ücretsiz risk analizleri üretmek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Müdür",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Müdür."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulu."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdür, Merkezin faaliyet alanlarında çalışmaları bulunan Üniversite kadrolu ve tam zamanlı öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür aynı usulle tekrar görevlendirilebilir. Süresi tamamlanmadan ayrılan veya görevden alınan Müdürün yerine kalan süreyi tamamlamak üzere aynı usulle yeni Müdür görevlendirilir. Aynı öğretim üyesi arka arkaya iki dönemden fazla Müdür olarak görevlendirilemez. Müdürün altı aydan fazla görevinin başında bulunamaması halinde görevi kendiliğinden sona erer. Müdür, Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden ve geliştirilmesinden Rektöre karşı sorumludur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkezde görevli öğretim üyeleri veya görevlileri arasından iki kişi Müdürün önerisi üzerine Rektör tarafından üç yıl süre ile müdür yardımcısı olarak görevlendirilir. Müdür yardımcıları, Müdürün kendilerine vereceği görevleri yapar. Müdürün görevi başında bulunmaması durumunda kendisine müdür yardımcılarından biri vekâlet eder. Müdürün görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdürün görevleri şunlardır: Yönetim Kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil etmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin çalışmalarının düzenli yürütülmesini ve geliştirilmesini sağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Yönetim Kurulunu ve Danışma Kurulunu olağan ve olağanüstü toplantıya çağırmak, bu toplantıların gündemlerini hazırlamak ve toplantılara başkanlık etmek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Yönetim Kurulu kararlarının uygulanmasını sağlamak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezin yıllık faaliyet raporunu ve bir sonraki yıla ait yıllık çalışma programını hazırlamak ve Yönetim Kurulunun onayı ile Rektöre sunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulu; Müdür ve müdür yardımcıları ile Merkezin faaliyet alanlarında çalışmaları bulunan Üniversitede araştırmalar yapan, tam zamanlı çalışan öğretim üyeleri veya görevlileri arasından Rektör tarafından görevlendirilen üç üye olmak üzere toplam altı üyeden oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yönetim Kurulu, Müdürün çağrısı üzerine en az üç ayda bir kere üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların oy çokluğuyla alınır. Oylamalarda eşitlik olması durumunda Müdürün oyu iki oy olarak sayılır. Müdür, gerekli durumlarda Yönetim Kurulunu olağanüstü toplantıya çağırabilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Yönetim Kurulu toplantı tutanakları, Danışma Kurulu üyelerinin incelemesine açık tutulur, ayrıca bu tutanakların birer nüshası Rektöre iletilir. Yönetim Kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulunun görevleri şunlardır: Danışma Kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezin amaçları doğrultusunda çalışması ve yönetimi ile ilgili konularda karar almak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Danışma Kurulu üyelerinin tavsiyelerini görüşüp karara bağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezin yıllık faaliyet raporunu ve yıllık çalışma programını görüşerek son şeklini vermek Rektöre sunmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Proje, araştırma, yayım ve diğer çalışma alanlarına ilişkin konularda karar almak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkez faaliyetleri ile ilgili çalışma grupları ve komisyonları oluşturmak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Merkezin uzun vadeli bilimsel ve idarî plan ve programını hazırlamak ve değerlendirmek üzere Rektöre sunmak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Bilimsel ve idari plan önerileri geliştirmek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Danışma Kurulu; Müdür ile Merkezin faaliyet alanları doğrultusunda çalışan, bu konularda Merkeze katkıda bulunabilecek Üniversite öğretim üyeleri veya görevlileri ile istekleri halinde konuyla ilgili diğer üniversite öğretim üyeleri, kamu kurumları veya özel sektör kuruluşları temsilcileri ve bağımsız araştırmacılar arasından Yönetim Kurulunca önerilen ve Rektör tarafından görevlendirilen en fazla on üyeden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyelerin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Danışma Kurulu yılda bir kez olağan olarak toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü toplantıya çağırabilir. Danışma Kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Danışma Kurulunun görevleri şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Uzun vadeli bilimsel araştırma projelerini ve idari faaliyet planlarını değerlendirerek Yönetim Kuruluna önerilerde bulunmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez çalışmalarına bilimsel ve idari açıdan önerilerde bulunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "Personel ihtiyacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca, Rektör tarafından görevlendirilen personel ile karşılanır. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde; ilgili diğer mevzuat hükümleri uygulanır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

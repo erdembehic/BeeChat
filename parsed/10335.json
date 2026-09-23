@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "mevzuatNo": "10335",
+    "rgTarihi": "13.07.1999",
+    "rgSayisi": "23754",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10335&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ BİLİŞİM ENSTİTÜSÜ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 99,
+      "baslik": "I. GENEL HÜKÜMLER",
+      "altBaslik": "Enstitünün Tanımı:",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "İstanbul Teknik Üniversitesi'ne bağlı olarak kurulan Bilişim Enstitüsü; bilişim bilimleri ve teknolojileri alanlarında lisansüstü eğitim, öğretim, bilimsel araştırma ve uygu­lama yapan bir birimdir. Enstitünün Amaç ve Görevleri:",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitünün amaç ve görevleri aşağıda sıralanmaktadır: maya koymak,",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Bilişim Anabilim Dalı altında, ülkenin gereksinimlerini de gözönüne alarak, bilişimi ilgilendirebilecek çeşitli alanlarda bilimsel araştırma, lisansüstü eğitimi ve öğretimi yapmak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Bilişim ile ilgili, araştırma ve geliştirme çalışmalarının yapılmasını sağlamak ve bu doğrultuda yayınlar yapmak. İç ve dış yayınları derleyerek ulusal ve bölgesel ölçekte ve hem gerçel hem de sanal düzeyde başvuru kaynağı olacak bir teknik kaynaklandırım (dokümantasyon) merkezi kurmak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Uygulama alanlarında geliştirilen bilgi ve deneyimleri, öğretimde kullanılmak üzere, toplamak ve eğitsel araç biçimine sokmak,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Enstitü amaçlarını gerçekleştirmek için kurs, seminer, konferans ve kongre gibi bilimsel toplantılar düzenlemek,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite ile, ulusal ve uluslararası özel ve kamu kuruluşları arasında bilişim konu­larında danışma, eğitim, araştırma, geliştirme ve yapılandırma ilişkileri kurmak, bu kuruluşlarla işbirliği yapmak ve bilişim sorunlarına çözüm getirici girişimlerde bulun­mak,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Araştırma ve geliştirme etkinliklerini düzenlemek için gerekli laboratuvar ve merkezleri kurmak ve işletmek,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Türkiye’de varolan yazılım endüstrisinin sorunlarını gidermek, yönlendirmek ve ge­rekirse yeniden yapılandırmak ve önlemler almak. Bu bağlamda, İTÜ dışındaki ku­ruluşlardan malî destekli yazılımsal projeler almak. Bu tür projeler için proje grupları oluşturup çalıştırmak,"
+                },
+                {
+                  "harf": "h",
+                  "metin": "Eğitim grupları oluşturarak bilişimle ilgili ücretli eğitim programları örgütlemek ve uygula-"
+                },
+                {
+                  "harf": "i",
+                  "metin": "Türk dilinin bilişim konularındaki yabancı sözcüklerden arındırmak böylece özgün ve arı bir yapıya kavuşturulması için çalışmalar yapmak ve bu bağlamda İstanbul Teknik Üniversitesi'ne özgü bir yapı çerçevesinde sürekli güncellenebilen bir Bilişim Sözlüğü oluşturup sanal ve gerçel ortamlarda yayınlamak,"
+                },
+                {
+                  "harf": "j",
+                  "metin": "Bilişimle ilgili bir fakülte kurulana dek Fakültelere verilecek temel bilişim derslerinin eşgüdümünü sağlamak,"
+                },
+                {
+                  "harf": "k",
+                  "metin": "Üniversitenin bilişim gereksinimleri konusunda danışmanlık yapmak ve gerekli desteği sağlamak,"
+                },
+                {
+                  "harf": "l",
+                  "metin": "Üniversitedeki eğitime katkıda bulunabilecek, üniversite dışındaki kurum ve bireylere gerektiğinde uzaktan eğitim desteği sağlayabilecek, bir Sanal Ortamda Eğitim Merkezi kurmak bakım ve güncellenmesini sağlamak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitü, amaç ve görevlerini gerçekleştirebilmek için yurt içinde ve yurt dışındaki araştırma ve eğitim kurumları ile işbirliği yapabilir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 99,
+      "baslik": "II. KURULUŞ VE ÇALIŞMA",
+      "altBaslik": "Enstitünün Organları:",
+      "maddeler": [
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitü organları Enstitü Müdürü, Enstitü Kurulu ve Enstitü Yönetim Kurulu'ndan oluşur. Enstitü Müdürünün Atanması ve Görevleri:",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitü Müdürü, üç yıl için Rektör tarafından atanır. Süresi biten müdür yeniden atanabilir. Enstitü Müdürü, kendisine çalışmalarında yardımcı olmak üzere, Üni­versite öğretim üyeleri arasından üç yıl için en çok iki yardımcı atayabilir. Müdür görevi başında olmadığı zaman yardımcılarından biri vekâlet eder. Görevi başında altı aydan fazla bulunamayacağı durumlarda yeni bir müdür atanır. Enstitü Müdürünün görev, yetki ve sorumlulukları şunlardır: Enstitü Müdürü, enstitünün ve bağlı birimlerinin öğretim sığasının akılcı bir biçimde kullanılmasında ve geliştirilmesinde gerektiği zaman güvenlik önlemlerinin alınmasında, öğrencilere gerekli sosyal hizmetlerin sağlanmasında, eğitim ile öğretim, bilimsel araştırma ve yayın etkinliklerinin düzenli bir biçimde yürütülmesinde, tüm etkinliklerin gözetim ve denetiminin yapılmasında ya da yaptırılmasında izlenip sonuca ulaştırılmasında Rektör'e karşı birinci derecede sorumludur. Enstitü Kurulunun Oluşması ve Çalışma Esasları:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Enstitü kurullarına başkanlık etmek, enstitü kurullarının kararlarını uygulamak ve enstitü birimleri arasında düzenli çalışmayı sağlamak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Her öğretim yılı sonunda ve istendiğinde, enstitünün genel durumu ve işleyişi hakkında Rektör'e rapor vermek,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Enstitünün ödenek ve kadro gereksinimlerini gerekçesi ile birlikte, Enstitü Yönetim Kurulu'nun da görüşünü aldıktan sonra Rektörlüğe sunmak,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Enstitü birimleri ve her düzeydeki personeli üzerinde genel gözetim ve denetim görevini yapmak,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "2547 sayılı Yasa ile kendisine verilen diğer görevleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitü Kurulu, Müdürün başkanlığında Bilişim Anabilim Dalı Başkanı, Enstitü tarafından açılan yüksek lisans ve doktora eğitim programlarının yürütücüleri ile Enstitü Müdürü ve müdür yardımcılarından oluşur",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitü Kurulu akademik bir organ olup, aşağıdaki görevleri yapar: Enstitü Kurulu olağan olarak her yarıyıl başında ve sonunda toplanır. Enstitü Müd­ürü, gerekli gördüğü durumlarda da Enstitü Kurulu'nu toplantıya çağırabilir. Enstitü Yönetim Kurulu:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Enstitünün eğitim ile öğretim, bilimsel araştırma ve yayın etkinlikleri ve bu etkinlik­lerle ilgili esasları, plan, program ve eğitim ile öğretim takvimlerini kararlaştırmak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Enstitü Yönetim Kurulu'na üye seçmek,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Yasayla Enstitü Kurulu'na verilen diğer görevleri yapmak,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitü Yönetim Kurulu, Müdür'ün başkanlığında, Müdür yardımcıları ve Müdür'ce gösterilecek altı aday arasından Enstitü Kurulu tarafından üç yıl için seçilecek üç öğretim üyesinden oluşur.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitü Yönetim Kurulu, yönetsel etkinliklerde Enstitü Müdürüne yardımcı bir organ olup, aşağıdaki görevleri yapar: çıkarılmaları ile eğitim, öğretim ve sınavlarla ilgili işlemleri hakkında karar vermek, Enstitü Yönetim Kurulu, Enstitü Müdürü'nün çağrısı üzerine toplanır. Yönetim Kurulu gerekli gördüğü durumlarda geçici çalışma gruplarını; eğitim, öğretim ve araştırma ile geliştirmede eşgüdümü sağlayacak kişileri belirler ve bunların görevlerini düzenler. III. MALÎ HUSUSLAR VE SON HÜKÜMLER",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Enstitü Kurulunun kararlarıyla saptadığı esasların uygulanmasında Müdüre yardım etmek,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Enstitü’nün eğitim ile öğretim plan, program ve takvimlerinin uygulanmasını sağlamak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Enstitü'nün yatırım, program ve bütçe tasarısını hazırlamak,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Müdürün, enstitü yönetimiyle ilgili olarak getireceği işlerde karar almak,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Öğrencilerin programlara alınmaları, ders eşdeğerliklerinin onaylanması, programlar­dan"
+                },
+                {
+                  "harf": "f",
+                  "metin": "2547 sayılı Yasayla verilen diğer görevleri yapmak"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Malî işlemler ve kolaylıklar bakımından 2547 sayılı Yasa'nın 56 ncı maddesin­deki hükümler geçerlidir.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Enstitü öğretim elemanlarına, idarî personel ve öğrencilere ait hususlarda ilgili mevzuat hükmü uygulanır.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bütçe harcamalarında Enstitü'nün ita amiri Rektör'dür. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": []
+}

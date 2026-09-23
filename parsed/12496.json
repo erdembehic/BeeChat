@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "mevzuatNo": "12496",
+    "rgTarihi": "03.10.2008",
+    "rgSayisi": "27013",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12496&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesine bağlı olarak kurulan, İstanbul Teknik Üniversitesi Afet Yönetim Araştırma ve Uygulama Merkezinin görevlerine, organlarına ve yönetimine ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesine bağlı olarak kurulan, İstanbul Teknik Üniversitesi Afet Yönetim Araştırma ve Uygulama Merkezinin amacına, faaliyet alanlarına yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez: İstanbul Teknik Üniversitesi Afet Yönetim Araştırma ve Uygulama Merkezini,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkez Müdürü: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amacı ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amacı; faaliyet alanlarına giren konularda bilimsel ve teknolojik araştırma, eğitim ve uzmanlığı ilgilendiren konularda danışmanlıklar yapmaktır. Merkezin faaliyet alanları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Kamu personeline, yerel yönetimlerde çalışanlara, mimarlara, mühendislere, öğretmen ve öğrencilere afet yönetimi konusunda eğitim verilmesini sağlamak, bu amaçla düzenlenecek seminer ve kurslarla afet zararlarının en aza indirilmesinde elde edilen yeni teknik ve bilgileri aktarmak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Afetlerin önlenmesi ve zararların azaltılması, acil durum yönetimi ile ilgili konularda kısa ve uzun vadeli tedbirlere ilişkin çalışmalar yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Merkez müdürü ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez Müdürü,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Yönetim Kurulu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Müdürü; Rektör tarafından, Üniversitede Merkezin faaliyetleriyle ilgili alanlarda tam gün çalışan ve uluslararası afet yönetim enstitüsü kuruluşlarınca düzenlenen eğitmen eğitimi programlarından sertifika/diploma almış öğretim üye ve görevlileri arasından üç yıl süre ile görevlendirilir. Süresi biten Merkez Müdürü aynı usulle yeniden görevlendirilebilir veya görevden alınabilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Müdürünün önerisi ile uluslararası afet yönetim enstitüsü kuruluşlarınca düzenlenen eğitmen eğitimi programlarından sertifika/diploma almış Üniversitedeki öğretim üye ve görevlileri arasından iki kişi Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdür yardımcıları, Merkezle ilgili konularda Merkez Müdürünün vereceği işleri yaparlar ve kurulların toplantılarına katılabilirler. Merkez Müdürü kısa süreli ayrılışlarında vekâleti yardımcısına bırakır. Bu vekâlet altı aydan fazla sürerse ya da Merkez Müdürü başka bir nedenle görev süresi dolmadan ayrılırsa, kalan süreyi doldurmak üzere Rektör tarafından yeni bir Merkez Müdürü görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Merkez Müdürünün görevleri şunlardır: Merkez yönetim kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil ve Merkez Yönetim Kuruluna başkanlık etmek, her yıl sonunda Merkezin çalışmaları ile ilgili olarak etkinlik raporunu ve sonraki yıla ait çalışma programını hazırlamak ve Merkez Yönetim Kuruluna sunmak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Yönetim Kurulunun belirlediği ilkeler ve hedefler doğrultusunda Merkezi yönetmek, akademik, idari, mali ve teknik yönden işleyişini planlamak, kamu ya da özel kuruluşlar arasında koordinasyon sağlamak ve Merkez ile ilgili eğitim programlarını düzenlemek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Yönetim Kurulu; Merkez Müdürü ve yardımcıları ile Üniversite Yönetim Kurulunun önereceği Üniversitede tam gün çalışan iki öğretim üye ve görevlisi olmak üzere toplam beş kişiden oluşur. Merkez Yönetim Kurulu üyeleri Rektör tarafından üç yıl için görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Yönetim Kurulunda görev süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan veya Üniversite dışında altı aydan fazla süreyle görevlendirilenlerin yerine, kalan süreyi doldurmak üzere yenileri görevlendirilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Merkez Yönetim Kurulunun görevleri şunlardır: Merkez danışma kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez Müdürünün başkanlığında ayda en az bir defa toplanarak etkinlikleri ve yönetimi ile ilgili konuları görüşmek ve idari kararlar almak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Müdürünün her etkinlik yılı sonunda hazırlayacağı etkinlik raporunu görüşmek ve bir sonraki yıla ait çalışma programını onaylamak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Danışma Kurulu; Merkezin etkinlik alanlarıyla ilgili kamu ve özel sektör kurum ve kuruluşlarının temsilcilerinden oluşan Üniversite Yönetim Kurulunun önerisi üzerine Rektör tarafından görevlendirilen en fazla dokuz üyeden oluşur. Bu Kurulun başkanı Rektördür.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Danışma Kurulu; Merkezin etkinlik alanlarıyla ilgili konularda görüş ve tavsiyelerde bulunan bir danışma organıdır.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Son Hükümler",
+      "maddeler": [
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "Yürürlük",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

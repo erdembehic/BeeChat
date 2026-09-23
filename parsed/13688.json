@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "mevzuatNo": "13688",
+    "rgTarihi": "03.01.2010",
+    "rgSayisi": "27451",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13688&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "İSTANBUL TEKNİK ÜNİVERSİTESİ BİLİM-TOPLUM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesine bağlı olarak kurulan, İstanbul Teknik Üniversitesi Bilim-Toplum Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesine bağlı olarak kurulan, İstanbul Teknik Üniversitesi Bilim-Toplum Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez: İstanbul Teknik Üniversitesi Bilim-Toplum Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez Müdürü: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkez Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Senato: Üniversite Senatosunu,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amacı ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amacı; bilimsel araştırmalardan elde edilen bilginin topluma aktarılması ve toplumun bir bilgi toplumuna dönüşmesine yardımcı olmaktır. Merkezin faaliyet alanları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır;",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Üniversite bilim merkezinde özellikle temel bilimlerin ana kavramlarını, gösteri birimleri aracılığı ile ilköğretim çağındaki öğrencilere rehberler eşliğinde uygulamalı yöntemlerle tanıtmak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Benzer ulusal ve uluslararası kuruluşlarla iletişimde bulunmak suretiyle atölye çalışması, yaz okulu, konferans, panel, bilim gezileri, bilim yarışmaları gibi organizasyonlar düzenleyerek bilim kültürünün her yaş ve eğitim grubundan bireylere tanıtılması ve aktarılmasına katkıda bulunmak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Eğitim kurumlarında uygulanan müfredata bilimsel yönden destek sağlamak,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Açacağı sergilerle ve düzenleyeceği etkinliklerle doğa ve mühendislik bilimleri ve sanat arasındaki etkileşime katkıda bulunmak,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Bu alanda oluşacak veri ve bilgi birikimini internet teknolojisini kullanarak ülkede ve dünyada yaygın erişime sunmak,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Merkezi ilgilendiren konularda ulusal ve uluslararası sivil toplum örgütleriyle işbirliği yapmak,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Üniversite bilim müzesi için teknoloji ve doğa koleksiyonları oluşturmak ve bununla ilgili olarak benzer müzelerle işbirliğinde bulunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri, Çalışma ve Uygulama Birimleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır; Merkez müdürü",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez Müdürü,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez Yönetim Kurulu,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Müdürü, Rektör tarafından Üniversitede tam gün çalışan öğretim üyeleri arasından üç yıl için görevlendirilir. Süresi dolan Merkez Müdürü aynı usulle yeniden görevlendirilebilir. Süresi tamamlanmadan ayrılan veya Üniversite dışında üç aydan fazla görevlendirilen Merkez Müdürü yerine, kalan süreyi doldurmak üzere aynı yöntemle yenisi görevlendirilir. Merkez Müdürünün görevden alınmasında da aynı yöntem uygulanır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Müdürüne çalışmalarında yardımcı olmak üzere, Üniversitede tam gün çalışan öğretim üyeleri arasından bir kişi müdür yardımcısı olarak Rektör tarafından üç yıl süreyle görevlendirilir. Merkez Müdürü görevden kısa süreli ayrılmalarında yardımcısını vekil olarak bırakır. Merkez müdürünün görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Müdürünün görevleri şunlardır: Merkez yönetim kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil etmek,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez ve bağlı birimler ile personelin düzenli çalışmasını sağlamak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez Yönetim Kurulu kararlarını uygulamak,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkez Yönetim Kurulu tutanaklarını, Merkez Yönetim Kurulu üyelerinin incelemesine açık tutmak,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezin içerik ve işlev olarak gelişmesi ile ilgili esasları belirlemek,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Her akademik yıl sonunda Merkezin çalışmalarını kapsayan bir faaliyet raporunu ve bir sonraki yıla ait çalışma programını hazırlayıp Merkez Yönetim Kuruluna sunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Yönetim Kurulu, Merkez Müdürü, müdür yardımcısı ve Merkez Müdürünün önerisi ile Üniversite öğretim üyeleri arasından üç yıl için Rektör tarafından görevlendirilecek üç öğretim üyesinden oluşur. Süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılanların veya üniversite dışında üç aydan daha fazla görevlendirilenlerin yerine kalan süreyi doldurmak üzere yenileri görevlendirilir. Merkez yönetim kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Yönetim Kurulunun görevleri şunlardır: Merkez danışma kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez Müdürünün başkanlığında ayda en az bir defa toplanarak Merkezin etkinlikleri ve yönetimiyle ilgili konuları görüşüp karara bağlamak,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin teknik ve idari kadrolarının tespiti ve tayini ile ilgili konularda Merkez Müdürünün hazırlamış olduğu önerileri incelemek ve Rektöre teklif etmek; Merkez Müdürü tarafından hazırlanan ve Merkez Yönetim Kurulunun uygun gördüğü faaliyet raporu ve çalışma programını Senatoya sunmak,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "İlgili diğer mevzuatta belirtilen iş ve işlemleri Merkez Yönetim Kurulunun kararına göre yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez Danışma Kurulu; Merkez Yönetim Kurulu tarafından önerilen ve Rektör tarafından görevlendirilen Üniversite içindeki temsilci üyelerden ve istekleri halinde Üniversite dışından konuyla ilgili kamu ve özel sektördeki kuruluşların temsilcisi olan üyelerden oluşur. Merkez Danışma Kurulu en fazla on üyeden oluşur. Bunların görev süreleri üç yıldır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez Danışma Kurulunun görevi; yılda en az bir kez toplanarak, Merkezin çalışma alanına giren konularda görüşlerini açıklayıp, tartışılmasını sağlamak ve yeni çalışma konuları üzerinde görüş bildirmektir. Merkez çalışma ve uygulama birimleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezde kurulacak çalışma ve uygulama birimleri ve laboratuvar, atölye ve benzeri alt birimlerin kurulması; Merkez Müdürünün önerisi, Üniversite Yönetim Kurulunun olumlu görüşü ile Rektör tarafından kararlaştırılır. Birimlerde yer alacak öğretim ve araştırma elemanlarının görevlendirilmesi, Merkez Müdürünün önerisi Üniversite Yönetim Kurulunun olumlu görüşü ile Rektör tarafından yapılır. Merkez Müdürü bu elemanlardan birinin birim yöneticisi olmasını Rektöre önerir. Birim yöneticileri bağlı olduğu Merkez Müdürüne ve Merkez Yönetim Kuruluna karşı planlanmış ve onaylanmış birim çalışmalarından dolayı sorumludur.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Son Hükümler",
+      "maddeler": [
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "Yürürlük",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

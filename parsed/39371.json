@@ -1,0 +1,465 @@
+{
+  "meta": {
+    "mevzuatNo": "39371",
+    "rgTarihi": "12.02.2022",
+    "rgSayisi": "31748",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39371&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Mekatronik Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesi Mekatronik Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Danışma Kurulu: Merkezin Danışma Kurulunu,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez: İstanbul Teknik Üniversitesi Mekatronik Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Müdür: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Senato: İstanbul Teknik Üniversitesi Senatosunu,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amacı ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amacı; mekatronik konusunda bilimsel çalışmalar yapmak, bu konudaki çalışmaları organize etmek, konuyla ilgili lisans ve lisansüstü derslerinde laboratuvarlar oluşturarak uygulamalar yaptırmak suretiyle araştırmaya, eğitime ve bitirme ödevi ile tez çalışmalarına destek olmak, mekatronik konusunda sanayi kuruluşları ile ortak projeler ve eğitim programları geliştirmektir. Merkezin faaliyet alanları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez bünyesindeki laboratuvarlar ile mekatronik konusunda temel ve ileri teknikleri uygulamalı olarak öğretmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Sağlayacağı laboratuvar alt yapısı ile mekatronik konusunda uygulamalı projelerin, bitirme ödevlerinin, yüksek lisans ve doktora tezlerinin gerçekleştirilmesini sağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Üniversitenin değişik bölümlerinde ve fakültelerinde mekatronik ile ilgili müfredata bilimsel yönden destek olmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Mekatronik konusunda ulusal ve uluslararası yarışmalarda ve bilimsel etkinliklerde Üniversiteyi temsil edecek dernek, grup veya kişilere katkıda bulunmak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Bu alanda oluşacak bilgi birikimini Ülke genelinde yaygın erişime açmak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "İlgili mevzuat hükümleri kapsamında; benzer ulusal ve uluslararası kuruluşlarla iletişimde bulunarak, konferans, bilimsel gezi, çalıştay ve benzeri organizasyonlar düzenlemek."
+                },
+                {
+                  "harf": "f",
+                  "metin": "İlgili mevzuat hükümleri kapsamında; bu konuda araştırma ve geliştirme faaliyetleri yürüten sanayi kuruluşları ile ortak projeler geliştirmek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Müdür ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Müdür."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulu."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdür, Rektör tarafından Üniversitede tam gün çalışan öğretim üyeleri arasından üç yıl için görevlendirilir. Süresi dolan Müdür, aynı usulle yeniden görevlendirilebilir. Süresi tamamlanmadan ayrılan veya Üniversite dışında altı aydan fazla görevlendirilen Müdürün yerine, aynı usulle yeni Müdür görevlendirilir. Müdürün görevden alınmasında da aynı yöntem uygulanır. Müdüre çalışmalarında yardımcı olmak üzere, Üniversitede tam gün çalışan öğretim üyeleri arasından en çok üç kişi müdür yardımcısı olarak Rektör tarafından üç yıl süreyle görevlendirilir. Müdürün görevi bitiminde müdür yardımcılarının da görevleri sona erer.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Müdürün görevleri şunlardır: Yönetim Kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil etmek ve yönetmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulu ve Danışma Kuruluna başkanlık etmek."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezin çalışmalarının düzenli olarak yürütülmesini ve geliştirilmesini sağlamak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Yönetim Kurulu kararlarını uygulamak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezin idari işlerini yürütmek, personel ihtiyacını belirlemek ve Rektörlüğe sunmak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Her akademik yıl sonunda Merkezin çalışmalarını kapsayan bir faaliyet raporunu ve bir sonraki yıla ait çalışma programını hazırlayıp Yönetim Kuruluna sunmak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Merkezin amacı doğrultusunda, faaliyet alanları ile ilgili olarak görüşmeler yapmak, projeler hazırlamak ya da hazırlatmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulu; Müdür, müdür yardımcıları ve Üniversite öğretim üyeleri arasından üç yıl için Rektör tarafından görevlendirilen iki öğretim üyesinden oluşur. Süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılanların veya Üniversite dışında altı aydan fazla görevlendirilenlerin yerine kalan süreyi doldurmak üzere yeni üyeler aynı usulle görevlendirilir. Yönetim Kurulu Müdürün başkanlığında ayda en az bir defa üye tam sayısının salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır. Oyların eşitliği halinde Müdürün oyu yönünde çoğunluk sağlanmış sayılır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yönetim Kurulunun görevleri şunlardır: Danışma Kurulu ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezin etkinlikleri ve yönetimiyle ilgili konuları görüşüp karara bağlamak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Müdürün, Merkezin yönetimi ile ilgili getireceği bütün işlerde karar almak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Faaliyet raporu ve çalışma programını inceleyip Senatoya sunmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "İlgili mevzuat çerçevesinde verilen diğer görevleri yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Danışma Kurulu aşağıdaki üyelerden oluşur:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Üniversite öğretim üyeleri arasından Senatonun görevlendireceği beş öğretim üyesi ile Rektör tarafından görevlendirilen dört öğretim üyesi."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Üniversite içinden, Yönetim Kurulu tarafından önerilen ve Rektör tarafından görevlendirilen üyeler."
+                },
+                {
+                  "harf": "c",
+                  "metin": "İstekleri halinde Merkezin faaliyet alanları ile ilgili çalışmaları bulunan kamu ve/veya özel sektör kuruluşlarının Rektör tarafından görevlendirilen temsilcileri."
+                }
+              ]
+            },
+            {
+              "no": 2,
+              "metin": "Danışma Kurulu en fazla on beş üyeden oluşur. Üyeler üç yıl için görevlendirilir. Yılda en az bir defa Müdür başkanlığında toplanır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Danışma Kurulunun görevi; Merkezin faaliyetleri ile ilgili olarak Yönetim Kurulunun ihtiyaç duyduğu konularda değerlendirme yapmak ve istişarî nitelikte görüş ve önerilerde bulunmaktır.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "Çalışma birimleri",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezde kurulacak çalışma birimleri ile laboratuvar, atölye ve benzeri alt birimlerin kurulması; Müdürün önerisi, Üniversite Yönetim Kurulunun olumlu görüşü ile Rektör tarafından kararlaştırılır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Merkez çalışma birimleri ile laboratuvar, atölye ve benzeri alt birimlerin çalışmaları, Yönetim Kurulunca belirlenen esaslara göre yürütülür. Personel ihtiyacı",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır. Harcama yetkilisi",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini Müdüre devredebilir. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde, 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri ile Senato kararları uygulanır. Yürürlükten kaldırılan yönetmelik",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri ile Senato kararla",
+              "no": "2547",
+              "ad": "Kanun ve ilgili diğer mevzuat hükümleri ile Senato kararla",
+              "kaynakMadde": 14
+            }
+          ]
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "3/1/2010 tarihli ve 27451 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Mekatronik Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri ile Senato kararla",
+      "no": "2547",
+      "ad": "Kanun ve ilgili diğer mevzuat hükümleri ile Senato kararla",
+      "kaynakMadde": 14
+    }
+  ]
+}

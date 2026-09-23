@@ -1,0 +1,445 @@
+{
+  "meta": {
+    "mevzuatNo": "39066",
+    "rgTarihi": "26.11.2021",
+    "rgSayisi": "31671",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39066&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, bu organların görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, İstanbul Teknik Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez (İTÜ TÖMER): İstanbul Teknik Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Müdür: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Senato: İstanbul Teknik Üniversitesi Senatosunu,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Seviye Tespit Sınavı: Türkçe öğrenmek isteyenlerin Türkçe düzeylerini ölçmeye dayalı olarak yapılan sınavı,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Yeterlik Belgesi/Sertifikası: Farklı düzeylerde Türkçe öğretimi sonrasında yapılan sınava bağlı olarak verilen sertifikayı,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amaçları ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amaçları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amaçları şunlardır: Merkezin faaliyet alanları",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Türkçenin yabancı dil olarak öğretimine ilişkin yöntem ve tekniklerin geliştirilmesini ve uygulanmasını sağlamak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Dil öğretimi ve öğrenimi alanlarında disiplinler arası çalışmaların yapılmasını sağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Üniversite öğrenci ve öğretim elemanlarının yanı sıra, yurt içinden ya da yurt dışından başvuran kişilere yönelik Türkçe sertifika programları açmak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Avrupa dil pasaportuna uygun olarak Türkçe dil sınavları, seviye tespit sınavları ve yeterlilik sınavları yapmak, Türkçe yeterlik belgesi/sertifikası vermek."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Türkçe dilinin yanı sıra Türk dünyası kültür ve medeniyeti ile ilgili eğitimler düzenlemek."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Türkçenin anadil ve/veya yabancı dil olarak öğretimi konusunda araştırmalar yaparak etkili programlar ve materyaller geliştirmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Türk dilini yabancı dil olarak öğrenmek isteyenlere seviye belirleme sınavları hazırlamak ve düzenlemek, bunların sonucuna göre dili doğal ortamında kazandırmaya yönelik öğretim programları hazırlamak ve uygulamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Yurt içi ve yurt dışında dil sınavları ve dil yeterlilik sınavları düzenlemek, dil yeterlilik belgesi/sertifikası vermek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Türk dilinin öğretimi ile ilgili dilbilimsel yöntem ve teknikleri geliştirmek ve bunları uygulamak; Türkçe öğretiminin daha verimli hâle getirilmesi için Türkçe ile diğer dillerin öğretimi arasında karşılaştırmalı çalışmalar yapmak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Yurt içi ve yurt dışından Türkçe öğrenmek isteyen ülkemizdeki ve ülke dışındaki yabancılara yüz yüze, uzaktan eğitim veya çevrimiçi sistem ile Türkçe öğretmek."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Yurt dışında yaşayan Türk vatandaşlarının Türkçe öğrenebilmeleri için uyum kursları düzenlemek."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Türkiye ile diğer ülkelerin ilgili kurum ve kuruluşları arasında yapılan ikili anlaşmalara bağlı olarak ortak eğitim, öğretim, araştırma, uygulama ve yayın faaliyetlerinde bulunmak; bu ülkelerden gelecek olan öğrenci, eğitimci, akademisyen, büyükelçilik çalışanlarına, diplomatlara ve iş adamlarına Türkçe kursları düzenlemek."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Akademik Türkçe ile ilgili kurslar ve seminerler düzenlemek."
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Türkiye’yi ve Türk kültürünü tanıtmak amacıyla yurt içinde ve yurt dışında ilgili mevzuat hükümleri doğrultusunda birimler açmak; yurt içi ve yurt dışı gezileri düzenlemek."
+                },
+                {
+                  "harf": "h",
+                  "metin": "Türkçenin öğretimi konusunda programlar hazırlayıp yöntemler geliştirmek, bu konu ile ilgili yurt içindeki ve yurt dışındaki çeşitli kurum ve kuruluşlarla ortak çalışmalar yapmak."
+                },
+                {
+                  "harf": "ı",
+                  "metin": "Türkçeyi öğreten ve Türkiye’yi tanıtan film, ses ve görüntülü videolar ile projeler hazırlamak; kitap, dergi, bülten, rapor ve broşür yayımlamak."
+                },
+                {
+                  "harf": "i",
+                  "metin": "Yurt dışındaki üniversitelerin Türkoloji bölümü öğrencilerine ve Türkiye’deki üniversitelerin Türkçe Eğitimi, Türk Dili ve Edebiyatı Öğretmenliği, Türk Dili ve Edebiyatı, Yabancı Dil Eğitimi Bölümleri, Dilbilim, Batı Dilleri ve Edebiyatları, Doğu Dilleri ve Edebiyatları gibi bölümlerinin son sınıf öğrencilerine ve mezunlarına örgün ve uzaktan eğitim yoluyla meslekî tecrübeye yönelik kurslar, sertifika programları ve seminerler düzenlemek, bu öğrencilerin ve mezunların staj yapmalarına imkân sağlamak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Müdür",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Müdür."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdür, Rektör tarafından Merkezin faaliyet alanları kapsamında çalışmaları bulunan Üniversitenin tam zamanlı öğretim elemanları arasından üç yıl süre ile görevlendirilir. Süresi dolan Müdür tekrar görevlendirilebilir. Müdür gerektiğinde Rektör tarafından görevden alınabilir. Müdüre çalışmalarında yardımcı olmak üzere, Müdürün önerisi ve Rektörün onayıyla Üniversite öğretim elemanları arasından iki kişi üç yıl için müdür yardımcısı olarak görevlendirilir. Müdüre görevde bulunmadığı zamanlarda belirlediği müdür yardımcısı vekâlet eder. Müdürlüğe vekâlet kesintisiz olarak altı aydan fazla sürmez. Vekâletin altı aydan fazla sürmesi durumunda Müdürün görevi sona erer. Müdürün görevden alınması veya görev süresini doldurmadan görevden ayrılması durumunda aynı usulle yeni Müdür görevlendirilir. Müdürün görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdürün görevleri şunlardır: Yönetim Kurulu",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil etmek, Yönetim Kuruluna başkanlık etmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin amaçları doğrultusunda yapılacak çalışmaların düzenli bir biçimde yürütülmesini sağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Yönetim Kurulunu toplantıya davet etmek, Yönetim Kurulunun geçici gündemini belirlemek ve alınan kararları bu Yönetmelik çerçevesinde uygulamak ve uygulanmasını denetlemek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkez çalışanlarının görevlerini planlamak, koordine etmek ve denetlemek. Merkezin yıllık faaliyet raporunu ve bir sonraki yıla ait çalışma programını hazırlamak ve Yönetim Kurulunda onaylanmış şekli ile Rektörün onayına sunmak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezin ödenek ve personel ihtiyaçlarını gerekçesi ile birlikte Yönetim Kurulunun kararını müteakip Rektörün onayına sunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulu; Müdür, müdür yardımcıları ve Senato tarafından belirlenen esaslara göre Rektör tarafından üç yıl için Üniversite öğretim elemanları arasından görevlendirilecek dört üye ile birlikte toplam yedi üyeden oluşur. Görev süresi dolmadan ayrılan veya kesintisiz altı aydan fazla Üniversite dışında görevlendirilen bir üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir. Görevi sona eren üyeler tekrar görevlendirilebilir. Yönetim Kurulu, Müdürün çağrısı üzerine en az üç ayda bir salt çoğunlukla toplanır; kararlar toplantıya katılanların oy çokluğu ile alınır. Oyların eşitliği halinde Müdürün oyu yönünde çoğunluk sağlanmış kabul edilir. Yönetim Kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulunun görevleri şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezin eğitim-öğretim, bilimsel araştırma ve yayın faaliyetleri ile ilgili kararlar almak, bu faaliyetlere ilişkin esasları belirlemek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin yıllık eğitim-öğretim program ve takvimini inceleyerek karara bağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezde görev yapan öğretim elemanlarının yetiştirilmesi için planlar hazırlamak ve eğitim programları ile ilgili esasları düzenlemek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkezde birimler oluşturulması ile ilgili esasları belirlemek, eğitim, araştırma ve yayın çalışmaları için geçici çalışma grupları, eğitim koordinatörlükleri oluşturmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "Merkez birimleri",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdürün önerisi ve Yönetim Kurulu kararıyla Merkezin çalışma alanlarında Merkez birimleri kurulabilir. Merkez birimlerinin kuruluş ve çalışmaları Yönetim Kurulunca belirlenen esaslar uyarınca yürütülür. Merkez birimlerinde görevlendirilecek her türlü personelin görevlendirilmeleri Müdürün önerisi üzerine Rektör onayı ile yapılır. Personel ihtiyacı",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personelle karşılanır. Harcama yetkilisi",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin harcama yetkilisi Müdürdür. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde ilgili mevzuat hükümleri uygulanır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

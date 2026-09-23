@@ -1,0 +1,596 @@
+{
+  "meta": {
+    "mevzuatNo": "34310",
+    "rgTarihi": "26.02.2020",
+    "rgSayisi": "31051",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34310&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "(DETAM) YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Amaç, Kapsam, Dayanak ve Tanımlar",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Denizcilik Teçhizatı Test Uygulama ve Araştırma Merkezi (DETAM)’nin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik; İstanbul Teknik Üniversitesi Denizcilik Teçhizatı Test Uygulama ve Araştırma Merkezi (DETAM)’nin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "7",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Akademik Danışma Kurulu: İstanbul Teknik Üniversitesi Denizcilik Teçhizatı Test Uygulama ve Araştırma Merkezi (DETAM)’nin Akademik Danışma Kurulunu,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez (DETAM): İstanbul Teknik Üniversitesi Denizcilik Teçhizatı Test Uygulama ve Araştırma Merkezini,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkez birimi: Merkez içinde kurulan alt birimi,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkez çalışma/proje grubu: Merkez içinde kurulan çalışma/proje grubunu,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Müdür: Merkezin Müdürünü,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Rektör: İstanbul Teknik Üniversitesi Rektörünü,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Sektörel Danışma Kurulu: İstanbul Teknik Üniversitesi Denizcilik Teçhizatı Test Uygulama ve Araştırma Merkezi (DETAM)’nin Sektörel Danışma Kurulunu,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Senato: İstanbul Teknik Üniversitesi Senatosunu,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "h",
+                  "metin": "Yönetim Kurulu: Merkezin Yönetim Kurulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Merkezin Amaçları ve Faaliyet Alanları",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Merkezin amaçları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin amaçları şunlardır: Merkezin faaliyet alanları",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Denizcilik ve lojistik sektörlerinde sertifika gerektiren ürünler ile ilgili araştırma, geliştirme, test ve sertifikalandırma konusunda bütün boyutlarıyla ilgili çalışmalar ve araştırmalar yapmak, projeler üretmek, raporlar ve yayınlar hazırlamak, ulusal, bölgesel ve küresel gelişmeleri takip etmek, veri tabanları oluşturmak, Ar-Ge faaliyetleri ve sertifikasyon testleri yapmak, testlere dayalı ürün araştırma ve geliştirme çalışmaları yapmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin faaliyet alanlarında akademik ve sektörel çalışmalara test ve mühendislik hizmetleri sağlamak, test standartlarını incelemek, hazırlamak, nicel ve nitel olarak katkı sağlamak amacıyla ulusal ve uluslararası ilgili kurum ve kuruluşlarla akademik ve sektörel alanlarda işbirliği yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin faaliyet alanları şunlardır:",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Türkiye’de denizcilik, ulaştırma, ambalaj ve benzeri sektörlerin test ve sertifikasyon ihtiyaçlarını tespit etmek, test hizmetleri sunmak, testlere dayalı ürün araştırma ve geliştirme çalışmaları yapmak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Gerek duyulan test ve sertifikasyon kabiliyetlerinin artırımı için proje çalışmalarında bulunmak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Akademik ve sektörel çalışmalarda testlere dayalı ürün araştırma ve geliştirme çalışmalarına destek vermek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Geliştirilmiş ürünlerin, çalışacağı ortamda değerlendirilebilmesi amacıyla ortam simülasyonu testleri gerçekleştirmek."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Mühendislik analiz yöntemleri ile ürünleşme süreçlerine destek hizmetleri sunmak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Ürün geliştirme safhalarındaki tasarım, geliştirme, test ve sertifikasyon süreçleri konularında seminer, çalıştay, sempozyum, konferans, kongre veya fuarlar düzenlemek, eğitim ve tanıtım faaliyetlerinde bulunmak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Ürün test ve sertifikasyonu sağlayan ulusal ve uluslararası kuruluşlar ile işbirliği yapmak."
+                },
+                {
+                  "harf": "g",
+                  "metin": "İlgili mevzuat hükümleri ve Merkezin yeterlilikleri doğrultusunda Merkezin yetkilendirilmesine yönelik çalışmalarda ve belgelendirme faaliyetlerinde bulunmak."
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Yurt dışı araştırma ve test merkezleri ile ortak çalışmalar yapmak."
+                },
+                {
+                  "harf": "h",
+                  "metin": "Türkiye’deki diğer akademik laboratuvarların sektörel hizmetlerde kullanımı amacıyla sözleşmeler düzenlemek, plan ve koordinasyon faaliyetlerinde bulunmak."
+                },
+                {
+                  "harf": "ı",
+                  "metin": "Merkezin yeterlilikleri doğrultusunda araştırma yapmak, veri tabanları oluşturmak ve raporlar yayımlamak."
+                },
+                {
+                  "harf": "i",
+                  "metin": "Merkezin amaçları kapsamında ulusal ve uluslararası standartlar konusunda çalışma ve faaliyetlerde bulunmak."
+                },
+                {
+                  "harf": "j",
+                  "metin": "Merkezin amaçlarına uygun diğer çalışmaları yapmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Merkezin Yönetim Organları ve Görevleri",
+      "maddeler": [
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "Merkezin yönetim organları",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin yönetim organları şunlardır: Müdür",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Müdür."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Yönetim Kurulu."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Akademik Danışma Kurulu."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Sektörel Danışma Kurulu."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdür, Üniversitede tam gün çalışan öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür aynı usulle tekrar görevlendirilebileceği gibi gerektiğinde görev süresi dolmadan Rektör tarafından görevden alınabilir. Müdür, Merkezin tüm faaliyetlerinden Rektöre karşı sorumludur. Müdürün görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Müdürün görevleri şunlardır: Müdür yardımcıları ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezi temsil etmek."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkez ve bağlı birimlerinin bu Yönetmelikte belirlenen amaçlar doğrultusunda düzenli ve etkin çalışmasını sağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Merkezi geliştirmek için hedefler belirlemek."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Yönetim Kurulu ve Danışma Kurullarının gündemlerini oluşturmak, üyeleri toplantıya çağırmak, Yönetim Kuruluna başkanlık etmek ve Yönetim Kurulunda alınan kararları uygulamak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezin yıllık faaliyet raporunu ve sonraki yıla ait yıllık çalışma programını hazırlamak ve Rektörlüğe sunmak."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Yapılan çalışmalar hakkında Yönetim Kurulunu bilgilendirmek."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Merkezde görev alacak her türlü akademik, idari, teknik ve diğer personel ihtiyacını ve görevlendirilmeleriyle ilgili teklifleri Rektörlüğe sunmak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Üniversitenin öğretim elemanları arasından Müdür tarafından belirlenen görevleri yerine getirmek üzere, Müdürün önerisi ve Rektörün onayı ile en fazla üç kişi müdür yardımcısı olarak görevlendirilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Müdür yardımcılarının görev süresi Müdürün görev süresi ile sınırlıdır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Görev süresi biten müdür yardımcısı aynı yöntemle yeniden görevlendirilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Müdür görevi başında olmadığı zaman yardımcılarından biri Müdüre vekâlet eder.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Müdür yardımcıları, Merkezde yürütülen işler ile Müdür tarafından verilen faaliyetlerin yürütülmesinden ve Müdür tarafından görevlendirilmek suretiyle Merkez birimlerinin yönetiminden sorumludurlar. Yönetim Kurulu",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulu; Müdürün başkanlığında müdür yardımcıları ve Merkezin çalışma alanları ile ilgili olarak Müdürün önerisi üzerine Rektör tarafından üç yıl süreyle görevlendirilen beş üye dahil olmak üzere en fazla dokuz kişiden oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Yönetim Kurulu üyelerinden en az üçü Üniversite dışından Merkezin faaliyet konularıyla ilgili alanlarda çalışan kişiler arasından belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Görev süresi dolan üye aynı usul ile yeniden görevlendirilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Yönetim Kurulu, Müdürün çağrısı üzerine en az altı ayda bir toplanır.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Toplantılar salt çoğunlukla yapılır ve kararlar toplantıya katılanların oy çokluğu ile alınır. Oyların eşit olması halinde Müdürün oyu yönünde karar alınmış sayılır.",
+              "bentler": []
+            },
+            {
+              "no": 6,
+              "metin": "Toplantılara katılım video konferans usulü veya internet üzerinden de yapılabilir. Yönetim Kurulunun görevleri",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yönetim Kurulunun görevleri şunlardır: Danışma Kurulları ve görevleri",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkezin çalışma ve yönetimi ile ilgili konularda kararlar almak."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin yıllık faaliyet raporunu ve yıllık çalışma programını görüşerek karara bağlamak."
+                },
+                {
+                  "harf": "c",
+                  "metin": "Araştırma, eğitim-öğretim, uygulama, danışmanlık, yayım ve diğer çalışma alanlarına ilişkin konularda karar almak."
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Merkezde görevli personelin hizmet içi eğitim programlarını planlamak."
+                },
+                {
+                  "harf": "d",
+                  "metin": "Merkezin bünyesinde kurulacak olan birimler ile çalışma ve proje gruplarını oluşturmak, çalışma usul ve esaslarını belirlemek."
+                },
+                {
+                  "harf": "e",
+                  "metin": "Merkezin yatırım plan ve programlarını hazırlamak."
+                },
+                {
+                  "harf": "f",
+                  "metin": "Merkezde ücret karşılığında sunulacak hizmetler ile ilgili fiyatlandırma ve ödeme usullerine ilişkin önerileri Rektöre sunmak."
+                },
+                {
+                  "harf": "g",
+                  "metin": "Yurt içi ve yurt dışındaki kamu ve özel kuruluşlar ile ortaklaşa yürütülecek çalışmaların usul ve esaslarını tespit etmek."
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Müdürün gündeme getirdiği diğer konularda kararlar almak."
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin Danışma Kurulları; Akademik Danışma Kurulu ve Sektörel Danışma Kurulundan oluşur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Akademik ve Sektörel Danışma Kurulları, Yönetim Kurulunun önerisiyle Üniversite içinden veya dışından Merkezin faaliyet alanıyla ilgili konularda deneyimli kişiler arasından Rektör tarafından görevlendirilen en fazla on beşer üyeden oluşur. Akademik ve Sektörel Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Akademik Danışma Kurulu ve Sektörel Danışma Kurulu, Merkezin çalışmalarını değerlendirir ve yeni çalışmalar konusunda görüş ve önerilerini Yönetim Kuruluna bildirir.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "Akademik Danışma Kurulunun amacı, Merkezde yapılan çalışmaları akademik bakımdan değerlendirmek ve ülke menfaatleri doğrultusunda Merkezde yürütülen veya yürütülmesi gereken araştırma ve geliştirme çalışmaları bakımından stratejik ve pratik tavsiyelerde bulunmaktır.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Sektörel Danışma Kurulunun amacı, Merkezde yapılan çalışmaların sektöre katkısını ve ilgili sektörlerdeki eksiklikleri değerlendirerek ülke menfaatleri doğrultusunda yapılması gereken yeni testler, uygulamalar, araştırma ve geliştirme çalışmaları ile test hizmetleri bakımından stratejik ve pratik tavsiyelerde bulunmaktır.",
+              "bentler": []
+            },
+            {
+              "no": 6,
+              "metin": "Danışma Kurulları yılda bir kez olağan olarak toplanır. Müdür, gerekli gördüğü takdirde her bir Danışma Kurulunu toplantıya çağırabilir. Danışma Kurullarının toplantılarında salt çoğunluk aranmaz. Toplantılara katılım video konferans usulü veya internet üzerinden de yapılabilir.",
+              "bentler": []
+            },
+            {
+              "no": 7,
+              "metin": "Akademik Danışma Kurulunda olan bir üye Sektörel Danışma Kurulunda da görev alabilir. Merkezin birimleri ve çalışma grupları",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Gerektiğinde Merkezin çalışma alanına giren konularda iş bölümünü sağlamak üzere; Müdürün önerisi, Yönetim Kurulu kararı veya Akademik ve Sektörel Danışma Kurullarının tavsiyeleri uyarınca;",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Merkez amaçları doğrultusunda yürütülen faaliyetlerdeki ihtiyaçlara göre Merkez bünyesinde Tehlikeli Madde Ambalaj Testleri Birimi, Performans Testleri Birimi, Merkez Araştırma ve Geliştirme Birimi, Kalite Koordinasyon Birimi ve benzeri birimler kurulabilir."
+                },
+                {
+                  "harf": "b",
+                  "metin": "Merkezin amaçları doğrultusunda detay araştırma ve çalışma gerektiren konularda çalışma veya proje grupları kurulabilir."
+                }
+              ]
+            },
+            {
+              "no": 2,
+              "metin": "Merkez birimlerinde görevlendirilmiş olan kişiler alt çalışma grupları veya proje gruplarında da görevlendirilebilirler.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "Personel ihtiyacı",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkezin akademik, idari ve teknik personel ihtiyacı, Müdürün teklifi üzerine, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır. Ekipman ve demirbaşlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Merkez tarafından desteklenen araştırmalar kapsamında alınan her türlü alet, ekipman, yazılım, test cihazları ve kabinleri, araçlar ve taşıtlar ile Merkezin kullanımı için tedarik edilen diğer tüm taşınmaz mallar Merkezin kullanımına tahsis edilir. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde ilgili mevzuat hükümleri uygulanır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 18,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 19,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "7",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}

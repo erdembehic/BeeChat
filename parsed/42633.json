@@ -1,0 +1,411 @@
+{
+  "meta": {
+    "mevzuatNo": "42633",
+    "rgTarihi": "05.10.2025",
+    "rgSayisi": "33038",
+    "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42633&MevzuatTur=8&MevzuatTertip=5",
+    "baslik": "PROGRAMI EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ"
+  },
+  "bolumler": [
+    {
+      "sira": 1,
+      "baslik": "BİRİNCİ BÖLÜM",
+      "altBaslik": "Başlangıç Hükümleri",
+      "maddeler": [
+        {
+          "no": 1,
+          "gecici": false,
+          "baslik": "Amaç",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmeliğin amacı, İstanbul Teknik Üniversitesinin yurt dışındaki yükseköğretim kurumları ile birlikte yürüttüğü çift diplomaya yönelik uluslararası ortak lisans programları kapsamında İngilizce hazırlık programında yürütülen eğitim-öğretim esaslarını düzenlemektir. Kapsam",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 2,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, İstanbul Teknik Üniversitesinin çift diplomaya yönelik uluslararası ortak lisans programlarına kabul edilen öğrencilerin devam etmeleri gereken İngilizce hazırlık programı ile ilgili hususları ve eğitim-öğretimine ilişkin hükümleri kapsar. Dayanak",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 3,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar",
+              "bentler": []
+            }
+          ],
+          "atiflar": [
+            {
+              "tip": "tarihli_sayili",
+              "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+              "tarih": "4/11/1981",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "referansMadde": "14",
+              "kaynakMadde": 3
+            },
+            {
+              "tip": "sayili",
+              "ham": "2547 sayılı Yükseköğretim Kanunu",
+              "no": "2547",
+              "ad": "Yükseköğretim Kanunu",
+              "kaynakMadde": 3
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte geçen; ifade eder.",
+              "bentler": [
+                {
+                  "harf": "a",
+                  "metin": "Akademik takvim: Eğitim-öğretim yılının başlama ve bitiş tarihleri ile kayıt ve sınav tarihleri gibi önemli tarihleri içeren takvimi,"
+                },
+                {
+                  "harf": "b",
+                  "metin": "Düzey belirleme sınavı: Öğrencinin İngilizce hazırlık programı eğitimine hangi düzeyde devam edeceğini belirleyen sınavı,"
+                },
+                {
+                  "harf": "c",
+                  "metin": "Eğitim-öğretim yılı: Her biri en az on dört haftalık güz ve bahar yarıyıllarından oluşan akademik yılı,"
+                },
+                {
+                  "harf": "ç",
+                  "metin": "Senato: İstanbul Teknik Üniversitesi Senatosunu,"
+                },
+                {
+                  "harf": "d",
+                  "metin": "Uluslararası ortak lisans programı (UOLP): Çift diplomaya yönelik uluslararası ortak lisans programını,"
+                },
+                {
+                  "harf": "e",
+                  "metin": "Üniversite: İstanbul Teknik Üniversitesini,"
+                },
+                {
+                  "harf": "f",
+                  "metin": "Yarıyıl: Bir eğitim-öğretim yılındaki güz veya bahar dönemini,"
+                },
+                {
+                  "harf": "g",
+                  "metin": "Yüksekokul: İstanbul Teknik Üniversitesi Yabancı Diller Yüksekokulunu,"
+                },
+                {
+                  "harf": "ğ",
+                  "metin": "Yüksekokul Kurulu: Yabancı Diller Yüksekokulu Kurulunu,"
+                },
+                {
+                  "harf": "h",
+                  "metin": "Yüksekokul Yönetim Kurulu: Yabancı Diller Yüksekokulu Yönetim Kurulunu,"
+                }
+              ]
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 2,
+      "baslik": "İKİNCİ BÖLÜM",
+      "altBaslik": "Öğrenci Kabulü ve İngilizce Yeterlik",
+      "maddeler": [
+        {
+          "no": 5,
+          "gecici": false,
+          "baslik": "Öğrenci kabulü",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Üniversiteye kabul edilen UOLP öğrencilerinden, İngilizce dil bilgilerinin yeterli olduğunu Senato tarafından kabul edilen bir dil sınavı belgesi ile kanıtlayamayan öğrenciler zorunlu İngilizce hazırlık programına alınırlar.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Üniversiteye kabul edilen UOLP öğrencilerinden İngilizce dil düzeyi yeterli bulunanlar kabul edildikleri uluslararası ortak lisans programına başlar. İngilizce yeterlik",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 6,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Üniversiteye kabul edilen UOLP hazırlık öğrencilerinin İngilizce dil bilgilerinin yeterliği ortak üniversitelerle yapılan anlaşmalar yoluyla belirlenen ve Senato tarafından kabul edilen yabancı dil sınavları ile belirlenir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "UOLP İngilizce hazırlık programında başarı ve değerlendirmeye ilişkin esaslar her eğitim-öğretim yılı güz dönemi başında Yüksekokul Kurulu tarafından belirlenerek ilan edilir. Dış sınavlarda İngilizce yeterlik",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 7,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "UOLP öğrencilerinin İngilizce dil yeterliğini gösteren uluslararası sınavlar ve minimum puanları karşılıklı protokoller ile belirlenir ve Senato tarafından onaylanması ile yürürlüğe girer. Gerekli görüldüğünde, alınması gereken minimum puanlar üniversitelerle karşılıklı olarak yapılan protokoller ile yeniden belirlenir ve Senato tarafından onaylanması ile yürürlüğe girer.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Üniversiteye kabul edildikleri eğitim-öğretim yılında, uluslararası sınavlardan birinden başarılı olan UOLP hazırlık öğrencileri, sınav sonuç belgelerini ibraz etmeleri durumunda o dönem içerisinde İngilizce hazırlık öğretimine devam etmeyebilir ve takip eden yarıyılda fakültelerinde öğrenime başlar.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "İbraz edilen sınav sonuçlarının geçerliliği kabul edilmeden önce Üniversite söz konusu sonuçlar hakkında araştırma yapar.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 3,
+      "baslik": "ÜÇÜNCÜ BÖLÜM",
+      "altBaslik": "Eğitim-Öğretime İlişkin Esaslar",
+      "maddeler": [
+        {
+          "no": 8,
+          "gecici": false,
+          "baslik": "İngilizce hazırlık programı ve düzey belirleme",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Dil yeterliğini belgeleyemeyen UOLP öğrencileri, dil beceri düzeylerinin saptanabilmesi için düzey belirleme sınavına alınarak düzeylerine göre; program 4 (orta-üstü/upper-intermediate), program 3 (orta/intermediate), program 2 (orta-altı/pre-intermediate), program 1 (başlangıç/elementary) olmak üzere dört gruba ayrılırlar.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Düzeylerin haftalık ders saatleri ve düzey değiştirme kuralları her eğitim-öğretim yılının başında Yüksekokul Kurulu tarafından belirlenerek duyurulur.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Yaz öğretimi açılması, Yükseköğretim Kurulunun izni ile şekli, süresi ve yürütülmesi ise Senato tarafından belirlenen esaslar ile düzenlenir. Eğitim-öğretim süresi ve devam zorunluluğu",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 9,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Yüksekokul tarafından yürütülen UOLP İngilizce hazırlık programının azami süresi iki yıldır. Zorunlu ders ve uygulamalar, öğrencilerin Üniversiteye kabulünü takip eden iki yarıyılda verilir.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "UOLP İngilizce hazırlık programı öğrencileri, hazırlık programında yürütülen ders ve uygulamaların en az %85'ine katılmakla yükümlüdür. Bu yükümlülüğü yerine getirmeyen öğrenciler devamsızlıkları nedeniyle başarısız sayılır ve derslere devam hakkını kaybederler.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Derslere devam edemeyen veya sınavlara giremeyen öğrenciler bu yöndeki mazeretlerini belgelendirmek zorundadırlar. Öğrenci mazeretleri ilgili mevzuat hükümlerine göre değerlendirilir. Bu esaslara göre mazeretleri kabul edilen öğrencilerin mazeretli olarak geçirdikleri süre öğrencinin devamsızlık süresinden düşülür.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "UOLP İngilizce hazırlık programı öğrencilerinin almış oldukları raporların toplam süresi, ikinci fıkrada belirtilen bir yarıyılda katılmakla yükümlü oldukları ders ve uygulamaların toplam süresinin %10’unu geçemez. Değerlendirme ve başarı",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 10,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrencilerin UOLP İngilizce hazırlık programındaki eğitim-öğretimleri süresince yerine getirecekleri yükümlülükler, her eğitim-öğretim yılının başında Yüksekokul Kurulu tarafından belirlenerek duyurulur.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Bir düzeyin başarıyla tamamlanabilmesi için öğrencilerin o düzeye ilişkin devam yükümlülüklerini, sınav, kısa sınav, ödev ve benzeri çalışmaları kapsayan düzey içi yükümlülüklerini yerine getirmiş ve her düzey için belirlenmiş olan başarı ölçütlerini sağlamış olmaları koşulu aranır.",
+              "bentler": []
+            },
+            {
+              "no": 3,
+              "metin": "Üniversiteye kabul edildikleri eğitim-öğretim yılı güz dönemi içerisinde veya sonunda, Senato tarafından kabul edilen sınavların birinden yeterli puanı alan UOLP İngilizce hazırlık programı öğrencileri, bahar döneminde fakültelerinde derslere başlarlar. Senato tarafından kabul edilen sınavlardan birinde başarısız olanlar ise güz döneminde devam koşulunu yerine getirmiş olmak şartıyla, bahar döneminde eğitim görmeye devam ederler. Bahar dönemi veya yaz öğretimi sonunda İngilizce dil yeterliklerini Senato tarafından kabul edilen bir dil sınavı belgesi ile kanıtlayan öğrenciler izleyen güz döneminde fakültelerinde derslere başlarlar.",
+              "bentler": []
+            },
+            {
+              "no": 4,
+              "metin": "İngilizce hazırlık programındaki bir yıllık öğrenimleri sonunda İngilizce yeterliklerine ilişkin yeterli puanı alamayan UOLP öğrencileri, izleyen eğitim-öğretim yılında kayıtlı oldukları lisans programı için belirlenmiş olan öğrenim ücretini ödemeleri koşulu ile İngilizce hazırlık programına yeniden kaydolabilirler ve kabul edilen sınavlardan birinden başarılı olduklarında, takip eden yarıyılda fakültelerinde öğrenime başlarlar.",
+              "bentler": []
+            },
+            {
+              "no": 5,
+              "metin": "Hazırlık programını iki yıl içinde başarı ile tamamlayamayan öğrenciler isterlerse, 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmeliğin 9 uncu maddesi uyarınca, İngilizce öğretimin zorunlu olmadığı üniversitelere yatay geçiş için başvuru yapabilirler. Yatay geçiş için başvuruda bulunmayan adayların Üniversite ile ilişikleri kesilir. Kayıt yenileme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 11,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "UOLP İngilizce hazırlık programına kayıt olan öğrenciler, kayıt olunan yıl için hesaplanan öğrenim ücretini akademik takvimde belirtilen tarihlerde ödemekle yükümlüdürler.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "Öğrenim ücretini yatırmayan öğrencilerin kayıt işlemleri tamamlanmış sayılmaz ve bu öğrenciler hakkında 11/7/2016 tarihli ve 29767 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Lisans Eğitim ve Öğretim Yönetmeliğine göre işlem yapılır.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    },
+    {
+      "sira": 4,
+      "baslik": "DÖRDÜNCÜ BÖLÜM",
+      "altBaslik": "Çeşitli ve Son Hükümler",
+      "maddeler": [
+        {
+          "no": 12,
+          "gecici": false,
+          "baslik": "İzinli sayılma",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "İzinli sayılma işlemleri, İstanbul Teknik Üniversitesi Lisans Eğitim ve Öğretim Yönetmeliği hükümlerine göre yapılır.",
+              "bentler": []
+            },
+            {
+              "no": 2,
+              "metin": "UOLP İngilizce hazırlık programına ilk defa kayıt yaptıran öğrencilere bir yarıyıl izin verilmez. Bu öğrenciler, İngilizce hazırlık eğitiminin sürekliliği açısından eğitim-öğretim yılının başlangıcından itibaren iki yarıyıl izin alabilirler. Disiplin",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 13,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Öğrencilerin disiplin iş ve işlemleri; 2547 sayılı Kanunun 54 üncü maddesi hükümlerine göre yürütülür. Hüküm bulunmayan haller",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 14,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelikte hüküm bulunmayan hallerde, 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır. Yürürlükten kaldırılan yönetmelik",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 15,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "21/11/2022 tarihli ve 32020 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Çift Diplomaya Yönelik Uluslararası Ortak Lisans İngilizce Hazırlık Programı Eğitim ve Öğretim Yönetmeliği yürürlükten kaldırılmıştır. Yürürlük",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 16,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        },
+        {
+          "no": 17,
+          "gecici": false,
+          "baslik": "",
+          "fikralar": [
+            {
+              "no": 1,
+              "metin": "Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+              "bentler": []
+            }
+          ],
+          "atiflar": []
+        }
+      ]
+    }
+  ],
+  "atiflar": [
+    {
+      "tip": "tarihli_sayili",
+      "ham": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu",
+      "tarih": "4/11/1981",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "referansMadde": "14",
+      "kaynakMadde": 3
+    },
+    {
+      "tip": "sayili",
+      "ham": "2547 sayılı Yükseköğretim Kanunu",
+      "no": "2547",
+      "ad": "Yükseköğretim Kanunu",
+      "kaynakMadde": 3
+    }
+  ]
+}
