@@ -1,5 +1,23 @@
 [
   {
+    "mevzuatNo": "1136",
+    "baslik": "Avukatlık Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 14,
+    "maddeSayisi": 232,
+    "atifSayisi": 38
+  },
+  {
+    "mevzuatNo": "1416",
+    "baslik": "Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 1,
+    "maddeSayisi": 27,
+    "atifSayisi": 9
+  },
+  {
     "mevzuatNo": "1739",
     "baslik": "Milli Eğitim Temel Kanunu",
     "tur": "Kanun",
@@ -7,6 +25,33 @@
     "bolumSayisi": 13,
     "maddeSayisi": 68,
     "atifSayisi": 12
+  },
+  {
+    "mevzuatNo": "193",
+    "baslik": "Gelir Vergisi Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 33,
+    "maddeSayisi": 232,
+    "atifSayisi": 160
+  },
+  {
+    "mevzuatNo": "2004",
+    "baslik": "İcra ve İflas Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 19,
+    "maddeSayisi": 398,
+    "atifSayisi": 60
+  },
+  {
+    "mevzuatNo": "233",
+    "baslik": "Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararname",
+    "tur": "KHK",
+    "kabulTarihi": "",
+    "bolumSayisi": 17,
+    "maddeSayisi": 77,
+    "atifSayisi": 37
   },
   {
     "mevzuatNo": "2547",
@@ -18,6 +63,24 @@
     "atifSayisi": 160
   },
   {
+    "mevzuatNo": "2802",
+    "baslik": "Hakimler ve Savcılar Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 29,
+    "maddeSayisi": 167,
+    "atifSayisi": 69
+  },
+  {
+    "mevzuatNo": "2886",
+    "baslik": "Devlet İhale Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 9,
+    "maddeSayisi": 100,
+    "atifSayisi": 16
+  },
+  {
     "mevzuatNo": "2914",
     "baslik": "Yükseköğretim Personel Kanunu",
     "tur": "Kanun",
@@ -27,6 +90,132 @@
     "atifSayisi": 43
   },
   {
+    "mevzuatNo": "3213",
+    "baslik": "Maden Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 5,
+    "maddeSayisi": 108,
+    "atifSayisi": 76
+  },
+  {
+    "mevzuatNo": "3308",
+    "baslik": "Mesleki Eğitim Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 11,
+    "maddeSayisi": 61,
+    "atifSayisi": 26
+  },
+  {
+    "mevzuatNo": "3359",
+    "baslik": "Sağlık Hizmetleri Temel Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "7/5/1987",
+    "bolumSayisi": 1,
+    "maddeSayisi": 26,
+    "atifSayisi": 29
+  },
+  {
+    "mevzuatNo": "3466",
+    "baslik": "Uzman Jandarma Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 5,
+    "maddeSayisi": 44,
+    "atifSayisi": 21
+  },
+  {
+    "mevzuatNo": "3713",
+    "baslik": "Terörle Mücadele Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 5,
+    "maddeSayisi": 45,
+    "atifSayisi": 84
+  },
+  {
+    "mevzuatNo": "375",
+    "baslik": "Kanun Hükmünde Kararname (375)",
+    "tur": "KHK",
+    "kabulTarihi": "",
+    "bolumSayisi": 1,
+    "maddeSayisi": 74,
+    "atifSayisi": 185
+  },
+  {
+    "mevzuatNo": "399",
+    "baslik": "Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi Hakkında KHK",
+    "tur": "KHK",
+    "kabulTarihi": "",
+    "bolumSayisi": 10,
+    "maddeSayisi": 73,
+    "atifSayisi": 43
+  },
+  {
+    "mevzuatNo": "4483",
+    "baslik": "Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 1,
+    "maddeSayisi": 24,
+    "atifSayisi": 8
+  },
+  {
+    "mevzuatNo": "4505",
+    "baslik": "Sosyal Güvenlikle İlgili Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+    "tur": "Kanun",
+    "kabulTarihi": "29/4/1999",
+    "bolumSayisi": 1,
+    "maddeSayisi": 7,
+    "atifSayisi": 7
+  },
+  {
+    "mevzuatNo": "4688",
+    "baslik": "Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 21,
+    "maddeSayisi": 66,
+    "atifSayisi": 35
+  },
+  {
+    "mevzuatNo": "4721",
+    "baslik": "Türk Medeni Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 519,
+    "maddeSayisi": 1032,
+    "atifSayisi": 6
+  },
+  {
+    "mevzuatNo": "4734",
+    "baslik": "Kamu İhale Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 15,
+    "maddeSayisi": 94,
+    "atifSayisi": 64
+  },
+  {
+    "mevzuatNo": "4735",
+    "baslik": "Kamu İhale Sözleşmeleri Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 10,
+    "maddeSayisi": 49,
+    "atifSayisi": 25
+  },
+  {
+    "mevzuatNo": "4857",
+    "baslik": "İş Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "22/5/2003",
+    "bolumSayisi": 9,
+    "maddeSayisi": 133,
+    "atifSayisi": 73
+  },
+  {
     "mevzuatNo": "5018",
     "baslik": "Kamu Malî Yönetimi ve Kontrol Kanunu",
     "tur": "Kanun",
@@ -34,5 +223,203 @@
     "bolumSayisi": 21,
     "maddeSayisi": 108,
     "atifSayisi": 32
+  },
+  {
+    "mevzuatNo": "506",
+    "baslik": "Sosyal Sigortalar Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 1,
+    "maddeSayisi": 78,
+    "atifSayisi": 16
+  },
+  {
+    "mevzuatNo": "5216",
+    "baslik": "Büyükşehir Belediyesi Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 7,
+    "maddeSayisi": 36,
+    "atifSayisi": 29
+  },
+  {
+    "mevzuatNo": "5237",
+    "baslik": "Türk Ceza Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 49,
+    "maddeSayisi": 345,
+    "atifSayisi": 19
+  },
+  {
+    "mevzuatNo": "5302",
+    "baslik": "İl Özel İdaresi Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 18,
+    "maddeSayisi": 78,
+    "atifSayisi": 32
+  },
+  {
+    "mevzuatNo": "5326",
+    "baslik": "Kabahatler Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 6,
+    "maddeSayisi": 48,
+    "atifSayisi": 34
+  },
+  {
+    "mevzuatNo": "5393",
+    "baslik": "Belediye Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 21,
+    "maddeSayisi": 99,
+    "atifSayisi": 70
+  },
+  {
+    "mevzuatNo": "5411",
+    "baslik": "Bankacılık Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 35,
+    "maddeSayisi": 205,
+    "atifSayisi": 197
+  },
+  {
+    "mevzuatNo": "5434",
+    "baslik": "Türkiye Cumhuriyeti Emekli Sandığı Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 9,
+    "maddeSayisi": 181,
+    "atifSayisi": 79
+  },
+  {
+    "mevzuatNo": "5510",
+    "baslik": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "31/5/2006",
+    "bolumSayisi": 23,
+    "maddeSayisi": 222,
+    "atifSayisi": 487
+  },
+  {
+    "mevzuatNo": "6102",
+    "baslik": "Türk Ticaret Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 78,
+    "maddeSayisi": 1550,
+    "atifSayisi": 67
+  },
+  {
+    "mevzuatNo": "6197",
+    "baslik": "Eczacılar ve Eczaneler Hakkında Kanun",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 6,
+    "maddeSayisi": 53,
+    "atifSayisi": 8
+  },
+  {
+    "mevzuatNo": "6245",
+    "baslik": "Harcırah Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 1,
+    "maddeSayisi": 70,
+    "atifSayisi": 58
+  },
+  {
+    "mevzuatNo": "6283",
+    "baslik": "Hemşirelik Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 1,
+    "maddeSayisi": 19,
+    "atifSayisi": 3
+  },
+  {
+    "mevzuatNo": "631",
+    "baslik": "Memurlar ve Diğer Kamu Görevlilerinin Mali ve Sosyal Haklarında Düzenlemeler İle Bazı Kanun ve KHK",
+    "tur": "KHK",
+    "kabulTarihi": "",
+    "bolumSayisi": 1,
+    "maddeSayisi": 18,
+    "atifSayisi": 26
+  },
+  {
+    "mevzuatNo": "6331",
+    "baslik": "İş Sağlığı ve Güvenliği Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 5,
+    "maddeSayisi": 49,
+    "atifSayisi": 40
+  },
+  {
+    "mevzuatNo": "6356",
+    "baslik": "Sendikalar ve Toplu İş Sözleşmesi Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 12,
+    "maddeSayisi": 90,
+    "atifSayisi": 52
+  },
+  {
+    "mevzuatNo": "657",
+    "baslik": "Devlet Memurları Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "14/7/1965",
+    "bolumSayisi": 1,
+    "maddeSayisi": 328,
+    "atifSayisi": 324
+  },
+  {
+    "mevzuatNo": "663",
+    "baslik": "Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararname",
+    "tur": "KHK",
+    "kabulTarihi": "",
+    "bolumSayisi": 10,
+    "maddeSayisi": 77,
+    "atifSayisi": 62
+  },
+  {
+    "mevzuatNo": "6698",
+    "baslik": "Kişisel Verilerin Korunması Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 7,
+    "maddeSayisi": 36,
+    "atifSayisi": 22
+  },
+  {
+    "mevzuatNo": "6762",
+    "baslik": "Türk Ticaret Kanunu (Mülga)",
+    "tur": "Kanun(Mülga)",
+    "kabulTarihi": "",
+    "bolumSayisi": 55,
+    "maddeSayisi": 1460,
+    "atifSayisi": 24
+  },
+  {
+    "mevzuatNo": "7201",
+    "baslik": "Tebligat Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 1,
+    "maddeSayisi": 66,
+    "atifSayisi": 7
+  },
+  {
+    "mevzuatNo": "926",
+    "baslik": "Türk Silahlı Kuvvetleri Personel Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "bolumSayisi": 39,
+    "maddeSayisi": 255,
+    "atifSayisi": 324
   }
 ]

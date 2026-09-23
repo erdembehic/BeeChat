@@ -30,5 +30,349 @@
     "kabulTarihi": "14/6/1973",
     "dosya": "1739_Milli_Eğitim_Temel_Kanunu.txt",
     "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1739&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "4857",
+    "ad": "İş Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "22/5/2003",
+    "dosya": "4857_İş_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4857&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "657",
+    "ad": "Devlet Memurları Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "14/7/1965",
+    "dosya": "657_Devlet_Memurları_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=657&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "5510",
+    "ad": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "31/5/2006",
+    "dosya": "5510_Sosyal_Sigortalar_ve_Genel_Sağlık_Sigortası_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5510&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "3359",
+    "ad": "Sağlık Hizmetleri Temel Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "7/5/1987",
+    "dosya": "3359_Sağlık_Hizmetleri_Temel_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3359&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "4505",
+    "ad": "Sosyal Güvenlikle İlgili Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+    "tur": "Kanun",
+    "kabulTarihi": "29/4/1999",
+    "dosya": "4505_Sosyal_Güvenlikle_İlgili_Bazı_Kanunlarda_Değişiklik_Yapılması_Hakkında_Kanun.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4505&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "631",
+    "ad": "Memurlar ve Diğer Kamu Görevlilerinin Mali ve Sosyal Haklarında Düzenlemeler İle Bazı Kanun ve KHK",
+    "tur": "KHK",
+    "kabulTarihi": "",
+    "dosya": "631_Memurlar_ve_Diğer_Kamu_Görevlilerinin_Mali_ve_Sosyal_Haklarında_Düzenlemeler_İle.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=631&MevzuatTur=4&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "375",
+    "ad": "Kanun Hükmünde Kararname (375)",
+    "tur": "KHK",
+    "kabulTarihi": "",
+    "dosya": "375_Kanun_Hükmünde_Kararname_375.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=375&MevzuatTur=4&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "5393",
+    "ad": "Belediye Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "5393_Belediye_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5393&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "926",
+    "ad": "Türk Silahlı Kuvvetleri Personel Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "926_Türk_Silahlı_Kuvvetleri_Personel_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=926&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "2802",
+    "ad": "Hakimler ve Savcılar Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "2802_Hakimler_ve_Savcılar_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2802&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "4734",
+    "ad": "Kamu İhale Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "4734_Kamu_İhale_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4734&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "5302",
+    "ad": "İl Özel İdaresi Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "5302_İl_Özel_İdaresi_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5302&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "506",
+    "ad": "Sosyal Sigortalar Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "506_Sosyal_Sigortalar_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=506&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "3713",
+    "ad": "Terörle Mücadele Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "3713_Terörle_Mücadele_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3713&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "5237",
+    "ad": "Türk Ceza Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "5237_Türk_Ceza_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5237&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "3466",
+    "ad": "Uzman Jandarma Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "3466_Uzman_Jandarma_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3466&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "5216",
+    "ad": "Büyükşehir Belediyesi Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "5216_Büyükşehir_Belediyesi_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5216&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "233",
+    "ad": "Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararname",
+    "tur": "KHK",
+    "kabulTarihi": "",
+    "dosya": "233_Kamu_İktisadi_Teşebbüsleri_Hakkında_Kanun_Hükmünde_Kararname.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=233&MevzuatTur=4&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "3213",
+    "ad": "Maden Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "3213_Maden_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3213&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "4735",
+    "ad": "Kamu İhale Sözleşmeleri Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "4735_Kamu_İhale_Sözleşmeleri_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4735&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "6356",
+    "ad": "Sendikalar ve Toplu İş Sözleşmesi Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "6356_Sendikalar_ve_Toplu_İş_Sözleşmesi_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6356&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "399",
+    "ad": "Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi Hakkında KHK",
+    "tur": "KHK",
+    "kabulTarihi": "",
+    "dosya": "399_Kamu_İktisadi_Teşebbüsleri_Personel_Rejiminin_Düzenlenmesi_Hakkında_KHK.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=399&MevzuatTur=4&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "4688",
+    "ad": "Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "4688_Kamu_Görevlileri_Sendikaları_ve_Toplu_Sözleşme_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4688&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "6331",
+    "ad": "İş Sağlığı ve Güvenliği Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "6331_İş_Sağlığı_ve_Güvenliği_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6331&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "6698",
+    "ad": "Kişisel Verilerin Korunması Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "6698_Kişisel_Verilerin_Korunması_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "4483",
+    "ad": "Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "4483_Memurlar_ve_Diğer_Kamu_Görevlilerinin_Yargılanması_Hakkında_Kanun.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4483&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "2886",
+    "ad": "Devlet İhale Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "2886_Devlet_İhale_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2886&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "3308",
+    "ad": "Mesleki Eğitim Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "3308_Mesleki_Eğitim_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3308&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "5411",
+    "ad": "Bankacılık Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "5411_Bankacılık_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5411&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "1136",
+    "ad": "Avukatlık Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "1136_Avukatlık_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1136&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "4721",
+    "ad": "Türk Medeni Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "4721_Türk_Medeni_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "663",
+    "ad": "Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararname",
+    "tur": "KHK",
+    "kabulTarihi": "",
+    "dosya": "663_Sağlık_Alanında_Bazı_Düzenlemeler_Hakkında_Kanun_Hükmünde_Kararname.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=663&MevzuatTur=4&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "5326",
+    "ad": "Kabahatler Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "5326_Kabahatler_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5326&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "mevzuatNo": "6245",
+    "ad": "Harcırah Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "6245_Harcırah_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6245&MevzuatTur=1&MevzuatTertip=3"
+  },
+  {
+    "mevzuatNo": "5434",
+    "ad": "Türkiye Cumhuriyeti Emekli Sandığı Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "5434_Türkiye_Cumhuriyeti_Emekli_Sandığı_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5434&MevzuatTur=1&MevzuatTertip=3"
+  },
+  {
+    "mevzuatNo": "1416",
+    "ad": "Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "1416_Ecnebi_Memleketlere_Gönderilecek_Talebe_Hakkında_Kanun.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1416&MevzuatTur=1&MevzuatTertip=3"
+  },
+  {
+    "mevzuatNo": "7201",
+    "ad": "Tebligat Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "7201_Tebligat_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7201&MevzuatTur=1&MevzuatTertip=3"
+  },
+  {
+    "mevzuatNo": "193",
+    "ad": "Gelir Vergisi Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "193_Gelir_Vergisi_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=193&MevzuatTur=1&MevzuatTertip=4"
+  },
+  {
+    "mevzuatNo": "6283",
+    "ad": "Hemşirelik Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "6283_Hemşirelik_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6283&MevzuatTur=1&MevzuatTertip=3"
+  },
+  {
+    "mevzuatNo": "6197",
+    "ad": "Eczacılar ve Eczaneler Hakkında Kanun",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "6197_Eczacılar_ve_Eczaneler_Hakkında_Kanun.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6197&MevzuatTur=1&MevzuatTertip=3"
+  },
+  {
+    "mevzuatNo": "2004",
+    "ad": "İcra ve İflas Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "2004_İcra_ve_İflas_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2004&MevzuatTur=1&MevzuatTertip=3"
+  },
+  {
+    "mevzuatNo": "6762",
+    "ad": "Türk Ticaret Kanunu (Mülga)",
+    "tur": "Kanun(Mülga)",
+    "kabulTarihi": "",
+    "dosya": "6762_Türk_Ticaret_Kanunu_Mülga.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6762&MevzuatTur=5&MevzuatTertip=3"
+  },
+  {
+    "mevzuatNo": "6102",
+    "ad": "Türk Ticaret Kanunu",
+    "tur": "Kanun",
+    "kabulTarihi": "",
+    "dosya": "6102_Türk_Ticaret_Kanunu.txt",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5"
   }
 ]
