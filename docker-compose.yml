@@ -1,0 +1,42 @@
+services:
+
+  # ── BeeChat RAG API ────────────────────────────────────────────────────── #
+  api:
+    build: .
+    command: uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload
+    ports:
+      - "8000:8000"
+    env_file: .env
+    volumes:
+      - ./parsed:/app/parsed:ro
+      - ./parsed_external:/app/parsed_external:ro
+      - ./atiflar:/app/atiflar:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/v1/models"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # ── Open WebUI ─────────────────────────────────────────────────────────── #
+  webui:
+    image: ghcr.io/open-webui/open-webui:main
+    ports:
+      - "3000:8080"
+    environment:
+      # BeeChat API'yi OpenAI-compatible backend olarak göster
+      - OPENAI_API_BASE_URL=http://api:8000/v1
+      - OPENAI_API_KEY=dummy          # Open WebUI key zorunlu tutuyor, değer önemli değil
+      - WEBUI_AUTH=false              # Auth kapalı (herkese açık)
+      - WEBUI_NAME=BeeChat — İTÜ Mevzuat Asistanı
+      - DEFAULT_MODELS=beechat
+      - ENABLE_OLLAMA_API=false       # Ollama yok, sadece OpenAI-compatible
+    volumes:
+      - webui_data:/app/backend/data
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  webui_data:

@@ -11,4 +11,5 @@ COPY . .
 
 EXPOSE 8000
 
+# Chainlit (standalone) veya FastAPI (docker-compose) — compose CMD override eder
 CMD ["chainlit", "run", "app.py", "--host", "0.0.0.0", "--port", "8000"]
