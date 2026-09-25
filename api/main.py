@@ -18,6 +18,7 @@ from pydantic import BaseModel
 
 from rag.pipeline  import RAGPipeline
 from rag.situation import DurumAnalizoru
+from rag import llm as rag_llm
 
 app = FastAPI(title="BeeChat API", version="1.0.0")
 
@@ -148,15 +149,9 @@ async def _stream(soru: str, analiz_modu: bool) -> AsyncIterator[str]:
             system   = rag.cfg.system_prompt
             user_msg = f"Kaynaklar:\n{context}\n\nSoru: {soru}"
 
-        client = anthropic.Anthropic()
-        with client.messages.stream(
-            model=get_rag().cfg.claude_model,
-            max_tokens=get_rag().cfg.max_tokens,
-            system=system,
-            messages=[{"role": "user", "content": user_msg}],
-        ) as stream:
-            for text in stream.text_stream:
-                yield chunk(text)
+        cfg = get_rag().cfg
+        for text in rag_llm.stream(system, user_msg, cfg.claude_model, cfg.max_tokens):
+            yield chunk(text)
 
         yield chunk("", finish="stop")
         yield "data: [DONE]\n\n"
@@ -171,13 +166,9 @@ async def _stream(soru: str, analiz_modu: bool) -> AsyncIterator[str]:
 
 async def _complete(soru: str, analiz_modu: bool) -> dict:
     if analiz_modu:
-        analizor = get_analiz()
-        sonuc    = analizor.analiz_et(soru)
-        content  = sonuc.ham_analiz
+        content = get_analiz().analiz_et(soru).ham_analiz
     else:
-        rag    = get_rag()
-        result = rag.query(soru)
-        content = result.answer
+        content = get_rag().query(soru).answer
 
     return {
         "id":      f"chatcmpl-{uuid.uuid4().hex[:12]}",

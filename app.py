@@ -99,20 +99,13 @@ async def _handle_rag(soru: str):
     context  = _build_context(chunks)
     user_msg = f"Kaynaklar:\n{context}\n\nSoru: {soru}"
 
-    import anthropic
-    client = anthropic.Anthropic()
-    full   = []
-
-    with client.messages.stream(
-        model=rag.cfg.claude_model,
-        max_tokens=rag.cfg.max_tokens,
-        system=rag.cfg.system_prompt,
-        messages=[{"role": "user", "content": user_msg}],
-    ) as stream:
-        for text in stream.text_stream:
-            full.append(text)
-            msg.content = "".join(full)
-            await msg.update()
+    from rag import llm
+    full = []
+    for text in llm.stream(rag.cfg.system_prompt, user_msg,
+                            rag.cfg.claude_model, rag.cfg.max_tokens):
+        full.append(text)
+        msg.content = "".join(full)
+        await msg.update()
 
     msg.content  = "".join(full)
     msg.elements = source_elements
@@ -144,31 +137,24 @@ async def _handle_analiz(durum: str):
     await step_msg.update()
 
     from rag.situation import _ANALYSIS_SYSTEM, _ANALYSIS_USER
-    import anthropic
+    from rag import llm
 
-    client   = anthropic.Anthropic()
     user_msg = _ANALYSIS_USER.format(
         ham_giris=durum,
         faktler=analizor._faktler_str(faktler),
         kaynaklar=analizor._build_source_text(kaynaklar),
     )
 
-    # Adım mesajını gizle, yanıt mesajını aç
     await step_msg.remove()
     msg  = cl.Message(content="", author="BeeChat")
     await msg.send()
     full = []
 
-    with client.messages.stream(
-        model=analizor.cfg.claude_model,
-        max_tokens=analizor.cfg.max_tokens,
-        system=_ANALYSIS_SYSTEM,
-        messages=[{"role": "user", "content": user_msg}],
-    ) as stream:
-        for text in stream.text_stream:
-            full.append(text)
-            msg.content = "".join(full)
-            await msg.update()
+    for text in llm.stream(_ANALYSIS_SYSTEM, user_msg,
+                            analizor.cfg.claude_model, analizor.cfg.max_tokens):
+        full.append(text)
+        msg.content = "".join(full)
+        await msg.update()
 
     msg.content  = "".join(full)
     msg.elements = _build_source_elements(kaynaklar)

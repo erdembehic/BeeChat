@@ -8,9 +8,8 @@ import json
 from dataclasses import dataclass, field
 from typing import Optional
 
-import anthropic
-
 from .config import Config, cfg as default_cfg
+from . import llm
 from .retriever import Retriever
 from .models import RetrievedChunk
 
@@ -113,20 +112,22 @@ class DurumAnalizoru:
     def __init__(self, cfg: Config = default_cfg):
         self.cfg = cfg
         self.retriever = Retriever(cfg)
-        self.client = anthropic.Anthropic()
+        pass  # llm modülü üzerinden çalışır
 
     # ── 1. Fact extraction ─────────────────────────────────────────────── #
 
     def _fact_extraction(self, metin: str) -> OgrenciFaktleri:
-        response = self.client.messages.create(
-            model=self.cfg.claude_model,
+        response_text = llm.complete(
+            system="",
+            user=_FACT_EXTRACTION_PROMPT.format(metin=metin),
+            cfg_model=self.cfg.claude_model,
             max_tokens=512,
-            messages=[{
-                "role": "user",
-                "content": _FACT_EXTRACTION_PROMPT.format(metin=metin),
-            }],
         )
-        raw = response.content[0].text.strip()
+        # Geçici wrapper — aşağıdaki json parse için
+        class _R:
+            def __init__(self, t): self.content = [type("C", (), {"text": t})()]
+        response = _R(response_text)
+        raw = response_text.strip()
         # JSON bloğu içindeyse çıkar
         if "```" in raw:
             raw = raw.split("```")[1]
@@ -260,25 +261,15 @@ class DurumAnalizoru:
 
         if stream:
             parts = []
-            with self.client.messages.stream(
-                model=self.cfg.claude_model,
-                max_tokens=self.cfg.max_tokens,
-                system=_ANALYSIS_SYSTEM,
-                messages=[{"role": "user", "content": user_msg}],
-            ) as s:
-                for text in s.text_stream:
-                    print(text, end="", flush=True)
-                    parts.append(text)
+            for text in llm.stream(_ANALYSIS_SYSTEM, user_msg,
+                                   self.cfg.claude_model, self.cfg.max_tokens):
+                print(text, end="", flush=True)
+                parts.append(text)
             print()
             ham_analiz = "".join(parts)
         else:
-            response = self.client.messages.create(
-                model=self.cfg.claude_model,
-                max_tokens=self.cfg.max_tokens,
-                system=_ANALYSIS_SYSTEM,
-                messages=[{"role": "user", "content": user_msg}],
-            )
-            ham_analiz = response.content[0].text
+            ham_analiz = llm.complete(_ANALYSIS_SYSTEM, user_msg,
+                                      self.cfg.claude_model, self.cfg.max_tokens)
 
         # Basit bölüm ayrıştırma
         def _bolum(baslik: str) -> str:
