@@ -4,9 +4,9 @@ from chainlit.input_widget import Select
 
 from rag.pipeline  import RAGPipeline
 from rag.situation import DurumAnalizoru
+from rag           import llm
 
-# Singleton'lar — uygulama başladığında bir kez yükle
-_rag:    RAGPipeline   | None = None
+_rag:    RAGPipeline    | None = None
 _analiz: DurumAnalizoru | None = None
 
 
@@ -24,7 +24,7 @@ def get_analiz() -> DurumAnalizoru:
     return _analiz
 
 
-# ── Oturum başlangıcı ─────────────────────────────────────────────────── #
+# ── Oturum başlangıcı ─────────────────────────────────────────────────────── #
 
 @cl.on_chat_start
 async def start():
@@ -60,14 +60,13 @@ async def settings_update(settings: dict):
     cl.user_session.set("mod", settings["mod"])
 
 
-# ── Mesaj işleme ──────────────────────────────────────────────────────── #
+# ── Mesaj işleme ──────────────────────────────────────────────────────────── #
 
 @cl.on_message
 async def main(message: cl.Message):
     soru = message.content.strip()
     mod  = cl.user_session.get("mod", "Mevzuat Arama")
 
-    # "durum:" prefix de analiz modunu tetikler
     if soru.lower().startswith("durum:"):
         soru = soru[6:].strip()
         mod  = "Durum Analizi"
@@ -78,66 +77,59 @@ async def main(message: cl.Message):
         await _handle_rag(soru)
 
 
-# ── RAG sorgusu ───────────────────────────────────────────────────────── #
+# ── RAG sorgusu ───────────────────────────────────────────────────────────── #
 
 async def _handle_rag(soru: str):
-    msg = cl.Message(content="", author="BeeChat")
-    await msg.send()
+    rag = get_rag()
 
-    rag    = get_rag()
-    chunks = rag.retriever.retrieve(soru)
+    async with cl.Step(name="Retrieval", type="retrieval") as step:
+        chunks = rag.retriever.retrieve(soru)
+        step.output = f"{len(chunks)} madde bulundu"
 
     if not chunks:
-        msg.content = "İlgili mevzuat bulunamadı."
-        await msg.update()
+        await cl.Message(content="İlgili mevzuat bulunamadı.", author="BeeChat").send()
         return
 
-    # Kaynakları Chainlit element olarak hazırla
-    source_elements = _build_source_elements(chunks)
-
-    # Streaming yanıt
     context  = _build_context(chunks)
     user_msg = f"Kaynaklar:\n{context}\n\nSoru: {soru}"
 
-    from rag import llm
-    full = []
-    for text in llm.stream(rag.cfg.system_prompt, user_msg,
-                            rag.cfg.claude_model, rag.cfg.max_tokens):
-        full.append(text)
-        msg.content = "".join(full)
-        await msg.update()
+    msg = cl.Message(content="", author="BeeChat")
+    await msg.send()
 
-    msg.content  = "".join(full)
-    msg.elements = source_elements
+    full: list[str] = []
+    for token, kind in llm.stream(rag.cfg.system_prompt, user_msg,
+                                  rag.cfg.claude_model, rag.cfg.max_tokens):
+        if kind == "thinking":
+            # thinking tokenları ayrı step'te göster
+            pass   # biriktirilir, aşağıda thinking step açılır
+        else:
+            full.append(token)
+            msg.content = "".join(full)
+            await msg.update()
+
+    msg.elements = _build_source_elements(chunks)
     await msg.update()
 
 
-# ── Durum analizi ─────────────────────────────────────────────────────── #
+# ── Durum analizi ─────────────────────────────────────────────────────────── #
 
 async def _handle_analiz(durum: str):
-    # Adım adım ilerleme göster
-    step_msg = cl.Message(content="⏳ Durum analiz ediliyor…", author="BeeChat")
-    await step_msg.send()
-
     analizor = get_analiz()
 
-    # Fact extraction
-    step_msg.content = "🔍 Bilgiler çıkarılıyor…"
-    await step_msg.update()
-    faktler = analizor._fact_extraction(durum)
+    # Adım 1: Fact extraction
+    async with cl.Step(name="Bilgi çıkarma", type="tool") as step:
+        faktler = analizor._fact_extraction(durum)
+        step.output = analizor._faktler_str(faktler)
 
-    # Retrieval
-    step_msg.content = "📚 İlgili mevzuat aranıyor…"
-    await step_msg.update()
-    queries  = analizor._queries_from_facts(faktler)
-    kaynaklar = analizor._multi_retrieve(queries)
+    # Adım 2: Query generation + retrieval
+    async with cl.Step(name="Mevzuat arama", type="retrieval") as step:
+        queries   = analizor._queries_from_facts(faktler)
+        kaynaklar = analizor._multi_retrieve(queries)
+        step.input  = "\n".join(f"• {q}" for q in queries)
+        step.output = f"{len(kaynaklar)} ilgili madde bulundu"
 
-    # Analiz (streaming)
-    step_msg.content = "✍️ Analiz hazırlanıyor…"
-    await step_msg.update()
-
+    # Adım 3: Analiz (streaming) — thinking varsa ayrı step
     from rag.situation import _ANALYSIS_SYSTEM, _ANALYSIS_USER
-    from rag import llm
 
     user_msg = _ANALYSIS_USER.format(
         ham_giris=durum,
@@ -145,23 +137,42 @@ async def _handle_analiz(durum: str):
         kaynaklar=analizor._build_source_text(kaynaklar),
     )
 
-    await step_msg.remove()
-    msg  = cl.Message(content="", author="BeeChat")
+    # Thinking tokenlarını ve yanıt tokenlarını ayır
+    thinking_parts: list[str] = []
+    answer_parts:   list[str] = []
+
+    msg = cl.Message(content="", author="BeeChat")
     await msg.send()
-    full = []
 
-    for text in llm.stream(_ANALYSIS_SYSTEM, user_msg,
-                            analizor.cfg.claude_model, analizor.cfg.max_tokens):
-        full.append(text)
-        msg.content = "".join(full)
-        await msg.update()
+    thinking_step: cl.Step | None = None
 
-    msg.content  = "".join(full)
+    for token, kind in llm.stream(_ANALYSIS_SYSTEM, user_msg,
+                                  analizor.cfg.claude_model, analizor.cfg.max_tokens):
+        if kind == "thinking":
+            thinking_parts.append(token)
+            if thinking_step is None:
+                thinking_step = cl.Step(name="Düşünce süreci", type="llm")
+                await thinking_step.__aenter__()
+        else:
+            # thinking bitti, step'i kapat
+            if thinking_step is not None:
+                thinking_step.output = "".join(thinking_parts)
+                await thinking_step.__aexit__(None, None, None)
+                thinking_step = None
+
+            answer_parts.append(token)
+            msg.content = "".join(answer_parts)
+            await msg.update()
+
+    if thinking_step is not None:
+        thinking_step.output = "".join(thinking_parts)
+        await thinking_step.__aexit__(None, None, None)
+
     msg.elements = _build_source_elements(kaynaklar)
     await msg.update()
 
 
-# ── Yardımcılar ───────────────────────────────────────────────────────── #
+# ── Yardımcılar ───────────────────────────────────────────────────────────── #
 
 def _build_context(chunks) -> str:
     parts = []

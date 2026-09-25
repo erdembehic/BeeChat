@@ -117,17 +117,13 @@ class DurumAnalizoru:
     # ── 1. Fact extraction ─────────────────────────────────────────────── #
 
     def _fact_extraction(self, metin: str) -> OgrenciFaktleri:
-        response_text = llm.complete(
+        response = llm.complete(
             system="",
             user=_FACT_EXTRACTION_PROMPT.format(metin=metin),
             cfg_model=self.cfg.claude_model,
             max_tokens=512,
         )
-        # Geçici wrapper — aşağıdaki json parse için
-        class _R:
-            def __init__(self, t): self.content = [type("C", (), {"text": t})()]
-        response = _R(response_text)
-        raw = response_text.strip()
+        raw = response.text.strip()
         # JSON bloğu içindeyse çıkar
         if "```" in raw:
             raw = raw.split("```")[1]
@@ -261,15 +257,16 @@ class DurumAnalizoru:
 
         if stream:
             parts = []
-            for text in llm.stream(_ANALYSIS_SYSTEM, user_msg,
-                                   self.cfg.claude_model, self.cfg.max_tokens):
-                print(text, end="", flush=True)
-                parts.append(text)
+            for text, kind in llm.stream(_ANALYSIS_SYSTEM, user_msg,
+                                         self.cfg.claude_model, self.cfg.max_tokens):
+                if kind == "text":
+                    print(text, end="", flush=True)
+                    parts.append(text)
             print()
             ham_analiz = "".join(parts)
         else:
             ham_analiz = llm.complete(_ANALYSIS_SYSTEM, user_msg,
-                                      self.cfg.claude_model, self.cfg.max_tokens)
+                                      self.cfg.claude_model, self.cfg.max_tokens).text
 
         # Basit bölüm ayrıştırma
         def _bolum(baslik: str) -> str:

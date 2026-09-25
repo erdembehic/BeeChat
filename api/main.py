@@ -150,8 +150,9 @@ async def _stream(soru: str, analiz_modu: bool) -> AsyncIterator[str]:
             user_msg = f"Kaynaklar:\n{context}\n\nSoru: {soru}"
 
         cfg = get_rag().cfg
-        for text in rag_llm.stream(system, user_msg, cfg.claude_model, cfg.max_tokens):
-            yield chunk(text)
+        for text, kind in rag_llm.stream(system, user_msg, cfg.claude_model, cfg.max_tokens):
+            if kind == "text":
+                yield chunk(text)
 
         yield chunk("", finish="stop")
         yield "data: [DONE]\n\n"

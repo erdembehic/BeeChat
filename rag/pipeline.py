@@ -31,15 +31,16 @@ class RAGPipeline:
 
         if stream:
             parts = []
-            for text in llm.stream(self.cfg.system_prompt, user_msg,
-                                   self.cfg.claude_model, self.cfg.max_tokens):
-                print(text, end="", flush=True)
-                parts.append(text)
+            for text, kind in llm.stream(self.cfg.system_prompt, user_msg,
+                                         self.cfg.claude_model, self.cfg.max_tokens):
+                if kind == "text":
+                    print(text, end="", flush=True)
+                    parts.append(text)
             print()
             answer = "".join(parts)
         else:
             answer = llm.complete(self.cfg.system_prompt, user_msg,
-                                  self.cfg.claude_model, self.cfg.max_tokens)
+                                  self.cfg.claude_model, self.cfg.max_tokens).text
 
         return RAGResult(answer=answer, chunks=chunks, query=soru)
 
